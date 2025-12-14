@@ -1,0 +1,5526 @@
+{
+  "total_mentions": 581,
+  "all_mentions": [
+    {
+      "character": "Achilles",
+      "form": "*)axilh=os",
+      "line_num": "",
+      "line": "mh=nin a)/eide qea\\ *phlhi+a/dew *)axilh=os",
+      "context": "mh=nin a)/eide qea\\ *phlhi+a/dew *)axilh=os",
+      "epithets": []
+    },
+    {
+      "character": "Achilles",
+      "form": "*)axilleu/s",
+      "line_num": "",
+      "line": "*)atrei/+dhs te a)/nac a)ndrw=n kai\\ di=os *)axilleu/s.",
+      "context": "te a)/nac a)ndrw=n kai\\ di=os *)axilleu/s.",
+      "epithets": [
+        "di=os",
+        "a)/nac a)ndrw=n"
+      ]
+    },
+    {
+      "character": "Achilles",
+      "form": "*)axilleu/s",
+      "line_num": "",
+      "line": "th=| deka/th| d' a)gorh\\n de\\ kale/ssato lao\\n *)axilleu/s:",
+      "context": "d' a)gorh\\n de\\ kale/ssato lao\\n *)axilleu/s:",
+      "epithets": []
+    },
+    {
+      "character": "Achilles",
+      "form": "*)axilleu/s",
+      "line_num": "",
+      "line": "toi=si d' a)nista/menos mete/fh po/das w)ku\\s *)axilleu/s:",
+      "context": "d' a)nista/menos mete/fh po/das w)ku\\s *)axilleu/s:",
+      "epithets": []
+    },
+    {
+      "character": "Zeus",
+      "form": "*dio/s",
+      "line_num": "",
+      "line": "h)\\ kai\\ o)neiropo/lon, kai\\ ga/r t' o)/nar e)k *dio/s e)stin,",
+      "context": "kai\\ ga/r t' o)/nar e)k *dio/s e)stin,",
+      "epithets": []
+    },
+    {
+      "character": "Achilles",
+      "form": "*)axileu=",
+      "line_num": "",
+      "line": "w)= *)axileu= ke/leai/ me *dii\\+ fi/le muqh/sasqai",
+      "context": "w)= *)axileu= ke/leai/ me *dii\\+ fi/le muqh/sasqai",
+      "epithets": []
+    },
+    {
+      "character": "Achilles",
+      "form": "*)axilleu/s",
+      "line_num": "",
+      "line": "to\\n d' a)pameibo/menos prose/fh po/das w)ku\\s *)axilleu/s:",
+      "context": "d' a)pameibo/menos prose/fh po/das w)ku\\s *)axilleu/s:",
+      "epithets": []
+    },
+    {
+      "character": "Achilles",
+      "form": "*)axilleu/s",
+      "line_num": "",
+      "line": "to\\n d' h)mei/bet' e)/peita poda/rkhs di=os *)axilleu/s:",
+      "context": "d' h)mei/bet' e)/peita poda/rkhs di=os *)axilleu/s:",
+      "epithets": [
+        "poda/rkhs",
+        "di=os"
+      ]
+    },
+    {
+      "character": "Achilles",
+      "form": "*)axilleu=",
+      "line_num": "",
+      "line": "mh\\ d' ou(/tws a)gaqo/s per e)w\\n qeoei/kel' *)axilleu=",
+      "context": "ou(/tws a)gaqo/s per e)w\\n qeoei/kel' *)axilleu=",
+      "epithets": []
+    },
+    {
+      "character": "Achilles",
+      "form": "*)axilleu/s",
+      "line_num": "",
+      "line": "to\\n d' a)/r' u(po/dra i)dw\\n prose/fh po/das w)ku\\s *)axilleu/s:",
+      "context": "u(po/dra i)dw\\n prose/fh po/das w)ku\\s *)axilleu/s:",
+      "epithets": []
+    },
+    {
+      "character": "Zeus",
+      "form": "*zeu/s",
+      "line_num": "175",
+      "line": "oi(/ ke/ me timh/sousi, ma/lista de\\ mhti/eta *zeu/s.",
+      "context": "me timh/sousi, ma/lista de\\ mhti/eta *zeu/s.",
+      "epithets": []
+    },
+    {
+      "character": "Achilles",
+      "form": "*)axilleu/s",
+      "line_num": "215",
+      "line": "th\\n d' a)pameibo/menos prose/fh po/das w)ku\\s *)axilleu/s:",
+      "context": "d' a)pameibo/menos prose/fh po/das w)ku\\s *)axilleu/s:",
+      "epithets": []
+    },
+    {
+      "character": "Achilles",
+      "form": "*)axilleu/s",
+      "line_num": "",
+      "line": "to\\n d' a)/r' u(poblh/dhn h)mei/beto di=os *)axilleu/s:",
+      "context": "d' a)/r' u(poblh/dhn h)mei/beto di=os *)axilleu/s:",
+      "epithets": [
+        "di=os"
+      ]
+    },
+    {
+      "character": "Achilles",
+      "form": "*)axilh=i",
+      "line_num": "",
+      "line": "lh=g' e)/ridos th\\n prw=ton e)phpei/lhs' *)axilh=i+,",
+      "context": "lh=g' e)/ridos th\\n prw=ton e)phpei/lhs' *)axilh=i+,",
+      "epithets": []
+    },
+    {
+      "character": "Achilles",
+      "form": "*)axilh=os",
+      "line_num": "",
+      "line": "e)/rxesqon klisi/hn *phlhi+a/dew *)axilh=os:",
+      "context": "e)/rxesqon klisi/hn *phlhi+a/dew *)axilh=os:",
+      "epithets": []
+    },
+    {
+      "character": "Achilles",
+      "form": "*)axilleu/s",
+      "line_num": "330",
+      "line": "h(/menon: ou)d' a)/ra tw/ ge i)dw\\n gh/qhsen *)axilleu/s.",
+      "context": "a)/ra tw/ ge i)dw\\n gh/qhsen *)axilleu/s.",
+      "epithets": []
+    },
+    {
+      "character": "Patroclus",
+      "form": "*pa/troklos",
+      "line_num": "345",
+      "line": "w(\\s fa/to, *pa/troklos de\\ fi/lw| e)pepei/qeq' e(tai/rw|,",
+      "context": "w(\\s fa/to, *pa/troklos de\\ fi/lw| e)pepei/qeq' e(tai/rw|,",
+      "epithets": []
+    },
+    {
+      "character": "Achilles",
+      "form": "*)axilleu/s",
+      "line_num": "",
+      "line": "th\\n de\\ baru\\ stena/xwn prose/fh po/das w)ku\\s *)axilleu/s:",
+      "context": "baru\\ stena/xwn prose/fh po/das w)ku\\s *)axilleu/s:",
+      "epithets": []
+    },
+    {
+      "character": "Zeus",
+      "form": "*di/a",
+      "line_num": "",
+      "line": "e)lqou=s' *ou)/lumpon de\\ *di/a li/sai, ei)/ pote dh/ ti",
+      "context": "e)lqou=s' *ou)/lumpon de\\ *di/a li/sai, ei)/ pote dh/ ti",
+      "epithets": []
+    },
+    {
+      "character": "Achilles",
+      "form": "*)axilleu/s",
+      "line_num": "",
+      "line": "diogenh\\s *phlh=os ui(o\\s po/das w)ku\\s *)axilleu/s:",
+      "context": "diogenh\\s *phlh=os ui(o\\s po/das w)ku\\s *)axilleu/s:",
+      "epithets": []
+    },
+    {
+      "character": "Zeus",
+      "form": "*di/a",
+      "line_num": "",
+      "line": "lissome/nh prose/eipe *di/a *kroni/wna a)/nakta:",
+      "context": "lissome/nh prose/eipe *di/a *kroni/wna a)/nakta:",
+      "epithets": []
+    },
+    {
+      "character": "Zeus",
+      "form": "*zeu/s",
+      "line_num": "",
+      "line": "w(\\s fa/to: th\\n d' ou)/ ti prose/fh nefelhgere/ta *zeu/s,",
+      "context": "d' ou)/ ti prose/fh nefelhgere/ta *zeu/s,",
+      "epithets": []
+    },
+    {
+      "character": "Zeus",
+      "form": "*zeu/s",
+      "line_num": "",
+      "line": "th\\n de\\ me/g' o)xqh/sas prose/fh nefelhgere/ta *zeu/s:",
+      "context": "de\\ me/g' o)xqh/sas prose/fh nefelhgere/ta *zeu/s:",
+      "epithets": []
+    },
+    {
+      "character": "Zeus",
+      "form": "*di/a",
+      "line_num": "",
+      "line": "au)ti/ka kertomi/oisi *di/a *kroni/wna proshu/da:",
+      "context": "au)ti/ka kertomi/oisi *di/a *kroni/wna proshu/da:",
+      "epithets": []
+    },
+    {
+      "character": "Achilles",
+      "form": "*)axilh=",
+      "line_num": "",
+      "line": "th=| s' o)i/+w kataneu=sai e)th/tumon w(s *)axilh=a",
+      "context": "s' o)i/+w kataneu=sai e)th/tumon w(s *)axilh=a",
+      "epithets": []
+    },
+    {
+      "character": "Zeus",
+      "form": "*zeu/s",
+      "line_num": "560",
+      "line": "th\\n d' a)pameibo/menos prose/fh nefelhgere/ta *zeu/s:",
+      "context": "th\\n d' a)pameibo/menos prose/fh nefelhgere/ta *zeu/s:",
+      "epithets": []
+    },
+    {
+      "character": "Zeus",
+      "form": "*dii/",
+      "line_num": "",
+      "line": "patri\\ fi/lw| e)pi/hra fe/rein *dii/, o)/fra mh\\ au)=te",
+      "context": "patri\\ fi/lw| e)pi/hra fe/rein *dii/, o)/fra mh\\ au)=te",
+      "epithets": []
+    },
+    {
+      "character": "Zeus",
+      "form": "*di/a",
+      "line_num": "",
+      "line": "eu(=don pannu/xioi, *di/a d' ou)k e)/xe nh/dumos u(/pnos,",
+      "context": "eu(=don pannu/xioi, *di/a d' ou)k e)/xe nh/dumos u(/pnos,",
+      "epithets": []
+    },
+    {
+      "character": "Achilles",
+      "form": "*)axilh=",
+      "line_num": "",
+      "line": "a)ll' o(/ ge mermh/rize kata\\ fre/na w(s *)axilh=a",
+      "context": "ge mermh/rize kata\\ fre/na w(s *)axilh=a",
+      "epithets": []
+    },
+    {
+      "character": "Zeus",
+      "form": "*dio/s",
+      "line_num": "",
+      "line": "e)k *dio/s: a)lla\\ su\\ sh=|sin e)/xe fresi/, mhde/ se lh/qh",
+      "context": "e)k *dio/s: a)lla\\ su\\ sh=|sin e)/xe fresi/,",
+      "epithets": []
+    },
+    {
+      "character": "Zeus",
+      "form": "*dio/s",
+      "line_num": "70",
+      "line": "e)k *dio/s: a)lla\\ su\\ sh=|sin e)/xe fresi/n: w(\\s o(\\ me\\n ei)pw\\n",
+      "context": "e)k *dio/s: a)lla\\ su\\ sh=|sin e)/xe fresi/n:",
+      "epithets": []
+    },
+    {
+      "character": "Zeus",
+      "form": "*zeu/s",
+      "line_num": "",
+      "line": "*zeu/s me me/ga *kroni/dhs a)/th| e)ne/dhse barei/h|,",
+      "context": "*zeu/s me me/ga *kroni/dhs a)/th| e)ne/dhse",
+      "epithets": []
+    },
+    {
+      "character": "Zeus",
+      "form": "*zeu/s",
+      "line_num": "",
+      "line": "timh\\ d' e)k *dio/s e)sti, filei= de/ e( mhti/eta *zeu/s.",
+      "context": "e)sti, filei= de/ e( mhti/eta *zeu/s.",
+      "epithets": []
+    },
+    {
+      "character": "Achilles",
+      "form": "*)axilh=i",
+      "line_num": "220",
+      "line": "e)/xqistos d' *)axilh=i+ ma/list' h)=n h)d' *)odush=i+:",
+      "context": "e)/xqistos d' *)axilh=i+ ma/list' h)=n h)d' *)odush=i+:",
+      "epithets": []
+    },
+    {
+      "character": "Achilles",
+      "form": "*)axilh=",
+      "line_num": "",
+      "line": "o(\\s kai\\ nu=n *)axilh=a e(/o me/g' a)mei/nona fw=ta",
+      "context": "o(\\s kai\\ nu=n *)axilh=a e(/o me/g' a)mei/nona fw=ta",
+      "epithets": []
+    },
+    {
+      "character": "Achilles",
+      "form": "*)axilh=i",
+      "line_num": "",
+      "line": "a)lla\\ ma/l' ou)k *)axilh=i+ xo/los fresi/n, a)lla\\ meqh/mwn:",
+      "context": "a)lla\\ ma/l' ou)k *)axilh=i+ xo/los fresi/n, a)lla\\ meqh/mwn:",
+      "epithets": []
+    },
+    {
+      "character": "Zeus",
+      "form": "*dio/s",
+      "line_num": "",
+      "line": "e)k *dio/s, o(/s te qeoi=si kai\\ a)nqrw/poisin a)na/ssei,",
+      "context": "e)k *dio/s, o(/s te qeoi=si kai\\ a)nqrw/poisin",
+      "epithets": []
+    },
+    {
+      "character": "Achilles",
+      "form": "*)axilleu/s",
+      "line_num": "685",
+      "line": "tw=n au)= penth/konta new=n h)=n a)rxo\\s *)axilleu/s.",
+      "context": "au)= penth/konta new=n h)=n a)rxo\\s *)axilleu/s.",
+      "epithets": []
+    },
+    {
+      "character": "Zeus",
+      "form": "*zeu/s",
+      "line_num": "",
+      "line": "ui(o\\s *peiriqo/oio to\\n a)qa/natos te/keto *zeu/s:",
+      "context": "ui(o\\s *peiriqo/oio to\\n a)qa/natos te/keto *zeu/s:",
+      "epithets": []
+    },
+    {
+      "character": "Hector",
+      "form": "*(/ektwr",
+      "line_num": "",
+      "line": "w(\\s e)/faq', *(/ektwr d' ou)/ ti qea=s e)/pos h)gnoi/hsen,",
+      "context": "w(\\s e)/faq', *(/ektwr d' ou)/ ti qea=s e)/pos",
+      "epithets": []
+    },
+    {
+      "character": "Hector",
+      "form": "*(/ektwr",
+      "line_num": "",
+      "line": "*trwsi\\ me\\n h(gemo/neue me/gas koruqai/olos *(/ektwr",
+      "context": "*trwsi\\ me\\n h(gemo/neue me/gas koruqai/olos *(/ektwr",
+      "epithets": [
+        "koruqai/olos"
+      ]
+    },
+    {
+      "character": "Hector",
+      "form": "*(/ektwr",
+      "line_num": "",
+      "line": "to\\n d' *(/ektwr nei/kessen i)dw\\n ai)sxroi=s e)pe/essin:",
+      "context": "to\\n d' *(/ektwr nei/kessen i)dw\\n ai)sxroi=s e)pe/essin:",
+      "epithets": []
+    },
+    {
+      "character": "Hector",
+      "form": "*(/ektwr",
+      "line_num": "",
+      "line": "w(\\s e)/faq', *(/ektwr d' au)=t' e)xa/rh me/ga mu=qon a)kou/sas,",
+      "context": "w(\\s e)/faq', *(/ektwr d' au)=t' e)xa/rh me/ga mu=qon",
+      "epithets": []
+    },
+    {
+      "character": "Hector",
+      "form": "*(/ektwr",
+      "line_num": "",
+      "line": "steu=tai ga/r ti e)/pos e)re/ein koruqai/olos *(/ektwr.",
+      "context": "ga/r ti e)/pos e)re/ein koruqai/olos *(/ektwr.",
+      "epithets": [
+        "koruqai/olos"
+      ]
+    },
+    {
+      "character": "Hector",
+      "form": "*(/ektwr",
+      "line_num": "85",
+      "line": "e)ssume/nws: *(/ektwr de\\ met' a)mfote/roisin e)/eipe:",
+      "context": "e)ssume/nws: *(/ektwr de\\ met' a)mfote/roisin e)/eipe:",
+      "epithets": []
+    },
+    {
+      "character": "Hector",
+      "form": "*(/ektwr",
+      "line_num": "",
+      "line": "*(/ektwr de\\ proti\\ a)/stu du/w kh/rukas e)/pempe",
+      "context": "*(/ektwr de\\ proti\\ a)/stu du/w kh/rukas",
+      "epithets": []
+    },
+    {
+      "character": "Hector",
+      "form": "*(/ektwr",
+      "line_num": "",
+      "line": "*(/ektwr de\\ *pria/moio pa/i+s kai\\ di=os *)odusseu\\s",
+      "context": "*(/ektwr de\\ *pria/moio pa/i+s kai\\ di=os",
+      "epithets": [
+        "di=os"
+      ]
+    },
+    {
+      "character": "Hector",
+      "form": "*(/ektwr",
+      "line_num": "",
+      "line": "w(\\s a)/r' e)/fan, pa/llen de\\ me/gas koruqai/olos *(/ektwr",
+      "context": "e)/fan, pa/llen de\\ me/gas koruqai/olos *(/ektwr",
+      "epithets": [
+        "koruqai/olos"
+      ]
+    },
+    {
+      "character": "Zeus",
+      "form": "*zeu/s",
+      "line_num": "30",
+      "line": "th\\n de\\ me/g' o)xqh/sas prose/fh nefelhgere/ta *zeu/s:",
+      "context": "de\\ me/g' o)xqh/sas prose/fh nefelhgere/ta *zeu/s:",
+      "epithets": []
+    },
+    {
+      "character": "Zeus",
+      "form": "*zeu/s",
+      "line_num": "",
+      "line": "*zeu/s, o(/s t' a)nqrw/pwn tami/hs pole/moio te/tuktai.",
+      "context": "*zeu/s, o(/s t' a)nqrw/pwn tami/hs pole/moio",
+      "epithets": []
+    },
+    {
+      "character": "Hector",
+      "form": "*(/ektwr",
+      "line_num": "505",
+      "line": "xw/rhsan d' u(po/ te pro/maxoi kai\\ fai/dimos *(/ektwr:",
+      "context": "u(po/ te pro/maxoi kai\\ fai/dimos *(/ektwr:",
+      "epithets": []
+    },
+    {
+      "character": "Zeus",
+      "form": "*di/a",
+      "line_num": "",
+      "line": "kertomi/ois e)pe/essi *di/a *kroni/dhn e)re/qizon.",
+      "context": "kertomi/ois e)pe/essi *di/a *kroni/dhn e)re/qizon.",
+      "epithets": []
+    },
+    {
+      "character": "Hector",
+      "form": "*(/ektwr",
+      "line_num": "590",
+      "line": "tou\\s d' *(/ektwr e)no/hse kata\\ sti/xas, w)=rto d' e)p' au)tou\\s",
+      "context": "tou\\s d' *(/ektwr e)no/hse kata\\ sti/xas, w)=rto d'",
+      "epithets": []
+    },
+    {
+      "character": "Hector",
+      "form": "*(/ektwr",
+      "line_num": "",
+      "line": "e)/nq' *(/ektwr du/o fw=te kate/ktanen ei)do/te xa/rmhs",
+      "context": "e)/nq' *(/ektwr du/o fw=te kate/ktanen ei)do/te xa/rmhs",
+      "epithets": []
+    },
+    {
+      "character": "Hector",
+      "form": "*(/ektwr",
+      "line_num": "680",
+      "line": "ei) mh\\ a)/r' o)cu\\ no/hse me/gas koruqai/olos *(/ektwr:",
+      "context": "a)/r' o)cu\\ no/hse me/gas koruqai/olos *(/ektwr:",
+      "epithets": [
+        "koruqai/olos"
+      ]
+    },
+    {
+      "character": "Hector",
+      "form": "*(/ektwr",
+      "line_num": "",
+      "line": "w(\\s fa/to, to\\n d' ou)/ ti prose/fh koruqai/olos *(/ektwr,",
+      "context": "d' ou)/ ti prose/fh koruqai/olos *(/ektwr,",
+      "epithets": [
+        "koruqai/olos"
+      ]
+    },
+    {
+      "character": "Hector",
+      "form": "*(/ektwr",
+      "line_num": "",
+      "line": "*(/ektwr te *pria/moio pa/i+s kai\\ xa/lkeos *)/arhs;",
+      "context": "*(/ektwr te *pria/moio pa/i+s kai\\ xa/lkeos",
+      "epithets": []
+    },
+    {
+      "character": "Zeus",
+      "form": "*zeu/s",
+      "line_num": "",
+      "line": "th\\n d' a)pameibo/menos prose/fh nefelhgere/ta *zeu/s:",
+      "context": "th\\n d' a)pameibo/menos prose/fh nefelhgere/ta *zeu/s:",
+      "epithets": []
+    },
+    {
+      "character": "Achilles",
+      "form": "*)axilleu/s",
+      "line_num": "",
+      "line": "o)/fra me\\n e)s po/lemon pwle/sketo di=os *)axilleu/s,",
+      "context": "me\\n e)s po/lemon pwle/sketo di=os *)axilleu/s,",
+      "epithets": [
+        "di=os"
+      ]
+    },
+    {
+      "character": "Zeus",
+      "form": "*zeu/s",
+      "line_num": "",
+      "line": "to\\n d' a)/r' u(po/dra i)dw\\n prose/fh nefelhgere/ta *zeu/s.",
+      "context": "a)/r' u(po/dra i)dw\\n prose/fh nefelhgere/ta *zeu/s.",
+      "epithets": []
+    },
+    {
+      "character": "Achilles",
+      "form": "*)axilh=",
+      "line_num": "",
+      "line": "ou)d' *)axilh=a/ poq' w(=de/ g' e)dei/dimen o)/rxamon a)ndrw=n,",
+      "context": "ou)d' *)axilh=a/ poq' w(=de/ g' e)dei/dimen o)/rxamon",
+      "epithets": []
+    },
+    {
+      "character": "Hector",
+      "form": "*(/ektwr",
+      "line_num": "",
+      "line": "w(\\s e)/faq', *(/ektwr d' ou)/ ti kasignh/tw| a)pi/qhsen.",
+      "context": "w(\\s e)/faq', *(/ektwr d' ou)/ ti kasignh/tw| a)pi/qhsen.",
+      "epithets": []
+    },
+    {
+      "character": "Hector",
+      "form": "*(/ektwr",
+      "line_num": "110",
+      "line": "*(/ektwr de\\ *trw/essin e)ke/kleto makro\\n a)u/+sas:",
+      "context": "*(/ektwr de\\ *trw/essin e)ke/kleto makro\\n a)u/+sas:",
+      "epithets": []
+    },
+    {
+      "character": "Hector",
+      "form": "*(/ektwr",
+      "line_num": "",
+      "line": "w(\\s a)/ra fwnh/sas a)pe/bh koruqai/olos *(/ektwr:",
+      "context": "w(\\s a)/ra fwnh/sas a)pe/bh koruqai/olos *(/ektwr:",
+      "epithets": [
+        "koruqai/olos"
+      ]
+    },
+    {
+      "character": "Zeus",
+      "form": "*zeu/s",
+      "line_num": "",
+      "line": "*laodamei/h| me\\n parele/cato mhti/eta *zeu/s,",
+      "context": "*laodamei/h| me\\n parele/cato mhti/eta *zeu/s,",
+      "epithets": []
+    },
+    {
+      "character": "Zeus",
+      "form": "*zeu/s",
+      "line_num": "",
+      "line": "e)/nq' au)=te *glau/kw| *kroni/dhs fre/nas e)ce/leto *zeu/s,",
+      "context": "au)=te *glau/kw| *kroni/dhs fre/nas e)ce/leto *zeu/s,",
+      "epithets": []
+    },
+    {
+      "character": "Hector",
+      "form": "*(/ektwr",
+      "line_num": "",
+      "line": "*(/ektwr d' w(s *skaia/s te pu/las kai\\ fhgo\\n i(/kanen,",
+      "context": "*(/ektwr d' w(s *skaia/s te pu/las",
+      "epithets": []
+    },
+    {
+      "character": "Hector",
+      "form": "*(/ektwr",
+      "line_num": "",
+      "line": "th\\n d' h)mei/bet' e)/peita me/gas koruqai/olos *(/ektwr:",
+      "context": "d' h)mei/bet' e)/peita me/gas koruqai/olos *(/ektwr:",
+      "epithets": [
+        "koruqai/olos"
+      ]
+    },
+    {
+      "character": "Hector",
+      "form": "*(/ektwr",
+      "line_num": "",
+      "line": "*(/ektwr de\\ pro\\s dw/mat' *)aleca/ndroio bebh/kei",
+      "context": "*(/ektwr de\\ pro\\s dw/mat' *)aleca/ndroio bebh/kei",
+      "epithets": []
+    },
+    {
+      "character": "Hector",
+      "form": "*(/ektwr",
+      "line_num": "",
+      "line": "e)/nq' *(/ektwr ei)sh=lqe *dii\\+ fi/los, e)n d' a)/ra xeiri\\",
+      "context": "e)/nq' *(/ektwr ei)sh=lqe *dii\\+ fi/los, e)n d'",
+      "epithets": []
+    },
+    {
+      "character": "Hector",
+      "form": "*(/ektwr",
+      "line_num": "325",
+      "line": "to\\n d' *(/ektwr nei/kessen i)dw\\n ai)sxroi=s e)pe/essi:",
+      "context": "to\\n d' *(/ektwr nei/kessen i)dw\\n ai)sxroi=s e)pe/essi:",
+      "epithets": []
+    },
+    {
+      "character": "Hector",
+      "form": "*(/ektwr",
+      "line_num": "",
+      "line": "w(\\s fa/to, to\\n d' ou)/ ti prose/fh koruqai/olos *(/ektwr:",
+      "context": "d' ou)/ ti prose/fh koruqai/olos *(/ektwr:",
+      "epithets": [
+        "koruqai/olos"
+      ]
+    },
+    {
+      "character": "Hector",
+      "form": "*(/ektwr",
+      "line_num": "",
+      "line": "th\\n d' h)mei/bet' e)/peita me/gas koruqai/olos *(/ektwr",
+      "context": "d' h)mei/bet' e)/peita me/gas koruqai/olos *(/ektwr",
+      "epithets": [
+        "koruqai/olos"
+      ]
+    },
+    {
+      "character": "Hector",
+      "form": "*(/ektwr",
+      "line_num": "",
+      "line": "w(\\s a)/ra fwnh/sas a)pe/bh koruqai/olos *(/ektwr:",
+      "context": "w(\\s a)/ra fwnh/sas a)pe/bh koruqai/olos *(/ektwr:",
+      "epithets": [
+        "koruqai/olos"
+      ]
+    },
+    {
+      "character": "Hector",
+      "form": "*(/ektwr",
+      "line_num": "",
+      "line": "*(/ektwr d' w(s ou)k e)/ndon a)mu/mona te/tmen a)/koitin",
+      "context": "*(/ektwr d' w(s ou)k e)/ndon a)mu/mona",
+      "epithets": []
+    },
+    {
+      "character": "Hector",
+      "form": "*(/ektwr",
+      "line_num": "390",
+      "line": "h)= r(a gunh\\ tami/h, o(\\ d' a)pe/ssuto dw/matos *(/ektwr",
+      "context": "tami/h, o(\\ d' a)pe/ssuto dw/matos *(/ektwr",
+      "epithets": []
+    },
+    {
+      "character": "Hector",
+      "form": "*(/ektwr",
+      "line_num": "",
+      "line": "to/n r(' *(/ektwr kale/eske *skama/ndrion, au)ta\\r oi( a)/lloi",
+      "context": "to/n r(' *(/ektwr kale/eske *skama/ndrion, au)ta\\r oi( a)/lloi",
+      "epithets": []
+    },
+    {
+      "character": "Hector",
+      "form": "*(/ektwr",
+      "line_num": "",
+      "line": "*)astua/nakt': oi)=os ga\\r e)ru/eto *)/ilion *(/ektwr.",
+      "context": "*)astua/nakt': oi)=os ga\\r e)ru/eto *)/ilion *(/ektwr.",
+      "epithets": []
+    },
+    {
+      "character": "Achilles",
+      "form": "*)axilleu/s",
+      "line_num": "",
+      "line": "h)/toi ga\\r pate/r' a(mo\\n a)pe/ktane di=os *)axilleu/s,",
+      "context": "ga\\r pate/r' a(mo\\n a)pe/ktane di=os *)axilleu/s,",
+      "epithets": [
+        "di=os"
+      ]
+    },
+    {
+      "character": "Hector",
+      "form": "*(/ektwr",
+      "line_num": "440",
+      "line": "th\\n d' au)=te prose/eipe me/gas koruqai/olos *(/ektwr:",
+      "context": "d' au)=te prose/eipe me/gas koruqai/olos *(/ektwr:",
+      "epithets": [
+        "koruqai/olos"
+      ]
+    },
+    {
+      "character": "Hector",
+      "form": "*(/ektwr",
+      "line_num": "",
+      "line": "w(\\s ei)pw\\n ou(= paido\\s o)re/cato fai/dimos *(/ektwr:",
+      "context": "ei)pw\\n ou(= paido\\s o)re/cato fai/dimos *(/ektwr:",
+      "epithets": []
+    },
+    {
+      "character": "Hector",
+      "form": "*(/ektwr",
+      "line_num": "",
+      "line": "au)ti/k' a)po\\ krato\\s ko/ruq' ei(/leto fai/dimos *(/ektwr,",
+      "context": "a)po\\ krato\\s ko/ruq' ei(/leto fai/dimos *(/ektwr,",
+      "epithets": []
+    },
+    {
+      "character": "Zeus",
+      "form": "*dii/",
+      "line_num": "475",
+      "line": "ei)=pe d' e)peuca/menos *dii/ t' a)/lloisi/n te qeoi=si:",
+      "context": "ei)=pe d' e)peuca/menos *dii/ t' a)/lloisi/n te qeoi=si:",
+      "epithets": []
+    },
+    {
+      "character": "Hector",
+      "form": "*(/ektwr",
+      "line_num": "",
+      "line": "w(\\s a)/ra fwnh/sas ko/ruq' ei(/leto fai/dimos *(/ektwr",
+      "context": "a)/ra fwnh/sas ko/ruq' ei(/leto fai/dimos *(/ektwr",
+      "epithets": []
+    },
+    {
+      "character": "Hector",
+      "form": "*(/ektwr",
+      "line_num": "520",
+      "line": "to\\n d' a)pameibo/menos prose/fh koruqai/olos *(/ektwr:",
+      "context": "to\\n d' a)pameibo/menos prose/fh koruqai/olos *(/ektwr:",
+      "epithets": [
+        "koruqai/olos"
+      ]
+    },
+    {
+      "character": "Hector",
+      "form": "*(/ektwr",
+      "line_num": "",
+      "line": "w(\\s ei)pw\\n pule/wn e)ce/ssuto fai/dimos *(/ektwr,",
+      "context": "w(\\s ei)pw\\n pule/wn e)ce/ssuto fai/dimos *(/ektwr,",
+      "epithets": []
+    },
+    {
+      "character": "Hector",
+      "form": "*(/ektwr",
+      "line_num": "",
+      "line": "*(/ektwr d' *)hi+onh=a ba/l' e)/gxei+ o)cuo/enti",
+      "context": "*(/ektwr d' *)hi+onh=a ba/l' e)/gxei+ o)cuo/enti",
+      "epithets": []
+    },
+    {
+      "character": "Hector",
+      "form": "*(/ektwr",
+      "line_num": "",
+      "line": "w(\\s e)/faq', *(/ektwr d' au)=te xa/rh me/ga mu=qon a)kou/sas,",
+      "context": "w(\\s e)/faq', *(/ektwr d' au)=te xa/rh me/ga mu=qon",
+      "epithets": []
+    },
+    {
+      "character": "Hector",
+      "form": "*(/ektwr",
+      "line_num": "",
+      "line": "e)n pedi/w|: *(/ektwr de\\ met' a)mfote/roisin e)/eipe:",
+      "context": "e)n pedi/w|: *(/ektwr de\\ met' a)mfote/roisin e)/eipe:",
+      "epithets": []
+    },
+    {
+      "character": "Hector",
+      "form": "*(/ektwr",
+      "line_num": "90",
+      "line": "o(/n pot' a)risteu/onta kate/ktane fai/dimos *(/ektwr.",
+      "context": "o(/n pot' a)risteu/onta kate/ktane fai/dimos *(/ektwr.",
+      "epithets": []
+    },
+    {
+      "character": "Hector",
+      "form": "*(/ektwr",
+      "line_num": "",
+      "line": "tw/ ke ta/x' a)nth/seie ma/xhs koruqai/olos *(/ektwr.",
+      "context": "ke ta/x' a)nth/seie ma/xhs koruqai/olos *(/ektwr.",
+      "epithets": [
+        "koruqai/olos"
+      ]
+    },
+    {
+      "character": "Hector",
+      "form": "*(/ektwr",
+      "line_num": "",
+      "line": "to\\n d' au)=te prose/eipe me/gas koruqai/olos *(/ektwr:",
+      "context": "d' au)=te prose/eipe me/gas koruqai/olos *(/ektwr:",
+      "epithets": [
+        "koruqai/olos"
+      ]
+    },
+    {
+      "character": "Hector",
+      "form": "*(/ektwr",
+      "line_num": "",
+      "line": "a)ll' ou)d' w(=s a)pe/lhge ma/xhs koruqai/olos *(/ektwr,",
+      "context": "ou)d' w(=s a)pe/lhge ma/xhs koruqai/olos *(/ektwr,",
+      "epithets": [
+        "koruqai/olos"
+      ]
+    },
+    {
+      "character": "Zeus",
+      "form": "*zeu/s",
+      "line_num": "280",
+      "line": "a)mfote/rw ga\\r sfw=i+ filei= nefelhgere/ta *zeu/s,",
+      "context": "a)mfote/rw ga\\r sfw=i+ filei= nefelhgere/ta *zeu/s,",
+      "epithets": []
+    },
+    {
+      "character": "Hector",
+      "form": "*(/ektwr",
+      "line_num": "",
+      "line": "to\\n d' au)=te prose/eipe me/gas koruqai/olos *(/ektwr:",
+      "context": "d' au)=te prose/eipe me/gas koruqai/olos *(/ektwr:",
+      "epithets": [
+        "koruqai/olos"
+      ]
+    },
+    {
+      "character": "Zeus",
+      "form": "*zeu/s",
+      "line_num": "",
+      "line": "to\\n de\\ me/g' o)xqh/sas prose/fh nefelhgere/ta *zeu/s:",
+      "context": "de\\ me/g' o)xqh/sas prose/fh nefelhgere/ta *zeu/s:",
+      "epithets": []
+    },
+    {
+      "character": "Zeus",
+      "form": "*zeu/s",
+      "line_num": "",
+      "line": "th\\n d' e)pimeidh/sas prose/fh nefelhgere/ta *zeu/s:",
+      "context": "th\\n d' e)pimeidh/sas prose/fh nefelhgere/ta *zeu/s:",
+      "epithets": []
+    },
+    {
+      "character": "Hector",
+      "form": "*(/ektwr",
+      "line_num": "110",
+      "line": "*trwsi\\n e)f' i(ppoda/mois i)qu/nomen, o)/fra kai\\ *(/ektwr",
+      "context": "e)f' i(ppoda/mois i)qu/nomen, o)/fra kai\\ *(/ektwr",
+      "epithets": []
+    },
+    {
+      "character": "Hector",
+      "form": "*(/ektwr",
+      "line_num": "",
+      "line": "*(/ektwr ga/r pote fh/sei e)ni\\ *trw/ess' a)goreu/wn:",
+      "context": "*(/ektwr ga/r pote fh/sei e)ni\\ *trw/ess'",
+      "epithets": []
+    },
+    {
+      "character": "Hector",
+      "form": "*(/ektwr",
+      "line_num": "",
+      "line": "ei)/ per ga/r s' *(/ektwr ge kako\\n kai\\ a)na/lkida fh/sei,",
+      "context": "ei)/ per ga/r s' *(/ektwr ge kako\\n kai\\ a)na/lkida fh/sei,",
+      "epithets": []
+    },
+    {
+      "character": "Hector",
+      "form": "*(/ektwr",
+      "line_num": "",
+      "line": "au)=tis a)n' i)wxmo/n: e)pi\\ de\\ *trw=e/s te kai\\ *(/ektwr",
+      "context": "e)pi\\ de\\ *trw=e/s te kai\\ *(/ektwr",
+      "epithets": []
+    },
+    {
+      "character": "Hector",
+      "form": "*(/ektwr",
+      "line_num": "160",
+      "line": "tw=| d' e)pi\\ makro\\n a)/u+se me/gas koruqai/olos *(/ektwr:",
+      "context": "e)pi\\ makro\\n a)/u+se me/gas koruqai/olos *(/ektwr:",
+      "epithets": [
+        "koruqai/olos"
+      ]
+    },
+    {
+      "character": "Hector",
+      "form": "*(/ektwr",
+      "line_num": "",
+      "line": "*(/ektwr de\\ *trw/essin e)ke/kleto makro\\n a)u/+sas:",
+      "context": "*(/ektwr de\\ *trw/essin e)ke/kleto makro\\n a)u/+sas:",
+      "epithets": []
+    },
+    {
+      "character": "Hector",
+      "form": "*(/ektwr",
+      "line_num": "",
+      "line": "*(/ektwr *priami/dhs, o(/te oi( *zeu\\s ku=dos e)/dwke.",
+      "context": "*(/ektwr *priami/dhs, o(/te oi( *zeu\\s ku=dos",
+      "epithets": []
+    },
+    {
+      "character": "Zeus",
+      "form": "*zeu/s",
+      "line_num": "",
+      "line": "ai)/ ke/n moi dw/h| *zeu/s t' ai)gi/oxos kai\\ *)aqh/nh",
+      "context": "ai)/ ke/n moi dw/h| *zeu/s t' ai)gi/oxos kai\\ *)aqh/nh",
+      "epithets": []
+    },
+    {
+      "character": "Hector",
+      "form": "*(/ektwr",
+      "line_num": "",
+      "line": "qh=ke d' e)pi\\ neurh=|: to\\n d' au)= koruqai/olos *(/ektwr",
+      "context": "neurh=|: to\\n d' au)= koruqai/olos *(/ektwr",
+      "epithets": [
+        "koruqai/olos"
+      ]
+    },
+    {
+      "character": "Hector",
+      "form": "*(/ektwr",
+      "line_num": "",
+      "line": "*(/ektwr d' e)n prw/toisi ki/e sqe/nei+ blemeai/nwn.",
+      "context": "*(/ektwr d' e)n prw/toisi ki/e sqe/nei+",
+      "epithets": []
+    },
+    {
+      "character": "Hector",
+      "form": "*(/ektwr",
+      "line_num": "",
+      "line": "w(\\s *(/ektwr w)/paze ka/rh komo/wntas *)axaiou/s,",
+      "context": "w(\\s *(/ektwr w)/paze ka/rh komo/wntas *)axaiou/s,",
+      "epithets": []
+    },
+    {
+      "character": "Hector",
+      "form": "*(/ektwr",
+      "line_num": "",
+      "line": "*(/ektwr d' a)mfiperistrw/fa kalli/trixas i(/ppous",
+      "context": "*(/ektwr d' a)mfiperistrw/fa kalli/trixas i(/ppous",
+      "epithets": []
+    },
+    {
+      "character": "Hector",
+      "form": "*(/ektwr",
+      "line_num": "",
+      "line": "*(/ektwr *priami/dhs, kai\\ dh\\ kaka\\ polla\\ e)/orge.",
+      "context": "*(/ektwr *priami/dhs, kai\\ dh\\ kaka\\ polla\\",
+      "epithets": []
+    },
+    {
+      "character": "Hector",
+      "form": "*(/ektwr",
+      "line_num": "",
+      "line": "h)\\ nw=i+ *pria/moio pa/i+s koruqai/olos *(/ektwr",
+      "context": "h)\\ nw=i+ *pria/moio pa/i+s koruqai/olos *(/ektwr",
+      "epithets": [
+        "koruqai/olos"
+      ]
+    },
+    {
+      "character": "Zeus",
+      "form": "*zeu/s",
+      "line_num": "",
+      "line": "th\\n d' a)pameibo/menos prose/fh nefelhgere/ta *zeu/s:",
+      "context": "th\\n d' a)pameibo/menos prose/fh nefelhgere/ta *zeu/s:",
+      "epithets": []
+    },
+    {
+      "character": "Hector",
+      "form": "*(/ektwr",
+      "line_num": "",
+      "line": "ou) ga\\r pri\\n pole/mou a)popau/setai o)/brimos *(/ektwr",
+      "context": "ga\\r pri\\n pole/mou a)popau/setai o)/brimos *(/ektwr",
+      "epithets": []
+    },
+    {
+      "character": "Hector",
+      "form": "*(/ektwr",
+      "line_num": "",
+      "line": "*trw/wn au)=t' a)gorh\\n poih/sato fai/dimos *(/ektwr",
+      "context": "*trw/wn au)=t' a)gorh\\n poih/sato fai/dimos *(/ektwr",
+      "epithets": []
+    },
+    {
+      "character": "Hector",
+      "form": "*(/ektwr",
+      "line_num": "",
+      "line": "to/n r(' *(/ektwr a)go/reue *dii\\+ fi/los: e)n d' a)/ra xeiri\\",
+      "context": "to/n r(' *(/ektwr a)go/reue *dii\\+ fi/los: e)n d'",
+      "epithets": []
+    },
+    {
+      "character": "Zeus",
+      "form": "*dii/",
+      "line_num": "",
+      "line": "e)/lpomai eu)xo/menos *dii/ t' a)/lloisi/n te qeoi=sin",
+      "context": "e)/lpomai eu)xo/menos *dii/ t' a)/lloisi/n te qeoi=sin",
+      "epithets": []
+    },
+    {
+      "character": "Hector",
+      "form": "*(/ektwr",
+      "line_num": "",
+      "line": "w(\\s *(/ektwr a)go/reu', e)pi\\ de\\ *trw=es kela/dhsan.",
+      "context": "w(\\s *(/ektwr a)go/reu', e)pi\\ de\\ *trw=es kela/dhsan.",
+      "epithets": []
+    },
+    {
+      "character": "Zeus",
+      "form": "*zeu/s",
+      "line_num": "",
+      "line": "*zeu/s me me/ga *kroni/dhs a)/th| e)ne/dhse barei/h|",
+      "context": "*zeu/s me me/ga *kroni/dhs a)/th| e)ne/dhse",
+      "epithets": []
+    },
+    {
+      "character": "Zeus",
+      "form": "dii/",
+      "line_num": "",
+      "line": "e)cei/pw kai\\ pa/nta dii/comai: ou)de/ ke/ ti/s moi",
+      "context": "e)cei/pw kai\\ pa/nta dii/comai: ou)de/ ke/ ti/s moi",
+      "epithets": []
+    },
+    {
+      "character": "Achilles",
+      "form": "*)axilh=os",
+      "line_num": "",
+      "line": "xwome/nou *)axilh=os e)/bhs klisi/hqen a)pou/ras",
+      "context": "xwome/nou *)axilh=os e)/bhs klisi/hqen a)pou/ras",
+      "epithets": []
+    },
+    {
+      "character": "Achilles",
+      "form": "*)axilh=i",
+      "line_num": "",
+      "line": "dw=ra me\\n ou)ke/t' o)nosta\\ didoi=s *)axilh=i+ a)/nakti:",
+      "context": "dw=ra me\\n ou)ke/t' o)nosta\\ didoi=s *)axilh=i+ a)/nakti:",
+      "epithets": []
+    },
+    {
+      "character": "Achilles",
+      "form": "*)axilh=os",
+      "line_num": "",
+      "line": "e)/lqws' e)s klisi/hn *phlhi+a/dew *)axilh=os.",
+      "context": "e)/lqws' e)s klisi/hn *phlhi+a/dew *)axilh=os.",
+      "epithets": []
+    },
+    {
+      "character": "Patroclus",
+      "form": "*pa/troklos",
+      "line_num": "190",
+      "line": "*pa/troklos de/ oi( oi)=os e)nanti/os h(=sto siwph=|,",
+      "context": "*pa/troklos de/ oi( oi)=os e)nanti/os h(=sto",
+      "epithets": []
+    },
+    {
+      "character": "Patroclus",
+      "form": "*pa/troklos",
+      "line_num": "195",
+      "line": "w(\\s d' au)/tws *pa/troklos, e)pei\\ i)/de fw=tas, a)ne/sth.",
+      "context": "w(\\s d' au)/tws *pa/troklos, e)pei\\ i)/de fw=tas, a)ne/sth.",
+      "epithets": []
+    },
+    {
+      "character": "Achilles",
+      "form": "*)axilleu/s",
+      "line_num": "",
+      "line": "tw\\ kai\\ deiknu/menos prose/fh po/das w)ku\\s *)axilleu/s:",
+      "context": "kai\\ deiknu/menos prose/fh po/das w)ku\\s *)axilleu/s:",
+      "epithets": []
+    },
+    {
+      "character": "Achilles",
+      "form": "*)axilleu/s",
+      "line_num": "",
+      "line": "w(\\s a)/ra fwnh/sas prote/rw a)/ge di=os *)axilleu/s,",
+      "context": "a)/ra fwnh/sas prote/rw a)/ge di=os *)axilleu/s,",
+      "epithets": [
+        "di=os"
+      ]
+    },
+    {
+      "character": "Patroclus",
+      "form": "*pa/troklon",
+      "line_num": "",
+      "line": "ai)=ya de\\ *pa/troklon prosefw/neen e)ggu\\s e)o/nta:",
+      "context": "ai)=ya de\\ *pa/troklon prosefw/neen e)ggu\\s e)o/nta:",
+      "epithets": []
+    },
+    {
+      "character": "Patroclus",
+      "form": "*pa/troklos",
+      "line_num": "205",
+      "line": "w(\\s fa/to, *pa/troklos de\\ fi/lw| e)pepei/qeq' e(tai/rw|.",
+      "context": "w(\\s fa/to, *pa/troklos de\\ fi/lw| e)pepei/qeq' e(tai/rw|.",
+      "epithets": []
+    },
+    {
+      "character": "Achilles",
+      "form": "*)axilleu/s",
+      "line_num": "",
+      "line": "tw=| d' e)/xen *au)tome/dwn, ta/mnen d' a)/ra di=os *)axilleu/s.",
+      "context": "*au)tome/dwn, ta/mnen d' a)/ra di=os *)axilleu/s.",
+      "epithets": [
+        "di=os"
+      ]
+    },
+    {
+      "character": "Patroclus",
+      "form": "*pa/troklos",
+      "line_num": "",
+      "line": "*pa/troklos me\\n si=ton e(lw\\n e)pe/neime trape/zh|",
+      "context": "*pa/troklos me\\n si=ton e(lw\\n e)pe/neime trape/zh|",
+      "epithets": []
+    },
+    {
+      "character": "Achilles",
+      "form": "*)axilleu/s",
+      "line_num": "",
+      "line": "kaloi=s e)n kane/oisin, a)ta\\r kre/a nei=men *)axilleu/s.",
+      "context": "e)n kane/oisin, a)ta\\r kre/a nei=men *)axilleu/s.",
+      "epithets": []
+    },
+    {
+      "character": "Patroclus",
+      "form": "*pa/troklon",
+      "line_num": "220",
+      "line": "*pa/troklon o(\\n e(tai=ron: o(\\ d' e)n puri\\ ba/lle quhla/s.",
+      "context": "*pa/troklon o(\\n e(tai=ron: o(\\ d' e)n",
+      "epithets": []
+    },
+    {
+      "character": "Achilles",
+      "form": "*)axilh=",
+      "line_num": "",
+      "line": "plhsa/menos d' oi)/noio de/pas dei/dekt' *)axilh=a:",
+      "context": "plhsa/menos d' oi)/noio de/pas dei/dekt' *)axilh=a:",
+      "epithets": []
+    },
+    {
+      "character": "Achilles",
+      "form": "*)axileu=",
+      "line_num": "225",
+      "line": "xai=r' *)axileu=: daito\\s me\\n e)i/+shs ou)k e)pideuei=s",
+      "context": "xai=r' *)axileu=: daito\\s me\\n e)i/+shs ou)k e)pideuei=s",
+      "epithets": []
+    },
+    {
+      "character": "Hector",
+      "form": "*(/ektwr",
+      "line_num": "",
+      "line": "a)stra/ptei: *(/ektwr de\\ me/ga sqe/nei+ blemeai/nwn",
+      "context": "a)stra/ptei: *(/ektwr de\\ me/ga sqe/nei+ blemeai/nwn",
+      "epithets": []
+    },
+    {
+      "character": "Zeus",
+      "form": "*dii/",
+      "line_num": "",
+      "line": "mai/netai e)kpa/glws pi/sunos *dii/, ou)de/ ti ti/ei",
+      "context": "mai/netai e)kpa/glws pi/sunos *dii/, ou)de/ ti ti/ei",
+      "epithets": []
+    },
+    {
+      "character": "Achilles",
+      "form": "*)axilleu/s",
+      "line_num": "",
+      "line": "to\\n d' a)pameibo/menos prose/fh po/das w)ku\\s *)axilleu/s:",
+      "context": "d' a)pameibo/menos prose/fh po/das w)ku\\s *)axilleu/s:",
+      "epithets": []
+    },
+    {
+      "character": "Hector",
+      "form": "*(/ektwr",
+      "line_num": "",
+      "line": "ou)k e)qe/leske ma/xhn a)po\\ tei/xeos o)rnu/men *(/ektwr,",
+      "context": "e)qe/leske ma/xhn a)po\\ tei/xeos o)rnu/men *(/ektwr,",
+      "epithets": []
+    },
+    {
+      "character": "Zeus",
+      "form": "*zeu/s",
+      "line_num": "",
+      "line": "e)rre/tw: e)k ga/r eu( fre/nas ei(/leto mhti/eta *zeu/s.",
+      "context": "ga/r eu( fre/nas ei(/leto mhti/eta *zeu/s.",
+      "epithets": []
+    },
+    {
+      "character": "Zeus",
+      "form": "di/a",
+      "line_num": "",
+      "line": "dixqadi/as kh=ras fere/men qana/toio te/los de/.",
+      "context": "dixqadi/as kh=ras fere/men qana/toio te/los de/.",
+      "epithets": []
+    },
+    {
+      "character": "Achilles",
+      "form": "*)axilleu=",
+      "line_num": "",
+      "line": "ei) me\\n dh\\ no/sto/n ge meta\\ fresi\\ fai/dim' *)axilleu=",
+      "context": "no/sto/n ge meta\\ fresi\\ fai/dim' *)axilleu=",
+      "epithets": []
+    },
+    {
+      "character": "Zeus",
+      "form": "*zeu/s",
+      "line_num": "",
+      "line": "*zeu/s te kataxqo/nios kai\\ e)painh\\ *persefo/neia.",
+      "context": "*zeu/s te kataxqo/nios kai\\ e)painh\\ *persefo/neia.",
+      "epithets": []
+    },
+    {
+      "character": "Achilles",
+      "form": "*)axilleu=",
+      "line_num": "485",
+      "line": "kai/ se tosou=ton e)/qhka qeoi=s e)piei/kel' *)axilleu=,",
+      "context": "se tosou=ton e)/qhka qeoi=s e)piei/kel' *)axilleu=,",
+      "epithets": []
+    },
+    {
+      "character": "Achilles",
+      "form": "*)axilleu=",
+      "line_num": "",
+      "line": "e)c e)meu=: a)lla\\ se\\ pai=da qeoi=s e)piei/kel' *)axilleu=",
+      "context": "a)lla\\ se\\ pai=da qeoi=s e)piei/kel' *)axilleu=",
+      "epithets": []
+    },
+    {
+      "character": "Achilles",
+      "form": "*)axileu=",
+      "line_num": "",
+      "line": "a)ll' *)axileu= da/mason qumo\\n me/gan: ou)de/ ti/ se xrh\\",
+      "context": "a)ll' *)axileu= da/mason qumo\\n me/gan: ou)de/ ti/",
+      "epithets": []
+    },
+    {
+      "character": "Zeus",
+      "form": "*di/a",
+      "line_num": "",
+      "line": "li/ssontai d' a)/ra tai/ ge *di/a *kroni/wna kiou=sai",
+      "context": "li/ssontai d' a)/ra tai/ ge *di/a *kroni/wna kiou=sai",
+      "epithets": []
+    },
+    {
+      "character": "Achilles",
+      "form": "*)axileu=",
+      "line_num": "",
+      "line": "a)ll' *)axileu= po/re kai\\ su\\ *dio\\s kou/rh|sin e(/pesqai",
+      "context": "a)ll' *)axileu= po/re kai\\ su\\ *dio\\s kou/rh|sin",
+      "epithets": []
+    },
+    {
+      "character": "Achilles",
+      "form": "*)axilleu/s",
+      "line_num": "",
+      "line": "to\\n d' a)pameibo/menos prose/fh po/das w)ku\\s *)axilleu/s:",
+      "context": "d' a)pameibo/menos prose/fh po/das w)ku\\s *)axilleu/s:",
+      "epithets": []
+    },
+    {
+      "character": "Patroclus",
+      "form": "*patro/klw|",
+      "line_num": "620",
+      "line": "h)= kai\\ *patro/klw| o(/ g' e)p' o)fru/si neu=se siwph=|",
+      "context": "h)= kai\\ *patro/klw| o(/ g' e)p' o)fru/si neu=se",
+      "epithets": []
+    },
+    {
+      "character": "Achilles",
+      "form": "*)axilleu/s",
+      "line_num": "",
+      "line": "to\\n d' a)pameibo/menos prose/fh po/das w)ku\\s *)axilleu/s:",
+      "context": "d' a)pameibo/menos prose/fh po/das w)ku\\s *)axilleu/s:",
+      "epithets": []
+    },
+    {
+      "character": "Patroclus",
+      "form": "*pa/troklos",
+      "line_num": "",
+      "line": "*pa/troklos d' e(ta/roisin i)de\\ dmwh=|si ke/leuse",
+      "context": "*pa/troklos d' e(ta/roisin i)de\\ dmwh=|si ke/leuse",
+      "epithets": []
+    },
+    {
+      "character": "Patroclus",
+      "form": "*pa/troklos",
+      "line_num": "",
+      "line": "*pa/troklos d' e(te/rwqen e)le/cato: pa\\r d' a)/ra kai\\ tw=|",
+      "context": "*pa/troklos d' e(te/rwqen e)le/cato: pa\\r d'",
+      "epithets": []
+    },
+    {
+      "character": "Zeus",
+      "form": "*dii/",
+      "line_num": "",
+      "line": "u(yo/q' e)o/nti *dii/, me/ga d' e)/stene kuda/limon kh=r.",
+      "context": "u(yo/q' e)o/nti *dii/, me/ga d' e)/stene kuda/limon kh=r.",
+      "epithets": []
+    },
+    {
+      "character": "Hector",
+      "form": "*(/ektwr",
+      "line_num": "",
+      "line": "o(/ss' *(/ektwr e)/rrece *dii\\+ fi/los ui(=as *)axaiw=n",
+      "context": "o(/ss' *(/ektwr e)/rrece *dii\\+ fi/los ui(=as *)axaiw=n",
+      "epithets": []
+    },
+    {
+      "character": "Zeus",
+      "form": "*dio/s",
+      "line_num": "",
+      "line": "la/mf' w(/s te steroph\\ patro\\s *dio/s: au)ta\\r o(/ g' h(/rws",
+      "context": "la/mf' w(/s te steroph\\ patro\\s *dio/s: au)ta\\r o(/ g' h(/rws",
+      "epithets": []
+    },
+    {
+      "character": "Hector",
+      "form": "*(/ektwr",
+      "line_num": "200",
+      "line": "pipto/ntwn: o(/qen au)=tis a)petra/pet' o)/brimos *(/ektwr",
+      "context": "pipto/ntwn: o(/qen au)=tis a)petra/pet' o)/brimos *(/ektwr",
+      "epithets": []
+    },
+    {
+      "character": "Hector",
+      "form": "*(/ektwr",
+      "line_num": "",
+      "line": "ou)de\\ me\\n ou)de\\ *trw=as a)gh/noras ei)/asen *(/ektwr",
+      "context": "me\\n ou)de\\ *trw=as a)gh/noras ei)/asen *(/ektwr",
+      "epithets": []
+    },
+    {
+      "character": "Hector",
+      "form": "*(/ektwr",
+      "line_num": "",
+      "line": "h)= s' *(/ektwr proe/hke diaskopia=sqai e(/kasta",
+      "context": "h)= s' *(/ektwr proe/hke diaskopia=sqai e(/kasta",
+      "epithets": []
+    },
+    {
+      "character": "Hector",
+      "form": "*(/ektwr",
+      "line_num": "",
+      "line": "pollh=|si/n m' a)/th|si pare\\k no/on h)/gagen *(/ektwr,",
+      "context": "m' a)/th|si pare\\k no/on h)/gagen *(/ektwr,",
+      "epithets": []
+    },
+    {
+      "character": "Achilles",
+      "form": "*)axilh=i",
+      "line_num": "",
+      "line": "a)/llw| g' h)\\ *)axilh=i+, to\\n a)qana/th te/ke mh/thr.",
+      "context": "a)/llw| g' h)\\ *)axilh=i+, to\\n a)qana/th te/ke mh/thr.",
+      "epithets": []
+    },
+    {
+      "character": "Hector",
+      "form": "*(/ektwr",
+      "line_num": "",
+      "line": "*(/ektwr me\\n meta\\ toi=sin, o(/soi boulhfo/roi ei)si/,",
+      "context": "*(/ektwr me\\n meta\\ toi=sin, o(/soi boulhfo/roi",
+      "epithets": []
+    },
+    {
+      "character": "Hector",
+      "form": "*(/ektwr",
+      "line_num": "",
+      "line": "*(/ektwr te proe/hke kai\\ a)/lloi *trw=es a)gauoi/.",
+      "context": "*(/ektwr te proe/hke kai\\ a)/lloi *trw=es",
+      "epithets": []
+    },
+    {
+      "character": "Hector",
+      "form": "*(/ektwr",
+      "line_num": "",
+      "line": "*(/ektwr d' e)n prw/toisi fe/r' a)spi/da pa/ntos' e)i/+shn,",
+      "context": "*(/ektwr d' e)n prw/toisi fe/r' a)spi/da",
+      "epithets": []
+    },
+    {
+      "character": "Hector",
+      "form": "*(/ektwr",
+      "line_num": "",
+      "line": "w(\\s *(/ektwr o(te\\ me/n te meta\\ prw/toisi fa/nesken,",
+      "context": "w(\\s *(/ektwr o(te\\ me/n te meta\\ prw/toisi",
+      "epithets": []
+    },
+    {
+      "character": "Achilles",
+      "form": "*)axilleu/s",
+      "line_num": "",
+      "line": "ei)=den, o(/t' e)c *)/idhs a)/gagen po/das w)ku\\s *)axilleu/s.",
+      "context": "e)c *)/idhs a)/gagen po/das w)ku\\s *)axilleu/s.",
+      "epithets": []
+    },
+    {
+      "character": "Zeus",
+      "form": "*zeu/s",
+      "line_num": "",
+      "line": "*zeu/s me path\\r proe/hke tei\\+n ta/de muqh/sasqai.",
+      "context": "*zeu/s me path\\r proe/hke tei\\+n ta/de",
+      "epithets": []
+    },
+    {
+      "character": "Hector",
+      "form": "*(/ektwr",
+      "line_num": "",
+      "line": "*(/ektwr d' e)c o)xe/wn su\\n teu/xesin a)=lto xama=ze,",
+      "context": "*(/ektwr d' e)c o)xe/wn su\\n teu/xesin",
+      "epithets": []
+    },
+    {
+      "character": "Hector",
+      "form": "*(/ektwr",
+      "line_num": "",
+      "line": "*(/ektwr d' w(s e)no/hs' *)agame/mnona no/sfi kio/nta",
+      "context": "*(/ektwr d' w(s e)no/hs' *)agame/mnona no/sfi",
+      "epithets": []
+    },
+    {
+      "character": "Hector",
+      "form": "*(/ektwr",
+      "line_num": "295",
+      "line": "*(/ektwr *priami/dhs brotoloigw=| i)=sos *)/arhi+.",
+      "context": "*(/ektwr *priami/dhs brotoloigw=| i)=sos *)/arhi+.",
+      "epithets": []
+    },
+    {
+      "character": "Hector",
+      "form": "*(/ektwr",
+      "line_num": "300",
+      "line": "*(/ektwr *priami/dhs, o(/te oi( *zeu\\s ku=dos e)/dwken;",
+      "context": "*(/ektwr *priami/dhs, o(/te oi( *zeu\\s ku=dos",
+      "epithets": []
+    },
+    {
+      "character": "Hector",
+      "form": "*(/ektwr",
+      "line_num": "315",
+      "line": "e)/ssetai ei)/ ken nh=as e(/lh| koruqai/olos *(/ektwr.",
+      "context": "ei)/ ken nh=as e(/lh| koruqai/olos *(/ektwr.",
+      "epithets": [
+        "koruqai/olos"
+      ]
+    },
+    {
+      "character": "Hector",
+      "form": "*(/ektwr",
+      "line_num": "",
+      "line": "*(/ektwr d' o)cu\\ no/hse kata\\ sti/xas, w)=rto d' e)p' au)tou\\s",
+      "context": "*(/ektwr d' o)cu\\ no/hse kata\\ sti/xas,",
+      "epithets": []
+    },
+    {
+      "character": "Hector",
+      "form": "*(/ektwr",
+      "line_num": "",
+      "line": "nw=i+n dh\\ to/de ph=ma kuli/ndetai o)/brimos *(/ektwr:",
+      "context": "dh\\ to/de ph=ma kuli/ndetai o)/brimos *(/ektwr:",
+      "epithets": []
+    },
+    {
+      "character": "Hector",
+      "form": "*(/ektwr",
+      "line_num": "",
+      "line": "*(/ektwr d' w)=k' a)pe/leqron a)ne/drame, mi/kto d' o(mi/lw|,",
+      "context": "*(/ektwr d' w)=k' a)pe/leqron a)ne/drame, mi/kto",
+      "epithets": []
+    },
+    {
+      "character": "Hector",
+      "form": "*(/ektwr",
+      "line_num": "",
+      "line": "to/fr' *(/ektwr e)/mpnuto, kai\\ a)\\y e)s di/fron o)rou/sas",
+      "context": "to/fr' *(/ektwr e)/mpnuto, kai\\ a)\\y e)s di/fron",
+      "epithets": []
+    },
+    {
+      "character": "Hector",
+      "form": "*(/ektwr",
+      "line_num": "",
+      "line": "dai/+zwn i(/ppous te kai\\ a)ne/ras: ou)de/ pw *(/ektwr",
+      "context": "te kai\\ a)ne/ras: ou)de/ pw *(/ektwr",
+      "epithets": []
+    },
+    {
+      "character": "Hector",
+      "form": "*(/ektwr",
+      "line_num": "",
+      "line": "*(/ektwr me\\n meta\\ toi=sin o(mi/lei me/rmera r(e/zwn",
+      "context": "*(/ektwr me\\n meta\\ toi=sin o(mi/lei me/rmera",
+      "epithets": []
+    },
+    {
+      "character": "Achilles",
+      "form": "*)axilleu/s",
+      "line_num": "",
+      "line": "to\\n de\\ i)dw\\n e)no/hse poda/rkhs di=os *)axilleu/s:",
+      "context": "de\\ i)dw\\n e)no/hse poda/rkhs di=os *)axilleu/s:",
+      "epithets": [
+        "poda/rkhs",
+        "di=os"
+      ]
+    },
+    {
+      "character": "Achilles",
+      "form": "*)axileu=",
+      "line_num": "",
+      "line": "ti/pte/ me kiklh/skeis *)axileu=; ti/ de/ se xrew\\ e)mei=o;",
+      "context": "ti/pte/ me kiklh/skeis *)axileu=; ti/ de/ se xrew\\ e)mei=o;",
+      "epithets": []
+    },
+    {
+      "character": "Achilles",
+      "form": "*)axilleu/s",
+      "line_num": "",
+      "line": "to\\n d' a)pameibo/menos prose/fh po/das w)ku\\s *)axilleu/s:",
+      "context": "d' a)pameibo/menos prose/fh po/das w)ku\\s *)axilleu/s:",
+      "epithets": []
+    },
+    {
+      "character": "Patroclus",
+      "form": "*pa/troklos",
+      "line_num": "",
+      "line": "w(\\s fa/to, *pa/troklos de\\ fi/lw| e)pepei/qeq' e(tai/rw|,",
+      "context": "w(\\s fa/to, *pa/troklos de\\ fi/lw| e)pepei/qeq' e(tai/rw|,",
+      "epithets": []
+    },
+    {
+      "character": "Achilles",
+      "form": "*)axilleu/s",
+      "line_num": "625",
+      "line": "th\\n a)/ret' e)k *tene/doio ge/rwn, o(/te pe/rsen *)axilleu/s,",
+      "context": "e)k *tene/doio ge/rwn, o(/te pe/rsen *)axilleu/s,",
+      "epithets": []
+    },
+    {
+      "character": "Patroclus",
+      "form": "*pa/troklos",
+      "line_num": "",
+      "line": "*pa/troklos de\\ qu/rh|sin e)fi/stato i)so/qeos fw/s.",
+      "context": "*pa/troklos de\\ qu/rh|sin e)fi/stato i)so/qeos fw/s.",
+      "epithets": []
+    },
+    {
+      "character": "Patroclus",
+      "form": "*pa/troklos",
+      "line_num": "",
+      "line": "*pa/troklos d' e(te/rwqen a)nai/neto ei)=pe/ te mu=qon:",
+      "context": "*pa/troklos d' e(te/rwqen a)nai/neto ei)=pe/ te",
+      "epithets": []
+    },
+    {
+      "character": "Achilles",
+      "form": "*)axilh=i",
+      "line_num": "",
+      "line": "nu=n de\\ e)/pos e)re/wn pa/lin a)/ggelos ei)=m' *)axilh=i+.",
+      "context": "e)/pos e)re/wn pa/lin a)/ggelos ei)=m' *)axilh=i+.",
+      "epithets": []
+    },
+    {
+      "character": "Zeus",
+      "form": "*dii/",
+      "line_num": "",
+      "line": "sumfero/mesqa ma/xh| *dii/ t' eu)xo/menoi kai\\ *)aqh/nh|.",
+      "context": "sumfero/mesqa ma/xh| *dii/ t' eu)xo/menoi kai\\ *)aqh/nh|.",
+      "epithets": []
+    },
+    {
+      "character": "Achilles",
+      "form": "*)axilh=",
+      "line_num": "",
+      "line": "h)de\\ se/, pa\\r d' *)axilh=a: ge/rwn d' i(pphla/ta *phleu\\s",
+      "context": "h)de\\ se/, pa\\r d' *)axilh=a: ge/rwn d' i(pphla/ta *phleu\\s",
+      "epithets": []
+    },
+    {
+      "character": "Achilles",
+      "form": "*)axilleu/s",
+      "line_num": "",
+      "line": "sth=men e)ni\\ proqu/roisi: tafw\\n d' a)no/rousen *)axilleu/s,",
+      "context": "e)ni\\ proqu/roisi: tafw\\n d' a)no/rousen *)axilleu/s,",
+      "epithets": []
+    },
+    {
+      "character": "Achilles",
+      "form": "*)axilh=i",
+      "line_num": "",
+      "line": "*phleu\\s me\\n w(=| paidi\\ ge/rwn e)pe/tell' *)axilh=i+",
+      "context": "me\\n w(=| paidi\\ ge/rwn e)pe/tell' *)axilh=i+",
+      "epithets": []
+    },
+    {
+      "character": "Achilles",
+      "form": "*)axilleu/s",
+      "line_num": "",
+      "line": "te/knon e)mo\\n geneh=| me\\n u(pe/rtero/s e)stin *)axilleu/s,",
+      "context": "e)mo\\n geneh=| me\\n u(pe/rtero/s e)stin *)axilleu/s,",
+      "epithets": []
+    },
+    {
+      "character": "Achilles",
+      "form": "*)axilh=i",
+      "line_num": "",
+      "line": "tau=t' ei)/pois *)axilh=i+ dai/+froni ai)/ ke pi/qhtai.",
+      "context": "tau=t' ei)/pois *)axilh=i+ dai/+froni ai)/ ke pi/qhtai.",
+      "epithets": []
+    },
+    {
+      "character": "Achilles",
+      "form": "*)axilh=",
+      "line_num": "805",
+      "line": "bh= de\\ qe/ein para\\ nh=as e)p' *ai)aki/dhn *)axilh=a.",
+      "context": "qe/ein para\\ nh=as e)p' *ai)aki/dhn *)axilh=a.",
+      "epithets": []
+    },
+    {
+      "character": "Patroclus",
+      "form": "*pa/troklos",
+      "line_num": "",
+      "line": "i(=ce qe/wn *pa/troklos, i(/na/ sf' a)gorh/ te qe/mis te",
+      "context": "i(=ce qe/wn *pa/troklos, i(/na/ sf' a)gorh/ te qe/mis",
+      "epithets": []
+    },
+    {
+      "character": "Achilles",
+      "form": "*)axilh=i",
+      "line_num": "",
+      "line": "e)/rxomai o)/fr' *)axilh=i+ dai/+froni mu=qon e)ni/spw",
+      "context": "e)/rxomai o)/fr' *)axilh=i+ dai/+froni mu=qon e)ni/spw",
+      "epithets": []
+    },
+    {
+      "character": "Hector",
+      "form": "*(/ektwr",
+      "line_num": "10",
+      "line": "o)/fra me\\n *(/ektwr zwo\\s e)/hn kai\\ mh/ni' *)axilleu\\s",
+      "context": "o)/fra me\\n *(/ektwr zwo\\s e)/hn kai\\ mh/ni' *)axilleu\\s",
+      "epithets": []
+    },
+    {
+      "character": "Hector",
+      "form": "*(/ektwr",
+      "line_num": "",
+      "line": "w(\\s *(/ektwr a)n' o(/milon i)w\\n e)lli/sseq' e(tai/rous",
+      "context": "w(\\s *(/ektwr a)n' o(/milon i)w\\n e)lli/sseq' e(tai/rous",
+      "epithets": []
+    },
+    {
+      "character": "Hector",
+      "form": "*(/ektwr",
+      "line_num": "",
+      "line": "a)/llon *kebrio/nao xerei/ona ka/llipen *(/ektwr.",
+      "context": "a)/llon *kebrio/nao xerei/ona ka/llipen *(/ektwr.",
+      "epithets": []
+    },
+    {
+      "character": "Hector",
+      "form": "*(/ektwr",
+      "line_num": "230",
+      "line": "to\\n d' a)/r' u(po/dra i)dw\\n prose/fh koruqai/olos *(/ektwr:",
+      "context": "a)/r' u(po/dra i)dw\\n prose/fh koruqai/olos *(/ektwr:",
+      "epithets": [
+        "koruqai/olos"
+      ]
+    },
+    {
+      "character": "Zeus",
+      "form": "di/a",
+      "line_num": "",
+      "line": "kai\\ pedi/a lwtou=nta kai\\ a)ndrw=n pi/ona e)/rga,",
+      "context": "kai\\ pedi/a lwtou=nta kai\\ a)ndrw=n pi/ona e)/rga,",
+      "epithets": []
+    },
+    {
+      "character": "Hector",
+      "form": "*(/ektwr",
+      "line_num": "290",
+      "line": "ou)d' a)/n pw to/te ge *trw=es kai\\ fai/dimos *(/ektwr",
+      "context": "to/te ge *trw=es kai\\ fai/dimos *(/ektwr",
+      "epithets": []
+    },
+    {
+      "character": "Hector",
+      "form": "*(/ektwr",
+      "line_num": "445",
+      "line": "*(/ektwr d' a(rpa/cas la=an fe/ren, o(/s r(a pula/wn",
+      "context": "*(/ektwr d' a(rpa/cas la=an fe/ren, o(/s",
+      "epithets": []
+    },
+    {
+      "character": "Hector",
+      "form": "*(/ektwr",
+      "line_num": "",
+      "line": "w(\\s *(/ektwr i)qu\\s sani/dwn fe/re la=an a)ei/ras,",
+      "context": "w(\\s *(/ektwr i)qu\\s sani/dwn fe/re la=an a)ei/ras,",
+      "epithets": []
+    },
+    {
+      "character": "Hector",
+      "form": "*(/ektwr",
+      "line_num": "",
+      "line": "la=os u(po\\ r(iph=s: o(\\ d' a)/r' e)/sqore fai/dimos *(/ektwr",
+      "context": "o(\\ d' a)/r' e)/sqore fai/dimos *(/ektwr",
+      "epithets": []
+    },
+    {
+      "character": "Zeus",
+      "form": "dii/",
+      "line_num": "",
+      "line": "ghqosu/nh| de\\ qa/lassa dii/stato: toi\\ de\\ pe/tonto",
+      "context": "ghqosu/nh| de\\ qa/lassa dii/stato: toi\\ de\\ pe/tonto",
+      "epithets": []
+    },
+    {
+      "character": "Hector",
+      "form": "*(/ektwr",
+      "line_num": "",
+      "line": "*(/ektwr, o(\\s *dio\\s eu)/xet' e)risqene/os pa/i+s ei)=nai.",
+      "context": "*(/ektwr, o(\\s *dio\\s eu)/xet' e)risqene/os pa/i+s",
+      "epithets": []
+    },
+    {
+      "character": "Hector",
+      "form": "*(/ektwr",
+      "line_num": "",
+      "line": "*(/ektwr dh\\ para\\ nhusi\\ boh\\n a)gaqo\\s polemi/zei",
+      "context": "*(/ektwr dh\\ para\\ nhusi\\ boh\\n a)gaqo\\s",
+      "epithets": []
+    },
+    {
+      "character": "Hector",
+      "form": "*(/ektwr",
+      "line_num": "",
+      "line": "*trw=es de\\ prou)/tuyan a)olle/es, h)=rxe d' a)/r' *(/ektwr",
+      "context": "prou)/tuyan a)olle/es, h)=rxe d' a)/r' *(/ektwr",
+      "epithets": []
+    },
+    {
+      "character": "Hector",
+      "form": "*(/ektwr",
+      "line_num": "",
+      "line": "w(\\s *(/ektwr ei(=os me\\n a)pei/lei me/xri qala/sshs",
+      "context": "w(\\s *(/ektwr ei(=os me\\n a)pei/lei me/xri qala/sshs",
+      "epithets": []
+    },
+    {
+      "character": "Hector",
+      "form": "*(/ektwr",
+      "line_num": "",
+      "line": "*(/ektwr d' o(rmhqe/ntos a)ko/ntise douri\\ faeinw=|.",
+      "context": "*(/ektwr d' o(rmhqe/ntos a)ko/ntise douri\\ faeinw=|.",
+      "epithets": []
+    },
+    {
+      "character": "Hector",
+      "form": "*(/ektwr",
+      "line_num": "",
+      "line": "*(/ektwr d' o(rmh/qh ko/ruqa krota/fois a)rarui=an",
+      "context": "*(/ektwr d' o(rmh/qh ko/ruqa krota/fois a)rarui=an",
+      "epithets": []
+    },
+    {
+      "character": "Achilles",
+      "form": "*)axilh=",
+      "line_num": "",
+      "line": "kudai/nwn *)axilh=a po/das taxu/n: ou)de/ ti pa/mpan",
+      "context": "kudai/nwn *)axilh=a po/das taxu/n: ou)de/ ti pa/mpan",
+      "epithets": []
+    },
+    {
+      "character": "Hector",
+      "form": "*(/ektwr",
+      "line_num": "",
+      "line": "*(/ektwr d' ou)k e)pe/pusto *dii\\+ fi/los, ou)de/ ti h)/|dh",
+      "context": "*(/ektwr d' ou)k e)pe/pusto *dii\\+ fi/los,",
+      "epithets": []
+    },
+    {
+      "character": "Hector",
+      "form": "*(/ektwr",
+      "line_num": "",
+      "line": "*(/ektwr d' h(gei=to brotoloigw=| i)=sos *)/arhi+",
+      "context": "*(/ektwr d' h(gei=to brotoloigw=| i)=sos *)/arhi+",
+      "epithets": []
+    },
+    {
+      "character": "Hector",
+      "form": "*(/ektwr",
+      "line_num": "",
+      "line": "qa/rsunos oi)wnw=|: o(\\ d' a)mei/beto fai/dimos *(/ektwr:",
+      "context": "oi)wnw=|: o(\\ d' a)mei/beto fai/dimos *(/ektwr:",
+      "epithets": []
+    },
+    {
+      "character": "Hector",
+      "form": "*(/ektwr",
+      "line_num": "",
+      "line": "dei/dw mh\\ dh/ moi tele/sh| e)/pos o)/brimos *(/ektwr,",
+      "context": "dh/ moi tele/sh| e)/pos o)/brimos *(/ektwr,",
+      "epithets": []
+    },
+    {
+      "character": "Zeus",
+      "form": "*zeu/s",
+      "line_num": "",
+      "line": "*)/idhs u(yhlh=s: i)/de de\\ nefelhgere/ta *zeu/s.",
+      "context": "*)/idhs u(yhlh=s: i)/de de\\ nefelhgere/ta *zeu/s.",
+      "epithets": []
+    },
+    {
+      "character": "Zeus",
+      "form": "*zeu/s",
+      "line_num": "",
+      "line": "th\\n d' a)pameibo/menos prose/fh nefelhgere/ta *zeu/s:",
+      "context": "th\\n d' a)pameibo/menos prose/fh nefelhgere/ta *zeu/s:",
+      "epithets": []
+    },
+    {
+      "character": "Zeus",
+      "form": "*zeu/s",
+      "line_num": "",
+      "line": "th\\n d' a)pameibo/menos prose/fh nefelhgere/ta *zeu/s:",
+      "context": "th\\n d' a)pameibo/menos prose/fh nefelhgere/ta *zeu/s:",
+      "epithets": []
+    },
+    {
+      "character": "Zeus",
+      "form": "*zeu/s",
+      "line_num": "",
+      "line": "*zeu/s, e)pei\\ au)tw=| e)gw\\ malako\\n peri\\ kw=m' e)ka/luya:",
+      "context": "*zeu/s, e)pei\\ au)tw=| e)gw\\ malako\\n peri\\",
+      "epithets": []
+    },
+    {
+      "character": "Hector",
+      "form": "*(/ektwr",
+      "line_num": "",
+      "line": "*trw=as d' au)=q' e(te/rwqen e)ko/smei fai/dimos *(/ektwr.",
+      "context": "d' au)=q' e(te/rwqen e)ko/smei fai/dimos *(/ektwr.",
+      "epithets": []
+    },
+    {
+      "character": "Hector",
+      "form": "*(/ektwr",
+      "line_num": "390",
+      "line": "kuanoxai=ta *poseida/wn kai\\ fai/dimos *(/ektwr,",
+      "context": "kuanoxai=ta *poseida/wn kai\\ fai/dimos *(/ektwr,",
+      "epithets": []
+    },
+    {
+      "character": "Hector",
+      "form": "*(/ektwr",
+      "line_num": "",
+      "line": "*ai)/antos de\\ prw=tos a)ko/ntise fai/dimos *(/ektwr",
+      "context": "*ai)/antos de\\ prw=tos a)ko/ntise fai/dimos *(/ektwr",
+      "epithets": []
+    },
+    {
+      "character": "Hector",
+      "form": "*(/ektwr",
+      "line_num": "",
+      "line": "tw/ oi( r(usa/sqhn te/rena xro/a. xw/sato d' *(/ektwr,",
+      "context": "r(usa/sqhn te/rena xro/a. xw/sato d' *(/ektwr,",
+      "epithets": []
+    },
+    {
+      "character": "Zeus",
+      "form": "*zeu/s",
+      "line_num": "",
+      "line": "*ca/nqou dinh/entos, o(\\n a)qa/natos te/keto *zeu/s,",
+      "context": "*ca/nqou dinh/entos, o(\\n a)qa/natos te/keto *zeu/s,",
+      "epithets": []
+    },
+    {
+      "character": "Achilles",
+      "form": "*)axilh=os",
+      "line_num": "",
+      "line": "*phlei/+dew *)axilh=os: o(\\ d' a)nsth/sei o(\\n e(tai=ron",
+      "context": "*phlei/+dew *)axilh=os: o(\\ d' a)nsth/sei o(\\n e(tai=ron",
+      "epithets": []
+    },
+    {
+      "character": "Hector",
+      "form": "*(/ektwr",
+      "line_num": "65",
+      "line": "*pa/troklon: to\\n de\\ ktenei= e)/gxei+ fai/dimos *(/ektwr",
+      "context": "to\\n de\\ ktenei= e)/gxei+ fai/dimos *(/ektwr",
+      "epithets": []
+    },
+    {
+      "character": "Patroclus",
+      "form": "*pa/troklon",
+      "line_num": "65",
+      "line": "*pa/troklon: to\\n de\\ ktenei= e)/gxei+ fai/dimos *(/ektwr",
+      "context": "*pa/troklon: to\\n de\\ ktenei= e)/gxei+ fai/dimos",
+      "epithets": []
+    },
+    {
+      "character": "Achilles",
+      "form": "*)axilleu/s",
+      "line_num": "",
+      "line": "tou= de\\ xolwsa/menos ktenei= *(/ektora di=os *)axilleu/s.",
+      "context": "de\\ xolwsa/menos ktenei= *(/ektora di=os *)axilleu/s.",
+      "epithets": [
+        "di=os"
+      ]
+    },
+    {
+      "character": "Zeus",
+      "form": "*dio/s",
+      "line_num": "",
+      "line": "au)ta\\r e)ph\\n e)/lqhte, *dio/s t' ei)s w)=pa i)/dhsqe,",
+      "context": "au)ta\\r e)ph\\n e)/lqhte, *dio/s t' ei)s w)=pa i)/dhsqe,",
+      "epithets": []
+    },
+    {
+      "character": "Zeus",
+      "form": "*zeu/s",
+      "line_num": "220",
+      "line": "kai\\ to/t' *)apo/llwna prose/fh nefelhgere/ta *zeu/s:",
+      "context": "kai\\ to/t' *)apo/llwna prose/fh nefelhgere/ta *zeu/s:",
+      "epithets": []
+    },
+    {
+      "character": "Hector",
+      "form": "*(/ektwr",
+      "line_num": "",
+      "line": "soi\\ d' au)tw=| mele/tw e(kathbo/le fai/dimos *(/ektwr:",
+      "context": "d' au)tw=| mele/tw e(kathbo/le fai/dimos *(/ektwr:",
+      "epithets": []
+    },
+    {
+      "character": "Hector",
+      "form": "*(/ektwr",
+      "line_num": "",
+      "line": "to\\n d' o)ligodrane/wn prose/fh koruqai/olos *(/ektwr:",
+      "context": "to\\n d' o)ligodrane/wn prose/fh koruqai/olos *(/ektwr:",
+      "epithets": [
+        "koruqai/olos"
+      ]
+    },
+    {
+      "character": "Hector",
+      "form": "*(/ektwr",
+      "line_num": "",
+      "line": "w(\\s *(/ektwr laiyhra\\ po/das kai\\ gou/nat' e)nw/ma",
+      "context": "w(\\s *(/ektwr laiyhra\\ po/das kai\\ gou/nat' e)nw/ma",
+      "epithets": []
+    },
+    {
+      "character": "Hector",
+      "form": "*(/ektwr",
+      "line_num": "",
+      "line": "*(/ektwr: h)= qh/n min ma/la e)/lpeto qumo\\s e(ka/stou",
+      "context": "*(/ektwr: h)= qh/n min ma/la e)/lpeto",
+      "epithets": []
+    },
+    {
+      "character": "Hector",
+      "form": "*(/ektwr",
+      "line_num": "",
+      "line": "*trw=es de\\ prou)/tuyan a)olle/es, h)=rxe d' a)/r' *(/ektwr",
+      "context": "prou)/tuyan a)olle/es, h)=rxe d' a)/r' *(/ektwr",
+      "epithets": []
+    },
+    {
+      "character": "Hector",
+      "form": "*(/ektwr",
+      "line_num": "",
+      "line": "*(/ektwr me\\n *stixi/on te kai\\ *)arkesi/laon e)/pefne,",
+      "context": "*(/ektwr me\\n *stixi/on te kai\\ *)arkesi/laon",
+      "epithets": []
+    },
+    {
+      "character": "Hector",
+      "form": "*(/ektwr",
+      "line_num": "",
+      "line": "*(/ektwr de\\ *trw/essin e)ke/kleto makro\\n a)u/+sas",
+      "context": "*(/ektwr de\\ *trw/essin e)ke/kleto makro\\n a)u/+sas",
+      "epithets": []
+    },
+    {
+      "character": "Zeus",
+      "form": "*zeu/s",
+      "line_num": "",
+      "line": "w(\\s e)/fat' eu)xo/menos, me/ga d' e)/ktupe mhti/eta *zeu/s,",
+      "context": "eu)xo/menos, me/ga d' e)/ktupe mhti/eta *zeu/s,",
+      "epithets": []
+    },
+    {
+      "character": "Patroclus",
+      "form": "*pa/troklos",
+      "line_num": "390",
+      "line": "*pa/troklos d' ei(=os me\\n *)axaioi/ te *trw=e/s te",
+      "context": "*pa/troklos d' ei(=os me\\n *)axaioi/ te",
+      "epithets": []
+    },
+    {
+      "character": "Achilles",
+      "form": "*)axilh=",
+      "line_num": "",
+      "line": "speu/somai ei)s *)axilh=a, i(/n' o)tru/nw polemi/zein.",
+      "context": "speu/somai ei)s *)axilh=a, i(/n' o)tru/nw polemi/zein.",
+      "epithets": []
+    },
+    {
+      "character": "Hector",
+      "form": "*(/ektwr",
+      "line_num": "415",
+      "line": "*(/ektwr d' a)/nt' *ai)/antos e)ei/sato kudali/moio.",
+      "context": "*(/ektwr d' a)/nt' *ai)/antos e)ei/sato kudali/moio.",
+      "epithets": []
+    },
+    {
+      "character": "Hector",
+      "form": "*(/ektwr",
+      "line_num": "",
+      "line": "*(/ektwr d' w(s e)no/hsen a)neyio\\n o)fqalmoi=sin",
+      "context": "*(/ektwr d' w(s e)no/hsen a)neyio\\n o)fqalmoi=sin",
+      "epithets": []
+    },
+    {
+      "character": "Hector",
+      "form": "*(/ektwr",
+      "line_num": "440",
+      "line": "to\\n d' *(/ektwr mega/qumos a)pe/ktane. pou= nu/ toi i)oi\\",
+      "context": "to\\n d' *(/ektwr mega/qumos a)pe/ktane. pou= nu/ toi",
+      "epithets": [
+        "mega/qumos"
+      ]
+    },
+    {
+      "character": "Hector",
+      "form": "*(/ektwr",
+      "line_num": "",
+      "line": "*(/ektwr d' w(s ei)=den *teu/krou blafqe/nta be/lemna,",
+      "context": "*(/ektwr d' w(s ei)=den *teu/krou blafqe/nta",
+      "epithets": []
+    },
+    {
+      "character": "Hector",
+      "form": "*(/ektwr",
+      "line_num": "",
+      "line": "h)= e)/lpesq' h)\\n nh=as e(/lh| koruqai/olos *(/ektwr",
+      "context": "e)/lpesq' h)\\n nh=as e(/lh| koruqai/olos *(/ektwr",
+      "epithets": [
+        "koruqai/olos"
+      ]
+    },
+    {
+      "character": "Hector",
+      "form": "*(/ektwr",
+      "line_num": "515",
+      "line": "e)/nq' *(/ektwr me\\n e(/le *sxedi/on *perimh/deos ui(o\\n",
+      "context": "e)/nq' *(/ektwr me\\n e(/le *sxedi/on *perimh/deos ui(o\\n",
+      "epithets": []
+    },
+    {
+      "character": "Hector",
+      "form": "*(/ektwr",
+      "line_num": "545",
+      "line": "sulh/sein: *(/ektwr de\\ kasignh/toisi ke/leuse",
+      "context": "sulh/sein: *(/ektwr de\\ kasignh/toisi ke/leuse",
+      "epithets": []
+    },
+    {
+      "character": "Hector",
+      "form": "*(/ektwr",
+      "line_num": "",
+      "line": "to/n r(' *(/ektwr e)ne/nipen e)/pos t' e)/fat' e)/k t' o)no/mazen:",
+      "context": "to/n r(' *(/ektwr e)ne/nipen e)/pos t' e)/fat' e)/k",
+      "epithets": []
+    },
+    {
+      "character": "Hector",
+      "form": "*(/ektwr",
+      "line_num": "",
+      "line": "w(\\s tre/se *nestori/dhs, e)pi\\ de\\ *trw=e/s te kai\\ *(/ektwr",
+      "context": "e)pi\\ de\\ *trw=e/s te kai\\ *(/ektwr",
+      "epithets": []
+    },
+    {
+      "character": "Zeus",
+      "form": "*zeu/s",
+      "line_num": "",
+      "line": "*zeu/s, o(/s min pleo/nessi met' a)ndra/si mou=non e)o/nta",
+      "context": "*zeu/s, o(/s min pleo/nessi met' a)ndra/si",
+      "epithets": []
+    },
+    {
+      "character": "Hector",
+      "form": "*(/ektwr",
+      "line_num": "",
+      "line": "*(/ektwr d' o)cu\\ no/hse, qe/wn de/ oi( a)/gxi pare/sth,",
+      "context": "*(/ektwr d' o)cu\\ no/hse, qe/wn de/",
+      "epithets": []
+    },
+    {
+      "character": "Hector",
+      "form": "*(/ektwr",
+      "line_num": "",
+      "line": "nhusi/ te kai\\ klisi/h|sin a)mune/men. ou)de\\ me\\n *(/ektwr",
+      "context": "kai\\ klisi/h|sin a)mune/men. ou)de\\ me\\n *(/ektwr",
+      "epithets": []
+    },
+    {
+      "character": "Hector",
+      "form": "*(/ektwr",
+      "line_num": "",
+      "line": "w(\\s *(/ektwr i)/quse neo\\s kuanoprw/|roio",
+      "context": "w(\\s *(/ektwr i)/quse neo\\s kuanoprw/|roio",
+      "epithets": []
+    },
+    {
+      "character": "Hector",
+      "form": "*(/ektwr",
+      "line_num": "",
+      "line": "*(/ektwr de\\ prumnh=s neo\\s h(/yato pontopo/roio",
+      "context": "*(/ektwr de\\ prumnh=s neo\\s h(/yato pontopo/roio",
+      "epithets": []
+    },
+    {
+      "character": "Hector",
+      "form": "*(/ektwr",
+      "line_num": "",
+      "line": "*(/ektwr de\\ pru/mnhqen e)pei\\ la/ben ou)xi\\ meqi/ei",
+      "context": "*(/ektwr de\\ pru/mnhqen e)pei\\ la/ben ou)xi\\",
+      "epithets": []
+    },
+    {
+      "character": "Achilles",
+      "form": "*)axilh=i",
+      "line_num": "",
+      "line": "*pa/troklos d' *)axilh=i+ pari/stato poime/ni law=n",
+      "context": "*pa/troklos d' *)axilh=i+ pari/stato poime/ni law=n",
+      "epithets": []
+    },
+    {
+      "character": "Patroclus",
+      "form": "*pa/troklos",
+      "line_num": "",
+      "line": "*pa/troklos d' *)axilh=i+ pari/stato poime/ni law=n",
+      "context": "*pa/troklos d' *)axilh=i+ pari/stato poime/ni law=n",
+      "epithets": []
+    },
+    {
+      "character": "Achilles",
+      "form": "*)axilleu/s",
+      "line_num": "5",
+      "line": "to\\n de\\ i)dw\\n w)/|ktire poda/rkhs di=os *)axilleu/s,",
+      "context": "de\\ i)dw\\n w)/|ktire poda/rkhs di=os *)axilleu/s,",
+      "epithets": [
+        "poda/rkhs",
+        "di=os"
+      ]
+    },
+    {
+      "character": "Achilles",
+      "form": "*)axileu=",
+      "line_num": "",
+      "line": "w)= *)axileu= *phlh=os ui(e\\ me/ga fe/rtat' *)axaiw=n",
+      "context": "w)= *)axileu= *phlh=os ui(e\\ me/ga fe/rtat' *)axaiw=n",
+      "epithets": []
+    },
+    {
+      "character": "Achilles",
+      "form": "*)axilleu=",
+      "line_num": "",
+      "line": "e(/lke' a)keio/menoi: su\\ d' a)mh/xanos e)/pleu *)axilleu=.",
+      "context": "a)keio/menoi: su\\ d' a)mh/xanos e)/pleu *)axilleu=.",
+      "epithets": []
+    },
+    {
+      "character": "Achilles",
+      "form": "*)axilleu/s",
+      "line_num": "",
+      "line": "to\\n de\\ me/g' o)xqh/sas prose/fh po/das w)ku\\s *)axilleu/s:",
+      "context": "me/g' o)xqh/sas prose/fh po/das w)ku\\s *)axilleu/s:",
+      "epithets": []
+    },
+    {
+      "character": "Hector",
+      "form": "*(/ektwr",
+      "line_num": "",
+      "line": "*(/ektwr *ai)/antos do/ru mei/linon a)/gxi parasta\\s",
+      "context": "*(/ektwr *ai)/antos do/ru mei/linon a)/gxi parasta\\s",
+      "epithets": []
+    },
+    {
+      "character": "Patroclus",
+      "form": "*pa/troklos",
+      "line_num": "130",
+      "line": "w(\\s fa/to, *pa/troklos de\\ koru/sseto nw/ropi xalkw=|.",
+      "context": "w(\\s fa/to, *pa/troklos de\\ koru/sseto nw/ropi xalkw=|.",
+      "epithets": []
+    },
+    {
+      "character": "Achilles",
+      "form": "*)axilleu/s",
+      "line_num": "",
+      "line": "to/n r(a/ pot' *)heti/wnos e(lw\\n po/lin h)/gag' *)axilleu/s,",
+      "context": "pot' *)heti/wnos e(lw\\n po/lin h)/gag' *)axilleu/s,",
+      "epithets": []
+    },
+    {
+      "character": "Achilles",
+      "form": "*)axilleu/s",
+      "line_num": "",
+      "line": "r(w/ont': e)n d' a)/ra toi=sin a)rh/i+os i(/stat' *)axilleu/s,",
+      "context": "d' a)/ra toi=sin a)rh/i+os i(/stat' *)axilleu/s,",
+      "epithets": []
+    },
+    {
+      "character": "Zeus",
+      "form": "*di/a",
+      "line_num": "",
+      "line": "ou)rano\\n ei)sanidw/n: *di/a d' ou) la/qe terpike/raunon:",
+      "context": "ou)rano\\n ei)sanidw/n: *di/a d' ou) la/qe terpike/raunon:",
+      "epithets": []
+    },
+    {
+      "character": "Hector",
+      "form": "*(/ektwr",
+      "line_num": "",
+      "line": "qa/rsunon de/ oi( h)=tor e)ni\\ fresi/n, o)/fra kai\\ *(/ektwr",
+      "context": "h)=tor e)ni\\ fresi/n, o)/fra kai\\ *(/ektwr",
+      "epithets": []
+    },
+    {
+      "character": "Zeus",
+      "form": "*zeu/s",
+      "line_num": "",
+      "line": "w(\\s e)/fat' eu)xo/menos, tou= d' e)/klue mhti/eta *zeu/s.",
+      "context": "eu)xo/menos, tou= d' e)/klue mhti/eta *zeu/s.",
+      "epithets": []
+    },
+    {
+      "character": "Patroclus",
+      "form": "*patro/klw|",
+      "line_num": "",
+      "line": "oi(\\ d' a(/ma *patro/klw| megalh/tori qwrhxqe/ntes",
+      "context": "oi(\\ d' a(/ma *patro/klw| megalh/tori qwrhxqe/ntes",
+      "epithets": []
+    },
+    {
+      "character": "Patroclus",
+      "form": "*pa/troklos",
+      "line_num": "",
+      "line": "*pa/troklos d' e(ta/roisin e)ke/kleto makro\\n a)u/+sas:",
+      "context": "*pa/troklos d' e(ta/roisin e)ke/kleto makro\\n a)u/+sas:",
+      "epithets": []
+    },
+    {
+      "character": "Achilles",
+      "form": "*)axilh=os",
+      "line_num": "",
+      "line": "*murmido/nes e(/taroi *phlhi+a/dew *)axilh=os",
+      "context": "*murmido/nes e(/taroi *phlhi+a/dew *)axilh=os",
+      "epithets": []
+    },
+    {
+      "character": "Patroclus",
+      "form": "*pa/troklos",
+      "line_num": "",
+      "line": "*pa/troklos de\\ prw=tos a)ko/ntise douri\\ faeinw=|",
+      "context": "*pa/troklos de\\ prw=tos a)ko/ntise douri\\ faeinw=|",
+      "epithets": []
+    },
+    {
+      "character": "Patroclus",
+      "form": "*pa/troklos",
+      "line_num": "",
+      "line": "*pai/ones: e)n ga\\r *pa/troklos fo/bon h(=ken a(/pasin",
+      "context": "*pai/ones: e)n ga\\r *pa/troklos fo/bon h(=ken a(/pasin",
+      "epithets": []
+    },
+    {
+      "character": "Zeus",
+      "form": "*zeu/s",
+      "line_num": "",
+      "line": "kinh/sh| pukinh\\n nefe/lhn sterophgere/ta *zeu/s,",
+      "context": "kinh/sh| pukinh\\n nefe/lhn sterophgere/ta *zeu/s,",
+      "epithets": []
+    },
+    {
+      "character": "Patroclus",
+      "form": "*pa/troklos",
+      "line_num": "",
+      "line": "*pa/troklos d' e(/peto sfedano\\n *danaoi=si keleu/wn",
+      "context": "*pa/troklos d' e(/peto sfedano\\n *danaoi=si keleu/wn",
+      "epithets": []
+    },
+    {
+      "character": "Patroclus",
+      "form": "*pa/troklos",
+      "line_num": "",
+      "line": "*pa/troklos d' h(=| plei=ston o)rino/menon i)/de lao/n,",
+      "context": "*pa/troklos d' h(=| plei=ston o)rino/menon i)/de",
+      "epithets": []
+    },
+    {
+      "character": "Zeus",
+      "form": "*zeu/s",
+      "line_num": "",
+      "line": "*zeu/s, o(/te dh/ r(' a)/ndressi kotessa/menos xaleph/nh|,",
+      "context": "*zeu/s, o(/te dh/ r(' a)/ndressi kotessa/menos",
+      "epithets": []
+    },
+    {
+      "character": "Patroclus",
+      "form": "*pa/troklos",
+      "line_num": "",
+      "line": "*pa/troklos d' e)pei\\ ou)=n prw/tas e)pe/kerse fa/laggas,",
+      "context": "*pa/troklos d' e)pei\\ ou)=n prw/tas e)pe/kerse",
+      "epithets": []
+    },
+    {
+      "character": "Patroclus",
+      "form": "*pa/troklos",
+      "line_num": "",
+      "line": "*pa/troklos d' e(te/rwqen e)pei\\ i)/den e)/kqore di/frou.",
+      "context": "*pa/troklos d' e(te/rwqen e)pei\\ i)/den e)/kqore",
+      "epithets": []
+    },
+    {
+      "character": "Patroclus",
+      "form": "*pa/troklos",
+      "line_num": "460",
+      "line": "pai=da fi/lon timw=n, to/n oi( *pa/troklos e)/melle",
+      "context": "pai=da fi/lon timw=n, to/n oi( *pa/troklos e)/melle",
+      "epithets": []
+    },
+    {
+      "character": "Patroclus",
+      "form": "*pa/troklos",
+      "line_num": "",
+      "line": "e)/nq' h)/toi *pa/troklos a)gakleito\\n *qrasu/mhlon,",
+      "context": "e)/nq' h)/toi *pa/troklos a)gakleito\\n *qrasu/mhlon,",
+      "epithets": []
+    },
+    {
+      "character": "Patroclus",
+      "form": "*patro/klou",
+      "line_num": "",
+      "line": "*patro/klou d' u(pe\\r w)=mon a)ristero\\n h)/luq' a)kwkh\\",
+      "context": "*patro/klou d' u(pe\\r w)=mon a)ristero\\n h)/luq'",
+      "epithets": []
+    },
+    {
+      "character": "Patroclus",
+      "form": "*pa/troklos",
+      "line_num": "480",
+      "line": "*pa/troklos: tou= d' ou)x a(/lion be/los e)/kfuge xeiro/s,",
+      "context": "*pa/troklos: tou= d' ou)x a(/lion be/los",
+      "epithets": []
+    },
+    {
+      "character": "Patroclus",
+      "form": "*patro/klw|",
+      "line_num": "490",
+      "line": "w(\\s u(po\\ *patro/klw| *luki/wn a)go\\s a)spista/wn",
+      "context": "w(\\s u(po\\ *patro/klw| *luki/wn a)go\\s a)spista/wn",
+      "epithets": []
+    },
+    {
+      "character": "Patroclus",
+      "form": "*patro/klw|",
+      "line_num": "",
+      "line": "to\\n d' u(po\\ *patro/klw| da/mas' e)/gxei+ xa/lkeos *)/arhs.",
+      "context": "to\\n d' u(po\\ *patro/klw| da/mas' e)/gxei+ xa/lkeos *)/arhs.",
+      "epithets": []
+    },
+    {
+      "character": "Hector",
+      "form": "*(/ektwr",
+      "line_num": "",
+      "line": "*(/ektwr xwo/menos *sarphdo/nos. au)ta\\r *)axaiou\\s",
+      "context": "*(/ektwr xwo/menos *sarphdo/nos. au)ta\\r *)axaiou\\s",
+      "epithets": []
+    },
+    {
+      "character": "Hector",
+      "form": "*(/ektwr",
+      "line_num": "",
+      "line": "to/n r(a to/q' a(pto/menon ne/kuos ba/le fai/dimos *(/ektwr",
+      "context": "to/q' a(pto/menon ne/kuos ba/le fai/dimos *(/ektwr",
+      "epithets": []
+    },
+    {
+      "character": "Patroclus",
+      "form": "*patro/klw|",
+      "line_num": "",
+      "line": "*patro/klw| d' a)/r' a)/xos ge/neto fqime/nou e(ta/roio,",
+      "context": "*patro/klw| d' a)/r' a)/xos ge/neto fqime/nou",
+      "epithets": []
+    },
+    {
+      "character": "Hector",
+      "form": "*(/ektwr",
+      "line_num": "",
+      "line": "xw/rhsan d' u(po/ te pro/maxoi kai\\ fai/dimos *(/ektwr.",
+      "context": "u(po/ te pro/maxoi kai\\ fai/dimos *(/ektwr.",
+      "epithets": []
+    },
+    {
+      "character": "Patroclus",
+      "form": "*patro/klou",
+      "line_num": "",
+      "line": "polla\\ ma/l' a)mfi\\ fo/nw| *patro/klou mermhri/zwn,",
+      "context": "polla\\ ma/l' a)mfi\\ fo/nw| *patro/klou mermhri/zwn,",
+      "epithets": []
+    },
+    {
+      "character": "Hector",
+      "form": "*(/ektwr",
+      "line_num": "",
+      "line": "au)tou= e)p' a)ntiqe/w| *sarphdo/ni fai/dimos *(/ektwr",
+      "context": "au)tou= e)p' a)ntiqe/w| *sarphdo/ni fai/dimos *(/ektwr",
+      "epithets": []
+    },
+    {
+      "character": "Achilles",
+      "form": "*)axilh=os",
+      "line_num": "",
+      "line": "o)/fr' h)u\\+s qera/pwn *phlhi+a/dew *)axilh=os",
+      "context": "o)/fr' h)u\\+s qera/pwn *phlhi+a/dew *)axilh=os",
+      "epithets": []
+    },
+    {
+      "character": "Zeus",
+      "form": "*zeu/s",
+      "line_num": "",
+      "line": "kai\\ to/t' *)apo/llwna prose/fh nefelhgere/ta *zeu/s:",
+      "context": "kai\\ to/t' *)apo/llwna prose/fh nefelhgere/ta *zeu/s:",
+      "epithets": []
+    },
+    {
+      "character": "Patroclus",
+      "form": "*pa/troklos",
+      "line_num": "",
+      "line": "*pa/troklos d' i(/ppoisi kai\\ *au)tome/donti keleu/sas",
+      "context": "*pa/troklos d' i(/ppoisi kai\\ *au)tome/donti keleu/sas",
+      "epithets": []
+    },
+    {
+      "character": "Patroclus",
+      "form": "*patro/klou",
+      "line_num": "",
+      "line": "*patro/klou u(po\\ xersi/, peri\\ pro\\ ga\\r e)/gxei+ qu=en,",
+      "context": "*patro/klou u(po\\ xersi/, peri\\ pro\\ ga\\r",
+      "epithets": []
+    },
+    {
+      "character": "Patroclus",
+      "form": "*pa/troklos",
+      "line_num": "",
+      "line": "*pa/troklos, tri\\s d' au)to\\n a)pestufe/licen *)apo/llwn",
+      "context": "*pa/troklos, tri\\s d' au)to\\n a)pestufe/licen *)apo/llwn",
+      "epithets": []
+    },
+    {
+      "character": "Patroclus",
+      "form": "*pa/troklos",
+      "line_num": "710",
+      "line": "w(\\s fa/to, *pa/troklos d' a)nexa/zeto pollo\\n o)pi/ssw",
+      "context": "w(\\s fa/to, *pa/troklos d' a)nexa/zeto pollo\\n o)pi/ssw",
+      "epithets": []
+    },
+    {
+      "character": "Hector",
+      "form": "*(/ektwr",
+      "line_num": "",
+      "line": "*(/ektwr d' e)n *skaih=|si pu/lh|s e)/xe mw/nuxas i(/ppous:",
+      "context": "*(/ektwr d' e)n *skaih=|si pu/lh|s e)/xe",
+      "epithets": []
+    },
+    {
+      "character": "Patroclus",
+      "form": "*patro/klw|",
+      "line_num": "",
+      "line": "a)ll' a)/ge *patro/klw| e)/fepe kraterw/nuxas i(/ppous,",
+      "context": "a)ll' a)/ge *patro/klw| e)/fepe kraterw/nuxas i(/ppous,",
+      "epithets": []
+    },
+    {
+      "character": "Hector",
+      "form": "*(/ektwr",
+      "line_num": "",
+      "line": "*kebrio/nh| d' e)ke/leuse dai/+froni fai/dimos *(/ektwr",
+      "context": "*kebrio/nh| d' e)ke/leuse dai/+froni fai/dimos *(/ektwr",
+      "epithets": []
+    },
+    {
+      "character": "Hector",
+      "form": "*(/ektwr",
+      "line_num": "",
+      "line": "*(/ektwr d' a)/llous me\\n *danaou\\s e)/a ou)d' e)na/rizen:",
+      "context": "*(/ektwr d' a)/llous me\\n *danaou\\s e)/a",
+      "epithets": []
+    },
+    {
+      "character": "Patroclus",
+      "form": "*patro/klw|",
+      "line_num": "",
+      "line": "au)ta\\r o(\\ *patro/klw| e)/fepe kraterw/nuxas i(/ppous.",
+      "context": "au)ta\\r o(\\ *patro/klw| e)/fepe kraterw/nuxas i(/ppous.",
+      "epithets": []
+    },
+    {
+      "character": "Patroclus",
+      "form": "*pa/troklos",
+      "line_num": "",
+      "line": "*pa/troklos d' e(te/rwqen a)f' i(/ppwn a)=lto xama=ze",
+      "context": "*pa/troklos d' e(te/rwqen a)f' i(/ppwn a)=lto",
+      "epithets": []
+    },
+    {
+      "character": "Hector",
+      "form": "*(/ektwr",
+      "line_num": "755",
+      "line": "*(/ektwr d' au)=q' e(te/rwqen a)f' i(/ppwn a)=lto xama=ze.",
+      "context": "*(/ektwr d' au)=q' e(te/rwqen a)f' i(/ppwn",
+      "epithets": []
+    },
+    {
+      "character": "Hector",
+      "form": "*(/ektwr",
+      "line_num": "760",
+      "line": "*pa/troklo/s te *menoitia/dhs kai\\ fai/dimos *(/ektwr",
+      "context": "*pa/troklo/s te *menoitia/dhs kai\\ fai/dimos *(/ektwr",
+      "epithets": []
+    },
+    {
+      "character": "Hector",
+      "form": "*(/ektwr",
+      "line_num": "",
+      "line": "*(/ektwr me\\n kefalh=fin e)pei\\ la/ben ou)xi\\ meqi/ei:",
+      "context": "*(/ektwr me\\n kefalh=fin e)pei\\ la/ben ou)xi\\",
+      "epithets": []
+    },
+    {
+      "character": "Patroclus",
+      "form": "*pa/troklos",
+      "line_num": "",
+      "line": "*pa/troklos d' e(te/rwqen e)/xen podo/s: oi(\\ de\\ dh\\ a)/lloi",
+      "context": "*pa/troklos d' e(te/rwqen e)/xen podo/s: oi(\\",
+      "epithets": []
+    },
+    {
+      "character": "Patroclus",
+      "form": "*pa/troklos",
+      "line_num": "",
+      "line": "*pa/troklos de\\ *trwsi\\ kaka\\ frone/wn e)no/rouse.",
+      "context": "*pa/troklos de\\ *trwsi\\ kaka\\ frone/wn e)no/rouse.",
+      "epithets": []
+    },
+    {
+      "character": "Patroclus",
+      "form": "*pa/troklon",
+      "line_num": "815",
+      "line": "*pa/troklon gumno/n per e)o/nt' e)n dhi+oth=ti.",
+      "context": "*pa/troklon gumno/n per e)o/nt' e)n dhi+oth=ti.",
+      "epithets": []
+    },
+    {
+      "character": "Patroclus",
+      "form": "*pa/troklos",
+      "line_num": "",
+      "line": "*pa/troklos de\\ qeou= plhgh=| kai\\ douri\\ damasqei\\s",
+      "context": "*pa/troklos de\\ qeou= plhgh=| kai\\ douri\\",
+      "epithets": []
+    },
+    {
+      "character": "Hector",
+      "form": "*(/ektwr",
+      "line_num": "",
+      "line": "*(/ektwr d' w(s ei)=den *patroklh=a mega/qumon",
+      "context": "*(/ektwr d' w(s ei)=den *patroklh=a mega/qumon",
+      "epithets": []
+    },
+    {
+      "character": "Hector",
+      "form": "*(/ektwr",
+      "line_num": "",
+      "line": "*(/ektwr *priami/dhs sxedo\\n e)/gxei+ qumo\\n a)phu/ra,",
+      "context": "*(/ektwr *priami/dhs sxedo\\n e)/gxei+ qumo\\n a)phu/ra,",
+      "epithets": []
+    },
+    {
+      "character": "Achilles",
+      "form": "*)axilleu/s",
+      "line_num": "",
+      "line": "a)= dei/l', ou)de/ toi e)sqlo\\s e)w\\n xrai/smhsen *)axilleu/s,",
+      "context": "ou)de/ toi e)sqlo\\s e)w\\n xrai/smhsen *)axilleu/s,",
+      "epithets": []
+    },
+    {
+      "character": "Achilles",
+      "form": "*)axilh=os",
+      "line_num": "",
+      "line": "xersi\\ dame/nt' *)axilh=os a)mu/monos *ai)aki/dao.",
+      "context": "xersi\\ dame/nt' *)axilh=os a)mu/monos *ai)aki/dao.",
+      "epithets": []
+    },
+    {
+      "character": "Hector",
+      "form": "*(/ektwr",
+      "line_num": "",
+      "line": "to\\n kai\\ teqnhw=ta proshu/da fai/dimos *(/ektwr:",
+      "context": "to\\n kai\\ teqnhw=ta proshu/da fai/dimos *(/ektwr:",
+      "epithets": []
+    },
+    {
+      "character": "Patroclus",
+      "form": "*pa/troklos",
+      "line_num": "",
+      "line": "*pa/troklos *trw/essi damei\\s e)n dhi+oth=ti.",
+      "context": "*pa/troklos *trw/essi damei\\s e)n dhi+oth=ti.",
+      "epithets": []
+    },
+    {
+      "character": "Patroclus",
+      "form": "*patro/klw|",
+      "line_num": "",
+      "line": "w(\\s peri\\ *patro/klw| bai=ne canqo\\s *mene/laos.",
+      "context": "w(\\s peri\\ *patro/klw| bai=ne canqo\\s *mene/laos.",
+      "epithets": []
+    },
+    {
+      "character": "Patroclus",
+      "form": "*pa/troklon",
+      "line_num": "15",
+      "line": "*pa/troklon ba/le douri\\ kata\\ kraterh\\n u(smi/nhn:",
+      "context": "*pa/troklon ba/le douri\\ kata\\ kraterh\\n u(smi/nhn:",
+      "epithets": []
+    },
+    {
+      "character": "Achilles",
+      "form": "*)axilh=i",
+      "line_num": "",
+      "line": "a)/llw| g' h)\\ *)axilh=i+, to\\n a)qana/th te/ke mh/thr.",
+      "context": "a)/llw| g' h)\\ *)axilh=i+, to\\n a)qana/th te/ke mh/thr.",
+      "epithets": []
+    },
+    {
+      "character": "Patroclus",
+      "form": "*patro/klw|",
+      "line_num": "80",
+      "line": "*patro/klw| periba\\s *trw/wn to\\n a)/riston e)/pefne",
+      "context": "*patro/klw| periba\\s *trw/wn to\\n a)/riston e)/pefne",
+      "epithets": []
+    },
+    {
+      "character": "Hector",
+      "form": "*(/ektwr",
+      "line_num": "",
+      "line": "*trw=as d' e)nqa/de pa/ntas a)/gei koruqai/olos *(/ektwr.",
+      "context": "d' e)nqa/de pa/ntas a)/gei koruqai/olos *(/ektwr.",
+      "epithets": [
+        "koruqai/olos"
+      ]
+    },
+    {
+      "character": "Achilles",
+      "form": "*)axilh=i",
+      "line_num": "105",
+      "line": "*phlei/+dh| *)axilh=i+: kakw=n de/ ke fe/rtaton ei)/h.",
+      "context": "*phlei/+dh| *)axilh=i+: kakw=n de/ ke fe/rtaton ei)/h.",
+      "epithets": []
+    },
+    {
+      "character": "Hector",
+      "form": "*(/ektwr",
+      "line_num": "",
+      "line": "to/fra d' e)pi\\ *trw/wn sti/xes h)/luqon: h)=rxe d' a)/r' *(/ektwr.",
+      "context": "sti/xes h)/luqon: h)=rxe d' a)/r' *(/ektwr.",
+      "epithets": []
+    },
+    {
+      "character": "Hector",
+      "form": "*(/ektwr",
+      "line_num": "",
+      "line": "gumno/n: a)ta\\r ta/ ge teu/xe' e)/xei koruqai/olos *(/ektwr.",
+      "context": "ta/ ge teu/xe' e)/xei koruqai/olos *(/ektwr.",
+      "epithets": [
+        "koruqai/olos"
+      ]
+    },
+    {
+      "character": "Hector",
+      "form": "*(/ektwr",
+      "line_num": "125",
+      "line": "*(/ektwr me\\n *pa/troklon e)pei\\ kluta\\ teu/xe' a)phu/ra,",
+      "context": "*(/ektwr me\\n *pa/troklon e)pei\\ kluta\\ teu/xe'",
+      "epithets": []
+    },
+    {
+      "character": "Patroclus",
+      "form": "*pa/troklon",
+      "line_num": "125",
+      "line": "*(/ektwr me\\n *pa/troklon e)pei\\ kluta\\ teu/xe' a)phu/ra,",
+      "context": "*(/ektwr me\\n *pa/troklon e)pei\\ kluta\\ teu/xe' a)phu/ra,",
+      "epithets": []
+    },
+    {
+      "character": "Hector",
+      "form": "*(/ektwr",
+      "line_num": "",
+      "line": "*(/ektwr d' a)\\y e)s o(/milon i)w\\n a)nexa/zeq' e(tai/rwn,",
+      "context": "*(/ektwr d' a)\\y e)s o(/milon i)w\\n",
+      "epithets": []
+    },
+    {
+      "character": "Patroclus",
+      "form": "*patro/klw|",
+      "line_num": "",
+      "line": "w(\\s *ai)/as peri\\ *patro/klw| h(/rwi+ bebh/kei.",
+      "context": "w(\\s *ai)/as peri\\ *patro/klw| h(/rwi+ bebh/kei.",
+      "epithets": []
+    },
+    {
+      "character": "Patroclus",
+      "form": "*pa/troklon",
+      "line_num": "",
+      "line": "ai)=ya/ ke *pa/troklon e)rusai/meqa *)/ilion ei)/sw.",
+      "context": "ai)=ya/ ke *pa/troklon e)rusai/meqa *)/ilion ei)/sw.",
+      "epithets": []
+    },
+    {
+      "character": "Hector",
+      "form": "*(/ektwr",
+      "line_num": "",
+      "line": "to\\n d' a)/r' u(po/dra i)dw\\n prose/fh koruqai/olos *(/ektwr:",
+      "context": "a)/r' u(po/dra i)dw\\n prose/fh koruqai/olos *(/ektwr:",
+      "epithets": [
+        "koruqai/olos"
+      ]
+    },
+    {
+      "character": "Achilles",
+      "form": "*)axilh=os",
+      "line_num": "",
+      "line": "o)/fr' a)\\n e)gw\\n *)axilh=os a)mu/monos e)/ntea du/w",
+      "context": "o)/fr' a)\\n e)gw\\n *)axilh=os a)mu/monos e)/ntea du/w",
+      "epithets": []
+    },
+    {
+      "character": "Hector",
+      "form": "*(/ektwr",
+      "line_num": "",
+      "line": "w(\\s a)/ra fwnh/sas a)pe/bh koruqai/olos *(/ektwr",
+      "context": "w(\\s a)/ra fwnh/sas a)pe/bh koruqai/olos *(/ektwr",
+      "epithets": [
+        "koruqai/olos"
+      ]
+    },
+    {
+      "character": "Achilles",
+      "form": "*)axilh=os",
+      "line_num": "195",
+      "line": "*phlei/+dew *)axilh=os a(/ oi( qeoi\\ *ou)rani/wnes",
+      "context": "*phlei/+dew *)axilh=os a(/ oi( qeoi\\ *ou)rani/wnes",
+      "epithets": []
+    },
+    {
+      "character": "Patroclus",
+      "form": "*pa/troklon",
+      "line_num": "",
+      "line": "o(\\s de/ ke *pa/troklon kai\\ teqnhw=ta/ per e)/mphs",
+      "context": "o(\\s de/ ke *pa/troklon kai\\ teqnhw=ta/ per e)/mphs",
+      "epithets": []
+    },
+    {
+      "character": "Hector",
+      "form": "*(/ektwr",
+      "line_num": "",
+      "line": "*(/ektwr, h(mi=n d' au)=t' a)nafai/netai ai)pu\\s o)/leqros.",
+      "context": "*(/ektwr, h(mi=n d' au)=t' a)nafai/netai ai)pu\\s",
+      "epithets": []
+    },
+    {
+      "character": "Patroclus",
+      "form": "*pa/troklon",
+      "line_num": "255",
+      "line": "*pa/troklon *trw|h=|si kusi\\n me/lphqra gene/sqai.",
+      "context": "*pa/troklon *trw|h=|si kusi\\n me/lphqra gene/sqai.",
+      "epithets": []
+    },
+    {
+      "character": "Hector",
+      "form": "*(/ektwr",
+      "line_num": "",
+      "line": "*trw=es de\\ prou)/tuyan a)olle/es: h)=rxe d' a)/r' *(/ektwr.",
+      "context": "prou)/tuyan a)olle/es: h)=rxe d' a)/r' *(/ektwr.",
+      "epithets": []
+    },
+    {
+      "character": "Patroclus",
+      "form": "*patro/klw|",
+      "line_num": "",
+      "line": "oi(\\ peri\\ *patro/klw| be/basan, fro/neon de\\ ma/lista",
+      "context": "oi(\\ peri\\ *patro/klw| be/basan, fro/neon de\\ ma/lista",
+      "epithets": []
+    },
+    {
+      "character": "Hector",
+      "form": "*(/ektwr",
+      "line_num": "",
+      "line": "*(/ektwr d' au)=t' *ai)/antos a)ko/ntise douri\\ faeinw=|:",
+      "context": "*(/ektwr d' au)=t' *ai)/antos a)ko/ntise douri\\",
+      "epithets": []
+    },
+    {
+      "character": "Hector",
+      "form": "*(/ektwr",
+      "line_num": "",
+      "line": "xw/rhsan d' u(po/ te pro/maxoi kai\\ fai/dimos *(/ektwr:",
+      "context": "u(po/ te pro/maxoi kai\\ fai/dimos *(/ektwr:",
+      "epithets": []
+    },
+    {
+      "character": "Patroclus",
+      "form": "*pa/troklon",
+      "line_num": "",
+      "line": "*pa/troklon nhusi\\n pelasai/ato teqnhw=ta.",
+      "context": "*pa/troklon nhusi\\n pelasai/ato teqnhw=ta.",
+      "epithets": []
+    },
+    {
+      "character": "Patroclus",
+      "form": "*patro/klw|",
+      "line_num": "355",
+      "line": "e(stao/tes peri\\ *patro/klw|, pro\\ de\\ dou/rat' e)/xonto.",
+      "context": "e(stao/tes peri\\ *patro/klw|, pro\\ de\\ dou/rat' e)/xonto.",
+      "epithets": []
+    },
+    {
+      "character": "Patroclus",
+      "form": "*patro/klw|",
+      "line_num": "400",
+      "line": "toi=on *zeu\\s e)pi\\ *patro/klw| a)ndrw=n te kai\\ i(/ppwn",
+      "context": "toi=on *zeu\\s e)pi\\ *patro/klw| a)ndrw=n te kai\\ i(/ppwn",
+      "epithets": []
+    },
+    {
+      "character": "Achilles",
+      "form": "*)axilleu/s",
+      "line_num": "",
+      "line": "h)/|dee *pa/troklon teqnho/ta di=os *)axilleu/s:",
+      "context": "h)/|dee *pa/troklon teqnho/ta di=os *)axilleu/s:",
+      "epithets": [
+        "di=os"
+      ]
+    },
+    {
+      "character": "Patroclus",
+      "form": "*pa/troklon",
+      "line_num": "",
+      "line": "h)/|dee *pa/troklon teqnho/ta di=os *)axilleu/s:",
+      "context": "h)/|dee *pa/troklon teqnho/ta di=os *)axilleu/s:",
+      "epithets": [
+        "di=os"
+      ]
+    },
+    {
+      "character": "Hector",
+      "form": "*(/ektwr",
+      "line_num": "",
+      "line": "*(/ektwr *priami/dhs e)poxh/setai: ou) ga\\r e)a/sw.",
+      "context": "*(/ektwr *priami/dhs e)poxh/setai: ou) ga\\r e)a/sw.",
+      "epithets": []
+    },
+    {
+      "character": "Hector",
+      "form": "*(/ektwr",
+      "line_num": "",
+      "line": "mou=nos: a)ta/r toi e(tai=ros a)pe/ktato, teu/xea d' *(/ektwr",
+      "context": "toi e(tai=ros a)pe/ktato, teu/xea d' *(/ektwr",
+      "epithets": []
+    },
+    {
+      "character": "Patroclus",
+      "form": "*pa/troklos",
+      "line_num": "",
+      "line": "ei) mh\\ *pa/troklos qeo/fin mh/stwr a)ta/lantos",
+      "context": "ei) mh\\ *pa/troklos qeo/fin mh/stwr a)ta/lantos",
+      "epithets": []
+    },
+    {
+      "character": "Hector",
+      "form": "*(/ektwr",
+      "line_num": "",
+      "line": "*au)tome/dwn d' a)po/rouse: no/hse de\\ fai/dimos *(/ektwr,",
+      "context": "d' a)po/rouse: no/hse de\\ fai/dimos *(/ektwr,",
+      "epithets": []
+    },
+    {
+      "character": "Hector",
+      "form": "*(/ektwr",
+      "line_num": "",
+      "line": "*(/ektwr *ai)nei/as q', oi(\\ *trw/wn ei)si\\n a)/ristoi.",
+      "context": "*(/ektwr *ai)nei/as q', oi(\\ *trw/wn ei)si\\n",
+      "epithets": []
+    },
+    {
+      "character": "Hector",
+      "form": "*(/ektwr",
+      "line_num": "525",
+      "line": "*(/ektwr d' *au)tome/dontos a)ko/ntise douri\\ faeinw=|:",
+      "context": "*(/ektwr d' *au)tome/dontos a)ko/ntise douri\\ faeinw=|:",
+      "epithets": []
+    },
+    {
+      "character": "Hector",
+      "form": "*(/ektwr",
+      "line_num": "",
+      "line": "*(/ektwr *ai)nei/as t' h)de\\ *xromi/os qeoeidh/s,",
+      "context": "*(/ektwr *ai)nei/as t' h)de\\ *xromi/os qeoeidh/s,",
+      "epithets": []
+    },
+    {
+      "character": "Patroclus",
+      "form": "*patro/klw|",
+      "line_num": "",
+      "line": "a)\\y d' e)pi\\ *patro/klw| te/tato kraterh\\ u(smi/nh",
+      "context": "a)\\y d' e)pi\\ *patro/klw| te/tato kraterh\\ u(smi/nh",
+      "epithets": []
+    },
+    {
+      "character": "Achilles",
+      "form": "*)axilh=os",
+      "line_num": "",
+      "line": "e)/ssetai ei)/ k' *)axilh=os a)gauou= pisto\\n e(tai=ron",
+      "context": "e)/ssetai ei)/ k' *)axilh=os a)gauou= pisto\\n e(tai=ron",
+      "epithets": []
+    },
+    {
+      "character": "Patroclus",
+      "form": "*patro/klw|",
+      "line_num": "",
+      "line": "*patro/klw|: ma/la ga/r me qanw\\n e)sema/ssato qumo/n.",
+      "context": "*patro/klw|: ma/la ga/r me qanw\\n e)sema/ssato",
+      "epithets": []
+    },
+    {
+      "character": "Hector",
+      "form": "*(/ektwr",
+      "line_num": "565",
+      "line": "a)ll' *(/ektwr puro\\s ai)no\\n e)/xei me/nos, ou)d' a)polh/gei",
+      "context": "a)ll' *(/ektwr puro\\s ai)no\\n e)/xei me/nos, ou)d'",
+      "epithets": []
+    },
+    {
+      "character": "Patroclus",
+      "form": "*patro/klw|",
+      "line_num": "",
+      "line": "bh= d' e)pi\\ *patro/klw|, kai\\ a)ko/ntise douri\\ faeinw=|.",
+      "context": "bh= d' e)pi\\ *patro/klw|, kai\\ a)ko/ntise douri\\ faeinw=|.",
+      "epithets": []
+    },
+    {
+      "character": "Hector",
+      "form": "*(/ektwr",
+      "line_num": "",
+      "line": "a)fneio/s t' a)gaqo/s te: ma/lista de/ min ti/en *(/ektwr",
+      "context": "te: ma/lista de/ min ti/en *(/ektwr",
+      "epithets": []
+    },
+    {
+      "character": "Hector",
+      "form": "*(/ektwr",
+      "line_num": "",
+      "line": "*lh/i+ton au)=q' *(/ektwr sxedo\\n ou)/tase xei=r' e)pi\\ karpw=|",
+      "context": "*lh/i+ton au)=q' *(/ektwr sxedo\\n ou)/tase xei=r' e)pi\\ karpw=|",
+      "epithets": []
+    },
+    {
+      "character": "Zeus",
+      "form": "*zeu/s",
+      "line_num": "",
+      "line": "*zeu/s, o(/te dh\\ *trw/essi di/dou e(teralke/a ni/khn.",
+      "context": "*zeu/s, o(/te dh\\ *trw/essi di/dou e(teralke/a",
+      "epithets": []
+    },
+    {
+      "character": "Achilles",
+      "form": "*)axilh=i",
+      "line_num": "",
+      "line": "o)/trunon d' *)axilh=i+ dai/+froni qa=sson i)o/nta",
+      "context": "o)/trunon d' *)axilh=i+ dai/+froni qa=sson i)o/nta",
+      "epithets": []
+    },
+    {
+      "character": "Patroclus",
+      "form": "*pa/troklos",
+      "line_num": "690",
+      "line": "*pa/troklos, mega/lh de\\ poqh\\ *danaoi=si te/tuktai.",
+      "context": "*pa/troklos, mega/lh de\\ poqh\\ *danaoi=si te/tuktai.",
+      "epithets": []
+    },
+    {
+      "character": "Achilles",
+      "form": "*)axilh=i",
+      "line_num": "",
+      "line": "a)lla\\ su/ g' ai)=y' *)axilh=i+ qe/wn e)pi\\ nh=as *)axaiw=n",
+      "context": "a)lla\\ su/ g' ai)=y' *)axilh=i+ qe/wn e)pi\\ nh=as *)axaiw=n",
+      "epithets": []
+    },
+    {
+      "character": "Hector",
+      "form": "*(/ektwr",
+      "line_num": "",
+      "line": "gumno/n: a)ta\\r ta/ ge teu/xe' e)/xei koruqai/olos *(/ektwr.",
+      "context": "ta/ ge teu/xe' e)/xei koruqai/olos *(/ektwr.",
+      "epithets": [
+        "koruqai/olos"
+      ]
+    },
+    {
+      "character": "Achilles",
+      "form": "*)axilh=i",
+      "line_num": "",
+      "line": "*phlei/+dh| *)axilh=i+ kako\\n e)/pos a)ggele/onta.",
+      "context": "*phlei/+dh| *)axilh=i+ kako\\n e)/pos a)ggele/onta.",
+      "epithets": []
+    },
+    {
+      "character": "Patroclus",
+      "form": "*patro/klw|",
+      "line_num": "",
+      "line": "au)to\\s d' au)=t' e)pi\\ *patro/klw| h(/rwi+ bebh/kei,",
+      "context": "au)to\\s d' au)=t' e)pi\\ *patro/klw| h(/rwi+ bebh/kei,",
+      "epithets": []
+    },
+    {
+      "character": "Achilles",
+      "form": "*)axilh=",
+      "line_num": "",
+      "line": "e)lqei=n ei)s *)axilh=a po/das taxu/n: ou)de/ min oi)/w",
+      "context": "e)lqei=n ei)s *)axilh=a po/das taxu/n: ou)de/ min oi)/w",
+      "epithets": []
+    },
+    {
+      "character": "Hector",
+      "form": "*(/ektwr",
+      "line_num": "",
+      "line": "*ai)nei/as t' *)agxisia/dhs kai\\ fai/dimos *(/ektwr.",
+      "context": "*ai)nei/as t' *)agxisia/dhs kai\\ fai/dimos *(/ektwr.",
+      "epithets": []
+    },
+    {
+      "character": "Achilles",
+      "form": "*)axilh=i",
+      "line_num": "",
+      "line": "*)anti/loxos d' *)axilh=i+ po/das taxu\\s a)/ggelos h)=lqe.",
+      "context": "*)anti/loxos d' *)axilh=i+ po/das taxu\\s a)/ggelos h)=lqe.",
+      "epithets": []
+    },
+    {
+      "character": "Patroclus",
+      "form": "*pa/troklos",
+      "line_num": "20",
+      "line": "kei=tai *pa/troklos, ne/kuos de\\ dh\\ a)mfima/xontai",
+      "context": "kei=tai *pa/troklos, ne/kuos de\\ dh\\ a)mfima/xontai",
+      "epithets": []
+    },
+    {
+      "character": "Hector",
+      "form": "*(/ektwr",
+      "line_num": "",
+      "line": "gumnou=: a)ta\\r ta/ ge teu/xe' e)/xei koruqai/olos *(/ektwr.",
+      "context": "ta/ ge teu/xe' e)/xei koruqai/olos *(/ektwr.",
+      "epithets": [
+        "koruqai/olos"
+      ]
+    },
+    {
+      "character": "Achilles",
+      "form": "*)axilh=",
+      "line_num": "30",
+      "line": "e)/dramon a)mf' *)axilh=a dai/+frona, xersi\\ de\\ pa=sai",
+      "context": "e)/dramon a)mf' *)axilh=a dai/+frona, xersi\\ de\\ pa=sai",
+      "epithets": []
+    },
+    {
+      "character": "Achilles",
+      "form": "*)axilh=os",
+      "line_num": "",
+      "line": "xei=ras e)/xwn *)axilh=os: o(\\ d' e)/stene kuda/limon kh=r:",
+      "context": "xei=ras e)/xwn *)axilh=os: o(\\ d' e)/stene kuda/limon kh=r:",
+      "epithets": []
+    },
+    {
+      "character": "Achilles",
+      "form": "*)axilh=",
+      "line_num": "",
+      "line": "*murmido/nwn ei)/runto ne/es taxu\\n a)mf' *)axilh=a.",
+      "context": "*murmido/nwn ei)/runto ne/es taxu\\n a)mf' *)axilh=a.",
+      "epithets": []
+    },
+    {
+      "character": "Zeus",
+      "form": "*dio/s",
+      "line_num": "75",
+      "line": "e)k *dio/s, w(s a)/ra dh\\ pri/n g' eu)/xeo xei=ras a)nasxw\\n",
+      "context": "e)k *dio/s, w(s a)/ra dh\\ pri/n g'",
+      "epithets": []
+    },
+    {
+      "character": "Achilles",
+      "form": "*)axilleu/s",
+      "line_num": "",
+      "line": "th\\n de\\ baru\\ stena/xwn prose/fh po/das w)ku\\s *)axilleu/s:",
+      "context": "baru\\ stena/xwn prose/fh po/das w)ku\\s *)axilleu/s:",
+      "epithets": []
+    },
+    {
+      "character": "Patroclus",
+      "form": "*pa/troklos",
+      "line_num": "",
+      "line": "*pa/troklos, to\\n e)gw\\ peri\\ pa/ntwn ti=on e(tai/rwn",
+      "context": "*pa/troklos, to\\n e)gw\\ peri\\ pa/ntwn ti=on",
+      "epithets": []
+    },
+    {
+      "character": "Hector",
+      "form": "*(/ektwr",
+      "line_num": "",
+      "line": "i)=son e)mh=| kefalh=|; to\\n a)pw/lesa, teu/xea d' *(/ektwr",
+      "context": "kefalh=|; to\\n a)pw/lesa, teu/xea d' *(/ektwr",
+      "epithets": []
+    },
+    {
+      "character": "Hector",
+      "form": "*(/ektwr",
+      "line_num": "",
+      "line": "zw/ein ou)d' a)/ndressi mete/mmenai, ai)/ ke mh\\ *(/ektwr",
+      "context": "a)/ndressi mete/mmenai, ai)/ ke mh\\ *(/ektwr",
+      "epithets": []
+    },
+    {
+      "character": "Achilles",
+      "form": "*)axilleu/s",
+      "line_num": "",
+      "line": "th\\n de\\ me/g' o)xqh/sas prose/fh po/das w)ku\\s *)axilleu/s:",
+      "context": "me/g' o)xqh/sas prose/fh po/das w)ku\\s *)axilleu/s:",
+      "epithets": []
+    },
+    {
+      "character": "Patroclus",
+      "form": "*patro/klw|",
+      "line_num": "",
+      "line": "ou)de/ ti *patro/klw| geno/mhn fa/os ou)d' e(ta/roisi",
+      "context": "ou)de/ ti *patro/klw| geno/mhn fa/os ou)d' e(ta/roisi",
+      "epithets": []
+    },
+    {
+      "character": "Hector",
+      "form": "*(/ektwr",
+      "line_num": "",
+      "line": "xa/lkea marmai/ronta: ta\\ me\\n koruqai/olos *(/ektwr",
+      "context": "xa/lkea marmai/ronta: ta\\ me\\n koruqai/olos *(/ektwr",
+      "epithets": [
+        "koruqai/olos"
+      ]
+    },
+    {
+      "character": "Achilles",
+      "form": "*)axilh=os",
+      "line_num": "",
+      "line": "e)k bele/wn e)ru/santo ne/kun qera/pont' *)axilh=os:",
+      "context": "e)k bele/wn e)ru/santo ne/kun qera/pont' *)axilh=os:",
+      "epithets": []
+    },
+    {
+      "character": "Hector",
+      "form": "*(/ektwr",
+      "line_num": "",
+      "line": "*(/ektwr te *pria/moio pa/i+s flogi\\ ei)/kelos a)lkh/n.",
+      "context": "*(/ektwr te *pria/moio pa/i+s flogi\\ ei)/kelos",
+      "epithets": []
+    },
+    {
+      "character": "Hector",
+      "form": "*(/ektwr",
+      "line_num": "155",
+      "line": "tri\\s me/n min meto/pisqe podw=n la/be fai/dimos *(/ektwr",
+      "context": "min meto/pisqe podw=n la/be fai/dimos *(/ektwr",
+      "epithets": []
+    },
+    {
+      "character": "Patroclus",
+      "form": "*patro/klw|",
+      "line_num": "",
+      "line": "*patro/klw| e)pa/munon, ou(= ei(/neka fu/lopis ai)nh\\",
+      "context": "*patro/klw| e)pa/munon, ou(= ei(/neka fu/lopis ai)nh\\",
+      "epithets": []
+    },
+    {
+      "character": "Hector",
+      "form": "*(/ektwr",
+      "line_num": "175",
+      "line": "*trw=es e)piqu/ousi: ma/lista de\\ fai/dimos *(/ektwr",
+      "context": "*trw=es e)piqu/ousi: ma/lista de\\ fai/dimos *(/ektwr",
+      "epithets": []
+    },
+    {
+      "character": "Patroclus",
+      "form": "*pa/troklon",
+      "line_num": "",
+      "line": "*pa/troklon *trw|h=|si kusi\\n me/lphqra gene/sqai:",
+      "context": "*pa/troklon *trw|h=|si kusi\\n me/lphqra gene/sqai:",
+      "epithets": []
+    },
+    {
+      "character": "Achilles",
+      "form": "*)axilleu/s",
+      "line_num": "",
+      "line": "th\\n d' h)mei/bet' e)/peita poda/rkhs di=os *)axilleu/s:",
+      "context": "d' h)mei/bet' e)/peita poda/rkhs di=os *)axilleu/s:",
+      "epithets": [
+        "poda/rkhs",
+        "di=os"
+      ]
+    },
+    {
+      "character": "Achilles",
+      "form": "*)axilleu/s",
+      "line_num": "",
+      "line": "th\\n d' a)pameibo/menos prose/fh po/das w)ku\\s *)axilleu/s:",
+      "context": "d' a)pameibo/menos prose/fh po/das w)ku\\s *)axilleu/s:",
+      "epithets": []
+    },
+    {
+      "character": "Achilles",
+      "form": "*)axilleu/s",
+      "line_num": "",
+      "line": "tri\\s me\\n u(pe\\r ta/frou mega/l' i)/axe di=os *)axilleu/s,",
+      "context": "u(pe\\r ta/frou mega/l' i)/axe di=os *)axilleu/s,",
+      "epithets": [
+        "di=os"
+      ]
+    },
+    {
+      "character": "Patroclus",
+      "form": "*pa/troklon",
+      "line_num": "",
+      "line": "a)spasi/ws *pa/troklon u(p' e)k bele/wn e)ru/santes",
+      "context": "a)spasi/ws *pa/troklon u(p' e)k bele/wn e)ru/santes",
+      "epithets": []
+    },
+    {
+      "character": "Hector",
+      "form": "*(/ektwr",
+      "line_num": "",
+      "line": "to\\n d' a)/r' u(po/dra i)dw\\n prose/fh koruqai/olos *(/ektwr:",
+      "context": "a)/r' u(po/dra i)dw\\n prose/fh koruqai/olos *(/ektwr:",
+      "epithets": [
+        "koruqai/olos"
+      ]
+    },
+    {
+      "character": "Zeus",
+      "form": "*zeu/s",
+      "line_num": "",
+      "line": "kth/mata perna/men' i(/kei, e)pei\\ me/gas w)du/sato *zeu/s.",
+      "context": "perna/men' i(/kei, e)pei\\ me/gas w)du/sato *zeu/s.",
+      "epithets": []
+    },
+    {
+      "character": "Achilles",
+      "form": "*)axilleu/s",
+      "line_num": "305",
+      "line": "ei) d' e)teo\\n para\\ nau=fin a)ne/sth di=os *)axilleu/s,",
+      "context": "e)teo\\n para\\ nau=fin a)ne/sth di=os *)axilleu/s,",
+      "epithets": [
+        "di=os"
+      ]
+    },
+    {
+      "character": "Hector",
+      "form": "*(/ektwr",
+      "line_num": "310",
+      "line": "w(\\s *(/ektwr a)go/reu', e)pi\\ de\\ *trw=es kela/dhsan",
+      "context": "w(\\s *(/ektwr a)go/reu', e)pi\\ de\\ *trw=es kela/dhsan",
+      "epithets": []
+    },
+    {
+      "character": "Patroclus",
+      "form": "*pa/troklon",
+      "line_num": "315",
+      "line": "pannu/xioi *pa/troklon a)nestena/xonto gow=ntes.",
+      "context": "pannu/xioi *pa/troklon a)nestena/xonto gow=ntes.",
+      "epithets": []
+    },
+    {
+      "character": "Patroclus",
+      "form": "*pa/troklon",
+      "line_num": "345",
+      "line": "*pa/troklon lou/seian a)/po bro/ton ai(mato/enta.",
+      "context": "*pa/troklon lou/seian a)/po bro/ton ai(mato/enta.",
+      "epithets": []
+    },
+    {
+      "character": "Achilles",
+      "form": "*)axilh=",
+      "line_num": "",
+      "line": "pannu/xioi me\\n e)/peita po/das taxu\\n a)mf' *)axilh=a",
+      "context": "me\\n e)/peita po/das taxu\\n a)mf' *)axilh=a",
+      "epithets": []
+    },
+    {
+      "character": "Patroclus",
+      "form": "*pa/troklon",
+      "line_num": "355",
+      "line": "*murmido/nes *pa/troklon a)nestena/xonto gow=ntes:",
+      "context": "*murmido/nes *pa/troklon a)nestena/xonto gow=ntes:",
+      "epithets": []
+    },
+    {
+      "character": "Achilles",
+      "form": "*)axilh=",
+      "line_num": "",
+      "line": "a)nsth/sas' *)axilh=a po/das taxu/n: h)= r(a/ nu sei=o",
+      "context": "a)nsth/sas' *)axilh=a po/das taxu/n: h)= r(a/ nu",
+      "epithets": []
+    },
+    {
+      "character": "Patroclus",
+      "form": "*pa/troklon",
+      "line_num": "",
+      "line": "au)ta\\r o(\\ *pa/troklon peri\\ me\\n ta\\ a(\\ teu/xea e(/sse,",
+      "context": "au)ta\\r o(\\ *pa/troklon peri\\ me\\n ta\\ a(\\ teu/xea",
+      "epithets": []
+    },
+    {
+      "character": "Patroclus",
+      "form": "*patro/klw|",
+      "line_num": "",
+      "line": "eu(=re de\\ *patro/klw| perikei/menon o(\\n fi/lon ui(o\\n",
+      "context": "eu(=re de\\ *patro/klw| perikei/menon o(\\n fi/lon ui(o\\n",
+      "epithets": []
+    },
+    {
+      "character": "Patroclus",
+      "form": "*patro/klw|",
+      "line_num": "",
+      "line": "*patro/klw| d' au)=t' a)mbrosi/hn kai\\ ne/ktar e)ruqro\\n",
+      "context": "*patro/klw| d' au)=t' a)mbrosi/hn kai\\ ne/ktar",
+      "epithets": []
+    },
+    {
+      "character": "Achilles",
+      "form": "*)axilleu/s",
+      "line_num": "55",
+      "line": "toi=si d' a)nista/menos mete/fh po/das w)ku\\s *)axilleu/s:",
+      "context": "d' a)nista/menos mete/fh po/das w)ku\\s *)axilleu/s:",
+      "epithets": []
+    },
+    {
+      "character": "Zeus",
+      "form": "*di/a",
+      "line_num": "120",
+      "line": "au)th\\ d' a)ggele/ousa *di/a *kroni/wna proshu/da:",
+      "context": "au)th\\ d' a)ggele/ousa *di/a *kroni/wna proshu/da:",
+      "epithets": []
+    },
+    {
+      "character": "Hector",
+      "form": "*(/ektwr",
+      "line_num": "",
+      "line": "w(\\s kai\\ e)gw/n, o(/te d' au)=te me/gas koruqai/olos *(/ektwr",
+      "context": "o(/te d' au)=te me/gas koruqai/olos *(/ektwr",
+      "epithets": [
+        "koruqai/olos"
+      ]
+    },
+    {
+      "character": "Zeus",
+      "form": "*zeu/s",
+      "line_num": "",
+      "line": "a)ll' e)pei\\ a)asa/mhn kai/ meu fre/nas e)ce/leto *zeu/s,",
+      "context": "a)asa/mhn kai/ meu fre/nas e)ce/leto *zeu/s,",
+      "epithets": []
+    },
+    {
+      "character": "Achilles",
+      "form": "*)axilleu/s",
+      "line_num": "145",
+      "line": "to\\n d' a)pameibo/menos prose/fh po/das w)ku\\s *)axilleu/s:",
+      "context": "d' a)pameibo/menos prose/fh po/das w)ku\\s *)axilleu/s:",
+      "epithets": []
+    },
+    {
+      "character": "Achilles",
+      "form": "*)axilh=",
+      "line_num": "",
+      "line": "w(/s ke/ tis au)=t' *)axilh=a meta\\ prw/toisin i)/dhtai",
+      "context": "w(/s ke/ tis au)=t' *)axilh=a meta\\ prw/toisin i)/dhtai",
+      "epithets": []
+    },
+    {
+      "character": "Achilles",
+      "form": "*)axilleu=",
+      "line_num": "155",
+      "line": "mh\\ d' ou(/tws, a)gaqo/s per e)w/n, qeoei/kel' *)axilleu=",
+      "context": "ou(/tws, a)gaqo/s per e)w/n, qeoei/kel' *)axilleu=",
+      "epithets": []
+    },
+    {
+      "character": "Zeus",
+      "form": "dii/",
+      "line_num": "",
+      "line": "e)n moi/rh| ga\\r pa/nta dii/keo kai\\ kate/lecas.",
+      "context": "e)n moi/rh| ga\\r pa/nta dii/keo kai\\ kate/lecas.",
+      "epithets": []
+    },
+    {
+      "character": "Achilles",
+      "form": "*)axilh=i",
+      "line_num": "",
+      "line": "dw=ra e)mh=s para\\ nho\\s e)neike/men, o(/ss' *)axilh=i+",
+      "context": "e)mh=s para\\ nho\\s e)neike/men, o(/ss' *)axilh=i+",
+      "epithets": []
+    },
+    {
+      "character": "Zeus",
+      "form": "*dii/",
+      "line_num": "",
+      "line": "ka/pron e(toimasa/tw tame/ein *dii/ t' *)heli/w| te.",
+      "context": "ka/pron e(toimasa/tw tame/ein *dii/ t' *)heli/w| te.",
+      "epithets": []
+    },
+    {
+      "character": "Achilles",
+      "form": "*)axilleu/s",
+      "line_num": "",
+      "line": "to\\n d' a)pameibo/menos prose/fh po/das w)ku\\s *)axilleu/s:",
+      "context": "d' a)pameibo/menos prose/fh po/das w)ku\\s *)axilleu/s:",
+      "epithets": []
+    },
+    {
+      "character": "Hector",
+      "form": "*(/ektwr",
+      "line_num": "",
+      "line": "*(/ektwr *priami/dhs, o(/te oi( *zeu\\s ku=dos e)/dwken,",
+      "context": "*(/ektwr *priami/dhs, o(/te oi( *zeu\\s ku=dos",
+      "epithets": []
+    },
+    {
+      "character": "Achilles",
+      "form": "*)axileu=",
+      "line_num": "",
+      "line": "w)= *)axileu= *phlh=os ui(e\\ me/ga fe/rtat' *)axaiw=n,",
+      "context": "w)= *)axileu= *phlh=os ui(e\\ me/ga fe/rtat' *)axaiw=n,",
+      "epithets": []
+    },
+    {
+      "character": "Zeus",
+      "form": "*zeu/s",
+      "line_num": "",
+      "line": "*zeu/s, o(/s t' a)nqrw/pwn tami/hs pole/moio te/tuktai.",
+      "context": "*zeu/s, o(/s t' a)nqrw/pwn tami/hs pole/moio",
+      "epithets": []
+    },
+    {
+      "character": "Patroclus",
+      "form": "*pa/troklon",
+      "line_num": "",
+      "line": "w(s i)/de *pa/troklon dedai+gme/non o)ce/i+ xalkw=|,",
+      "context": "w(s i)/de *pa/troklon dedai+gme/non o)ce/i+ xalkw=|,",
+      "epithets": []
+    },
+    {
+      "character": "Patroclus",
+      "form": "*pa/troklon",
+      "line_num": "",
+      "line": "*pa/troklon pro/fasin, sfw=n d' au)tw=n kh/de' e(ka/sth.",
+      "context": "*pa/troklon pro/fasin, sfw=n d' au)tw=n kh/de'",
+      "epithets": []
+    },
+    {
+      "character": "Achilles",
+      "form": "*)axilleu/s",
+      "line_num": "",
+      "line": "h)= nu/ toi ou)ke/ti pa/gxu meta\\ fresi\\ me/mblet' *)axilleu/s;",
+      "context": "ou)ke/ti pa/gxu meta\\ fresi\\ me/mblet' *)axilleu/s;",
+      "epithets": []
+    },
+    {
+      "character": "Achilles",
+      "form": "*)axilh=i",
+      "line_num": "",
+      "line": "au)ti/ka qwrh/ssonto kata\\ strato/n: h(\\ d' *)axilh=i+",
+      "context": "qwrh/ssonto kata\\ strato/n: h(\\ d' *)axilh=i+",
+      "epithets": []
+    },
+    {
+      "character": "Achilles",
+      "form": "*)axilleu/s",
+      "line_num": "",
+      "line": "a)ndrw=n: e)n de\\ me/soisi koru/sseto di=os *)axilleu/s.",
+      "context": "e)n de\\ me/soisi koru/sseto di=os *)axilleu/s.",
+      "epithets": [
+        "di=os"
+      ]
+    },
+    {
+      "character": "Achilles",
+      "form": "*)axilleu/s",
+      "line_num": "",
+      "line": "peirh/qh d' e(/o au)tou= e)n e)/ntesi di=os *)axilleu/s,",
+      "context": "e(/o au)tou= e)n e)/ntesi di=os *)axilleu/s,",
+      "epithets": [
+        "di=os"
+      ]
+    },
+    {
+      "character": "Achilles",
+      "form": "*)axilleu/s",
+      "line_num": "",
+      "line": "pa/llein, a)lla/ min oi)=os e)pi/stato ph=lai *)axilleu/s:",
+      "context": "a)lla/ min oi)=os e)pi/stato ph=lai *)axilleu/s:",
+      "epithets": []
+    },
+    {
+      "character": "Patroclus",
+      "form": "*pa/troklon",
+      "line_num": "",
+      "line": "mhd' w(s *pa/troklon li/pet' au)to/qi teqnhw=ta.",
+      "context": "mhd' w(s *pa/troklon li/pet' au)to/qi teqnhw=ta.",
+      "epithets": []
+    },
+    {
+      "character": "Achilles",
+      "form": "*)axilleu=",
+      "line_num": "",
+      "line": "kai\\ li/hn s' e)/ti nu=n ge saw/somen o)/brim' *)axilleu=:",
+      "context": "e)/ti nu=n ge saw/somen o)/brim' *)axilleu=:",
+      "epithets": []
+    },
+    {
+      "character": "Patroclus",
+      "form": "*patro/klou",
+      "line_num": "",
+      "line": "*trw=es a)p' w)/moiin *patro/klou teu/xe' e(/lonto:",
+      "context": "*trw=es a)p' w)/moiin *patro/klou teu/xe' e(/lonto:",
+      "epithets": []
+    },
+    {
+      "character": "Achilles",
+      "form": "*)axilleu/s",
+      "line_num": "",
+      "line": "to\\n de\\ me/g' o)xqh/sas prose/fh po/das w)ku\\s *)axilleu/s:",
+      "context": "me/g' o)xqh/sas prose/fh po/das w)ku\\s *)axilleu/s:",
+      "epithets": []
+    },
+    {
+      "character": "Zeus",
+      "form": "*zeu/s",
+      "line_num": "",
+      "line": "to\\n d' a)pameibo/menos prose/fh nefelhgere/ta *zeu/s:",
+      "context": "to\\n d' a)pameibo/menos prose/fh nefelhgere/ta *zeu/s:",
+      "epithets": []
+    },
+    {
+      "character": "Achilles",
+      "form": "*)axilh=os",
+      "line_num": "85",
+      "line": "*phlei/+dew *)axilh=os e)nanti/bion polemi/cein;",
+      "context": "*phlei/+dew *)axilh=os e)nanti/bion polemi/cein;",
+      "epithets": []
+    },
+    {
+      "character": "Achilles",
+      "form": "*)axilh=os",
+      "line_num": "",
+      "line": "ou) me\\n ga\\r nu=n prw=ta podw/keos a)/nt' *)axilh=os",
+      "context": "ga\\r nu=n prw=ta podw/keos a)/nt' *)axilh=os",
+      "epithets": []
+    },
+    {
+      "character": "Achilles",
+      "form": "*)axilh=os",
+      "line_num": "",
+      "line": "tw\\ ou)k e)/st' *)axilh=os e)nanti/on a)/ndra ma/xesqai:",
+      "context": "tw\\ ou)k e)/st' *)axilh=os e)nanti/on a)/ndra ma/xesqai:",
+      "epithets": []
+    },
+    {
+      "character": "Zeus",
+      "form": "*dio/s",
+      "line_num": "",
+      "line": "h(\\ me\\n ga\\r *dio/s e)sq', h(\\ d' e)c a(li/oio ge/rontos.",
+      "context": "h(\\ me\\n ga\\r *dio/s e)sq', h(\\ d' e)c a(li/oio",
+      "epithets": []
+    },
+    {
+      "character": "Achilles",
+      "form": "*)axilh=i",
+      "line_num": "120",
+      "line": "au)to/qen, h)/ tis e)/peita kai\\ h(mei/wn *)axilh=i+",
+      "context": "h)/ tis e)/peita kai\\ h(mei/wn *)axilh=i+",
+      "epithets": []
+    },
+    {
+      "character": "Achilles",
+      "form": "*)axilh=",
+      "line_num": "",
+      "line": "h)\\ *)axilh=' i)/sxwsi kai\\ ou)k ei)w=si ma/xesqai,",
+      "context": "h)\\ *)axilh=' i)/sxwsi kai\\ ou)k ei)w=si ma/xesqai,",
+      "epithets": []
+    },
+    {
+      "character": "Achilles",
+      "form": "*)axilleu/s",
+      "line_num": "160",
+      "line": "*ai)nei/as t' *)agxisia/dhs kai\\ di=os *)axilleu/s.",
+      "context": "*ai)nei/as t' *)agxisia/dhs kai\\ di=os *)axilleu/s.",
+      "epithets": [
+        "di=os"
+      ]
+    },
+    {
+      "character": "Achilles",
+      "form": "*)axilh=",
+      "line_num": "",
+      "line": "w(\\s *)axilh=' o)/trune me/nos kai\\ qumo\\s a)gh/nwr",
+      "context": "w(\\s *)axilh=' o)/trune me/nos kai\\ qumo\\s a)gh/nwr",
+      "epithets": []
+    },
+    {
+      "character": "Achilles",
+      "form": "*)axilleu/s",
+      "line_num": "",
+      "line": "to\\n pro/teros prose/eipe poda/rkhs di=os *)axilleu/s:",
+      "context": "to\\n pro/teros prose/eipe poda/rkhs di=os *)axilleu/s:",
+      "epithets": [
+        "poda/rkhs",
+        "di=os"
+      ]
+    },
+    {
+      "character": "Zeus",
+      "form": "*zeu/s",
+      "line_num": "215",
+      "line": "*da/rdanon au)= prw=ton te/keto nefelhgere/ta *zeu/s,",
+      "context": "*da/rdanon au)= prw=ton te/keto nefelhgere/ta *zeu/s,",
+      "epithets": []
+    },
+    {
+      "character": "Achilles",
+      "form": "*)axilh=i",
+      "line_num": "",
+      "line": "*phlei/+dh| *)axilh=i+ damh/menai, e)sqlo\\n e)o/nta.",
+      "context": "*phlei/+dh| *)axilh=i+ damh/menai, e)sqlo\\n e)o/nta.",
+      "epithets": []
+    },
+    {
+      "character": "Achilles",
+      "form": "*)axilleu/s",
+      "line_num": "320",
+      "line": "i(=ce d' o(/q' *ai)nei/as h)d' o(\\ kluto\\s h)=en *)axilleu/s.",
+      "context": "*ai)nei/as h)d' o(\\ kluto\\s h)=en *)axilleu/s.",
+      "epithets": []
+    },
+    {
+      "character": "Achilles",
+      "form": "*)axilh=i",
+      "line_num": "",
+      "line": "*phlei/+dh| *)axilh=i+: o(\\ de\\ meli/hn eu)/xalkon",
+      "context": "*phlei/+dh| *)axilh=i+: o(\\ de\\ meli/hn eu)/xalkon",
+      "epithets": []
+    },
+    {
+      "character": "Achilles",
+      "form": "*)axilh=os",
+      "line_num": "",
+      "line": "kai\\ th\\n me\\n propa/roiqe podw=n *)axilh=os e)/qhken,",
+      "context": "kai\\ th\\n me\\n propa/roiqe podw=n *)axilh=os e)/qhken,",
+      "epithets": []
+    },
+    {
+      "character": "Achilles",
+      "form": "*)axilh=os",
+      "line_num": "",
+      "line": "ai)=ya d' e)/peit' *)axilh=os a)p' o)fqalmw=n ske/das' a)xlu\\n",
+      "context": "ai)=ya d' e)/peit' *)axilh=os a)p' o)fqalmw=n ske/das' a)xlu\\n",
+      "epithets": []
+    },
+    {
+      "character": "Hector",
+      "form": "*(/ektwr",
+      "line_num": "",
+      "line": "w(\\s fa/t' e)potru/nwn: *trw/essi de\\ fai/dimos *(/ektwr",
+      "context": "fa/t' e)potru/nwn: *trw/essi de\\ fai/dimos *(/ektwr",
+      "epithets": []
+    },
+    {
+      "character": "Achilles",
+      "form": "*)axilh=os",
+      "line_num": "365",
+      "line": "ke/kleq' o(moklh/sas, fa/to d' i)/menai a)/nt' *)axilh=os:",
+      "context": "o(moklh/sas, fa/to d' i)/menai a)/nt' *)axilh=os:",
+      "epithets": []
+    },
+    {
+      "character": "Hector",
+      "form": "*(/ektwr",
+      "line_num": "",
+      "line": "w(\\s e)/faq', *(/ektwr d' au)=tis e)du/seto ou)lamo\\n a)ndrw=n",
+      "context": "w(\\s e)/faq', *(/ektwr d' au)=tis e)du/seto ou)lamo\\n a)ndrw=n",
+      "epithets": []
+    },
+    {
+      "character": "Achilles",
+      "form": "*)axilleu/s",
+      "line_num": "",
+      "line": "dou/phsen de\\ pesw/n, o(\\ d' e)peu/cato di=os *)axilleu/s:",
+      "context": "pesw/n, o(\\ d' e)peu/cato di=os *)axilleu/s:",
+      "epithets": [
+        "di=os"
+      ]
+    },
+    {
+      "character": "Hector",
+      "form": "*(/ektwr",
+      "line_num": "",
+      "line": "*(/ektwr d' w(s e)no/hse kasi/gnhton *polu/dwron",
+      "context": "*(/ektwr d' w(s e)no/hse kasi/gnhton *polu/dwron",
+      "epithets": []
+    },
+    {
+      "character": "Achilles",
+      "form": "*)axilh=i",
+      "line_num": "",
+      "line": "dhro\\n e(ka\\s strwfa=sq', a)ll' a)nti/os h)=lq' *)axilh=i+",
+      "context": "e(ka\\s strwfa=sq', a)ll' a)nti/os h)=lq' *)axilh=i+",
+      "epithets": []
+    },
+    {
+      "character": "Hector",
+      "form": "*(/ektwr",
+      "line_num": "430",
+      "line": "to\\n d' ou) tarbh/sas prose/fh koruqai/olos *(/ektwr:",
+      "context": "d' ou) tarbh/sas prose/fh koruqai/olos *(/ektwr:",
+      "epithets": [
+        "koruqai/olos"
+      ]
+    },
+    {
+      "character": "Zeus",
+      "form": "*zeu/s",
+      "line_num": "",
+      "line": "*ca/nqou dinh/entos, o(\\n a)qa/natos te/keto *zeu/s,",
+      "context": "*ca/nqou dinh/entos, o(\\n a)qa/natos te/keto *zeu/s,",
+      "epithets": []
+    },
+    {
+      "character": "Hector",
+      "form": "*(/ektwr",
+      "line_num": "5",
+      "line": "h)/mati tw=| prote/rw|, o(/te mai/neto fai/dimos *(/ektwr:",
+      "context": "tw=| prote/rw|, o(/te mai/neto fai/dimos *(/ektwr:",
+      "epithets": []
+    },
+    {
+      "character": "Achilles",
+      "form": "*)axilleu/s",
+      "line_num": "",
+      "line": "tw=| d' a)/r' a)nw/i+ston kako\\n h)/luqe di=os *)axilleu/s.",
+      "context": "a)/r' a)nw/i+ston kako\\n h)/luqe di=os *)axilleu/s.",
+      "epithets": [
+        "di=os"
+      ]
+    },
+    {
+      "character": "Achilles",
+      "form": "*)axileu=",
+      "line_num": "",
+      "line": "gounou=mai s' *)axileu=: su\\ de/ m' ai)/deo kai/ m' e)le/hson:",
+      "context": "gounou=mai s' *)axileu=: su\\ de/ m' ai)/deo kai/",
+      "epithets": []
+    },
+    {
+      "character": "Patroclus",
+      "form": "*pa/troklon",
+      "line_num": "100",
+      "line": "pri\\n me\\n ga\\r *pa/troklon e)pispei=n ai)/simon h)=mar",
+      "context": "pri\\n me\\n ga\\r *pa/troklon e)pispei=n ai)/simon h)=mar",
+      "epithets": []
+    },
+    {
+      "character": "Patroclus",
+      "form": "*pa/troklos",
+      "line_num": "",
+      "line": "ka/tqane kai\\ *pa/troklos, o(/ per se/o pollo\\n a)mei/nwn.",
+      "context": "ka/tqane kai\\ *pa/troklos, o(/ per se/o pollo\\n a)mei/nwn.",
+      "epithets": []
+    },
+    {
+      "character": "Achilles",
+      "form": "*)axilleu/s",
+      "line_num": "",
+      "line": "to\\n pro/teros prose/eipe poda/rkhs di=os *)axilleu/s:",
+      "context": "to\\n pro/teros prose/eipe poda/rkhs di=os *)axilleu/s:",
+      "epithets": [
+        "poda/rkhs",
+        "di=os"
+      ]
+    },
+    {
+      "character": "Achilles",
+      "form": "*)axilleu=",
+      "line_num": "160",
+      "line": "gei/nasqai: nu=n au)=te maxw/meqa fai/dim' *)axilleu=.",
+      "context": "gei/nasqai: nu=n au)=te maxw/meqa fai/dim' *)axilleu=.",
+      "epithets": []
+    },
+    {
+      "character": "Achilles",
+      "form": "*)axilh=os",
+      "line_num": "",
+      "line": "a)=lt' e)pi/ oi( memaw/s: o(\\ d' a)/ra meli/hn *)axilh=os",
+      "context": "memaw/s: o(\\ d' a)/ra meli/hn *)axilh=os",
+      "epithets": []
+    },
+    {
+      "character": "Zeus",
+      "form": "di/a",
+      "line_num": "",
+      "line": "kei/menon e)n yama/qoisi, di/aine de/ min me/lan u(/dwr.",
+      "context": "kei/menon e)n yama/qoisi, di/aine de/ min me/lan u(/dwr.",
+      "epithets": []
+    },
+    {
+      "character": "Achilles",
+      "form": "*)axilleu/s",
+      "line_num": "",
+      "line": "kai/ nu/ k' e)/ti ple/onas kta/ne *pai/onas w)ku\\s *)axilleu/s,",
+      "context": "e)/ti ple/onas kta/ne *pai/onas w)ku\\s *)axilleu/s,",
+      "epithets": []
+    },
+    {
+      "character": "Achilles",
+      "form": "*)axileu=",
+      "line_num": "",
+      "line": "w)= *)axileu=, peri\\ me\\n krate/eis, peri\\ d' ai)/sula r(e/zeis",
+      "context": "w)= *)axileu=, peri\\ me\\n krate/eis, peri\\ d'",
+      "epithets": []
+    },
+    {
+      "character": "Achilles",
+      "form": "*)axilleu/s",
+      "line_num": "",
+      "line": "to\\n d' a)pameibo/menos prose/fh po/das w)ku\\s *)axilleu/s:",
+      "context": "d' a)pameibo/menos prose/fh po/das w)ku\\s *)axilleu/s:",
+      "epithets": []
+    },
+    {
+      "character": "Achilles",
+      "form": "*)axilleu/s",
+      "line_num": "",
+      "line": "pollou/s, oi(/ r(a kat' au)to\\n a(/lis e)/san, ou(\\s kta/n' *)axilleu/s",
+      "context": "au)to\\n a(/lis e)/san, ou(\\s kta/n' *)axilleu/s",
+      "epithets": []
+    },
+    {
+      "character": "Achilles",
+      "form": "*)axilh=",
+      "line_num": "240",
+      "line": "deino\\n d' a)mf' *)axilh=a kukw/menon i(/stato ku=ma,",
+      "context": "deino\\n d' a)mf' *)axilh=a kukw/menon i(/stato ku=ma,",
+      "epithets": []
+    },
+    {
+      "character": "Achilles",
+      "form": "*)axilh=",
+      "line_num": "",
+      "line": "w(\\s ai)ei\\ *)axilh=a kixh/sato ku=ma r(o/oio",
+      "context": "w(\\s ai)ei\\ *)axilh=a kixh/sato ku=ma r(o/oio",
+      "epithets": []
+    },
+    {
+      "character": "Hector",
+      "form": "*(/ektwr",
+      "line_num": "",
+      "line": "w(/s m' o)/fel' *(/ektwr ktei=nai o(\\s e)nqa/de g' e)/traf' a)/ristos:",
+      "context": "w(/s m' o)/fel' *(/ektwr ktei=nai o(\\s e)nqa/de g' e)/traf'",
+      "epithets": []
+    },
+    {
+      "character": "Achilles",
+      "form": "*)axilh=i",
+      "line_num": "",
+      "line": "h)=, kai\\ e)pw=rt' *)axilh=i+ kukw/menos u(yo/se qu/wn",
+      "context": "h)=, kai\\ e)pw=rt' *)axilh=i+ kukw/menos u(yo/se qu/wn",
+      "epithets": []
+    },
+    {
+      "character": "Achilles",
+      "form": "*)axilh=i",
+      "line_num": "",
+      "line": "*(/hrh de\\ me/g' a)/u+se peridei/sas' *)axilh=i+",
+      "context": "*(/hrh de\\ me/g' a)/u+se peridei/sas' *)axilh=i+",
+      "epithets": []
+    },
+    {
+      "character": "Achilles",
+      "form": "*)axilleu/s",
+      "line_num": "",
+      "line": "pollou/s, oi(/ r(a kat' au)to\\n a(/lis e)/san, ou(\\s kta/n' *)axilleu/s:",
+      "context": "au)to\\n a(/lis e)/san, ou(\\s kta/n' *)axilleu/s:",
+      "epithets": []
+    },
+    {
+      "character": "Achilles",
+      "form": "*)axilh=",
+      "line_num": "",
+      "line": "e)s d' e)no/hs' *)axilh=a pelw/rion: au)ta\\r u(p' au)tou=",
+      "context": "e)s d' e)no/hs' *)axilh=a pelw/rion: au)ta\\r u(p' au)tou=",
+      "epithets": []
+    },
+    {
+      "character": "Achilles",
+      "form": "*)axilh=os",
+      "line_num": "",
+      "line": "w)/ moi e)gw/n: ei) me/n ken u(po\\ kraterou= *)axilh=os",
+      "context": "ei) me/n ken u(po\\ kraterou= *)axilh=os",
+      "epithets": []
+    },
+    {
+      "character": "Achilles",
+      "form": "*)axilh=i",
+      "line_num": "",
+      "line": "*phlei/+dh| *)axilh=i+, posi\\n d' a)po\\ tei/xeos a)/llh|",
+      "context": "*phlei/+dh| *)axilh=i+, posi\\n d' a)po\\ tei/xeos a)/llh|",
+      "epithets": []
+    },
+    {
+      "character": "Achilles",
+      "form": "*)axilh=",
+      "line_num": "",
+      "line": "w(\\s ei)pw\\n *)axilh=a a)lei\\s me/nen, e)n de/ oi( h)=tor",
+      "context": "w(\\s ei)pw\\n *)axilh=a a)lei\\s me/nen, e)n de/ oi(",
+      "epithets": []
+    },
+    {
+      "character": "Achilles",
+      "form": "*)axilh=os",
+      "line_num": "580",
+      "line": "ou)k e)/qelen feu/gein, pri\\n peirh/sait' *)axilh=os.",
+      "context": "ou)k e)/qelen feu/gein, pri\\n peirh/sait' *)axilh=os.",
+      "epithets": []
+    },
+    {
+      "character": "Achilles",
+      "form": "*)axilleu=",
+      "line_num": "",
+      "line": "h)= dh/ pou ma/l' e)/olpas e)ni\\ fresi\\ fai/dim' *)axilleu=",
+      "context": "ma/l' e)/olpas e)ni\\ fresi\\ fai/dim' *)axilleu=",
+      "epithets": []
+    },
+    {
+      "character": "Achilles",
+      "form": "*)axilleu/s",
+      "line_num": "",
+      "line": "to\\n de\\ me/g' o)xqh/sas prose/fh po/das w)ku\\s *)axilleu/s:",
+      "context": "me/g' o)xqh/sas prose/fh po/das w)ku\\s *)axilleu/s:",
+      "epithets": []
+    },
+    {
+      "character": "Achilles",
+      "form": "*)axilh=i",
+      "line_num": "",
+      "line": "e(sth/kei a)/moton memaw\\s *)axilh=i+ ma/xesqai:",
+      "context": "e(sth/kei a)/moton memaw\\s *)axilh=i+ ma/xesqai:",
+      "epithets": []
+    },
+    {
+      "character": "Achilles",
+      "form": "*)axilh=i",
+      "line_num": "55",
+      "line": "e)/ssetai, h)\\n mh\\ kai\\ su\\ qa/nh|s *)axilh=i+ damasqei/s.",
+      "context": "h)\\n mh\\ kai\\ su\\ qa/nh|s *)axilh=i+ damasqei/s.",
+      "epithets": []
+    },
+    {
+      "character": "Achilles",
+      "form": "*)axilh=",
+      "line_num": "",
+      "line": "a)ll' o(/ ge mi/mn' *)axilh=a pelw/rion a)=sson i)o/nta.",
+      "context": "a)ll' o(/ ge mi/mn' *)axilh=a pelw/rion a)=sson i)o/nta.",
+      "epithets": []
+    },
+    {
+      "character": "Hector",
+      "form": "*(/ektwr",
+      "line_num": "",
+      "line": "w(\\s *(/ektwr a)/sbeston e)/xwn me/nos ou)x u(pexw/rei",
+      "context": "w(\\s *(/ektwr a)/sbeston e)/xwn me/nos ou)x u(pexw/rei",
+      "epithets": []
+    },
+    {
+      "character": "Achilles",
+      "form": "*)axilleu/s",
+      "line_num": "",
+      "line": "nu/xq' u(/po th/nd' o)loh\\n o(/te t' w)/reto di=os *)axilleu/s.",
+      "context": "o)loh\\n o(/te t' w)/reto di=os *)axilleu/s.",
+      "epithets": [
+        "di=os"
+      ]
+    },
+    {
+      "character": "Hector",
+      "form": "*(/ektwr",
+      "line_num": "",
+      "line": "*(/ektwr h(=fi bi/hfi piqh/sas w)/lese lao/n.",
+      "context": "*(/ektwr h(=fi bi/hfi piqh/sas w)/lese lao/n.",
+      "epithets": []
+    },
+    {
+      "character": "Achilles",
+      "form": "*)axilh=",
+      "line_num": "",
+      "line": "a)/nthn h)\\ *)axilh=a kataktei/nanta ne/esqai,",
+      "context": "a)/nthn h)\\ *)axilh=a kataktei/nanta ne/esqai,",
+      "epithets": []
+    },
+    {
+      "character": "Achilles",
+      "form": "*)axilh=os",
+      "line_num": "",
+      "line": "au)to\\s i)w\\n *)axilh=os a)mu/monos a)nti/os e)/lqw",
+      "context": "au)to\\s i)w\\n *)axilh=os a)mu/monos a)nti/os e)/lqw",
+      "epithets": []
+    },
+    {
+      "character": "Hector",
+      "form": "*(/ektwr",
+      "line_num": "",
+      "line": "w(\\s a)/r' o(/ g' e)mmemaw\\s i)qu\\s pe/teto, tre/se d' *(/ektwr",
+      "context": "e)mmemaw\\s i)qu\\s pe/teto, tre/se d' *(/ektwr",
+      "epithets": []
+    },
+    {
+      "character": "Achilles",
+      "form": "*)axilh=i",
+      "line_num": "",
+      "line": "*phlei/+dh| *)axilh=i+ dama/ssomen e)sqlo\\n e)o/nta.",
+      "context": "*phlei/+dh| *)axilh=i+ dama/ssomen e)sqlo\\n e)o/nta.",
+      "epithets": []
+    },
+    {
+      "character": "Zeus",
+      "form": "*zeu/s",
+      "line_num": "",
+      "line": "th\\n d' a)pameibo/menos prose/fh nefelhgere/ta *zeu/s:",
+      "context": "th\\n d' a)pameibo/menos prose/fh nefelhgere/ta *zeu/s:",
+      "epithets": []
+    },
+    {
+      "character": "Achilles",
+      "form": "*)axilleu/s",
+      "line_num": "",
+      "line": "*(/ektora d' a)sperxe\\s klone/wn e)/fep' w)ku\\s *)axilleu/s.",
+      "context": "d' a)sperxe\\s klone/wn e)/fep' w)ku\\s *)axilleu/s.",
+      "epithets": []
+    },
+    {
+      "character": "Hector",
+      "form": "*(/ektwr",
+      "line_num": "",
+      "line": "w(\\s *(/ektwr ou) lh=qe podw/kea *phlei/+wna.",
+      "context": "w(\\s *(/ektwr ou) lh=qe podw/kea *phlei/+wna.",
+      "epithets": []
+    },
+    {
+      "character": "Hector",
+      "form": "*(/ektwr",
+      "line_num": "",
+      "line": "pw=s de/ ken *(/ektwr kh=ras u(pece/fugen qana/toio,",
+      "context": "pw=s de/ ken *(/ektwr kh=ras u(pece/fugen qana/toio,",
+      "epithets": []
+    },
+    {
+      "character": "Achilles",
+      "form": "*)axilleu/s",
+      "line_num": "205",
+      "line": "laoi=sin d' a)ne/neue karh/ati di=os *)axilleu/s,",
+      "context": "laoi=sin d' a)ne/neue karh/ati di=os *)axilleu/s,",
+      "epithets": [
+        "di=os"
+      ]
+    },
+    {
+      "character": "Achilles",
+      "form": "*)axilleu=",
+      "line_num": "",
+      "line": "nu=n dh\\ nw=i e)/olpa *dii\\+ fi/le fai/dim' *)axilleu=",
+      "context": "nw=i e)/olpa *dii\\+ fi/le fai/dim' *)axilleu=",
+      "epithets": []
+    },
+    {
+      "character": "Hector",
+      "form": "*(/ektwr",
+      "line_num": "",
+      "line": "th\\n d' au)=te prose/eipe me/gas koruqai/olos *(/ektwr:",
+      "context": "d' au)=te prose/eipe me/gas koruqai/olos *(/ektwr:",
+      "epithets": [
+        "koruqai/olos"
+      ]
+    },
+    {
+      "character": "Hector",
+      "form": "*(/ektwr",
+      "line_num": "",
+      "line": "to\\n pro/teros prose/eipe me/gas koruqai/olos *(/ektwr:",
+      "context": "to\\n pro/teros prose/eipe me/gas koruqai/olos *(/ektwr:",
+      "epithets": [
+        "koruqai/olos"
+      ]
+    },
+    {
+      "character": "Achilles",
+      "form": "*)axilleu=",
+      "line_num": "",
+      "line": "a)ll' e)pei\\ a)/r ke/ se sulh/sw kluta\\ teu/xe' *)axilleu=",
+      "context": "ke/ se sulh/sw kluta\\ teu/xe' *)axilleu=",
+      "epithets": []
+    },
+    {
+      "character": "Achilles",
+      "form": "*)axilleu/s",
+      "line_num": "260",
+      "line": "to\\n d' a)/r' u(po/dra i)dw\\n prose/fh po/das w)ku\\s *)axilleu/s:",
+      "context": "u(po/dra i)dw\\n prose/fh po/das w)ku\\s *)axilleu/s:",
+      "epithets": []
+    },
+    {
+      "character": "Hector",
+      "form": "*(/ektwr",
+      "line_num": "",
+      "line": "kai\\ to\\ me\\n a)/nta i)dw\\n h)leu/ato fai/dimos *(/ektwr:",
+      "context": "me\\n a)/nta i)dw\\n h)leu/ato fai/dimos *(/ektwr:",
+      "epithets": []
+    },
+    {
+      "character": "Achilles",
+      "form": "*)axilh=i",
+      "line_num": "",
+      "line": "a)\\y d' *)axilh=i+ di/dou, la/qe d' *(/ektora poime/na law=n.",
+      "context": "a)\\y d' *)axilh=i+ di/dou, la/qe d' *(/ektora poime/na",
+      "epithets": []
+    },
+    {
+      "character": "Hector",
+      "form": "*(/ektwr",
+      "line_num": "",
+      "line": "*(/ektwr de\\ prose/eipen a)mu/mona *phlei/+wna:",
+      "context": "*(/ektwr de\\ prose/eipen a)mu/mona *phlei/+wna:",
+      "epithets": []
+    },
+    {
+      "character": "Achilles",
+      "form": "*)axilleu=",
+      "line_num": "",
+      "line": "h)/mbrotes, ou)d' a)/ra pw/ ti qeoi=s e)piei/kel' *)axilleu=",
+      "context": "a)/ra pw/ ti qeoi=s e)piei/kel' *)axilleu=",
+      "epithets": []
+    },
+    {
+      "character": "Hector",
+      "form": "*(/ektwr",
+      "line_num": "",
+      "line": "th=le d' a)pepla/gxqh sa/keos do/ru: xw/sato d' *(/ektwr",
+      "context": "a)pepla/gxqh sa/keos do/ru: xw/sato d' *(/ektwr",
+      "epithets": []
+    },
+    {
+      "character": "Hector",
+      "form": "*(/ektwr",
+      "line_num": "",
+      "line": "*(/ektwr d' e)/gnw h(=|sin e)ni\\ fresi\\ fw/nhse/n te:",
+      "context": "*(/ektwr d' e)/gnw h(=|sin e)ni\\ fresi\\",
+      "epithets": []
+    },
+    {
+      "character": "Hector",
+      "form": "*(/ektwr",
+      "line_num": "",
+      "line": "w(\\s *(/ektwr oi)/mhse tina/sswn fa/sganon o)cu/.",
+      "context": "w(\\s *(/ektwr oi)/mhse tina/sswn fa/sganon o)cu/.",
+      "epithets": []
+    },
+    {
+      "character": "Achilles",
+      "form": "*)axilleu/s",
+      "line_num": "",
+      "line": "th=| r(' e)pi\\ oi(= memaw=t' e)/las' e)/gxei+ di=os *)axilleu/s,",
+      "context": "oi(= memaw=t' e)/las' e)/gxei+ di=os *)axilleu/s,",
+      "epithets": [
+        "di=os"
+      ]
+    },
+    {
+      "character": "Achilles",
+      "form": "*)axilleu/s",
+      "line_num": "330",
+      "line": "h)/ripe d' e)n koni/h|s: o(\\ d' e)peu/cato di=os *)axilleu/s:",
+      "context": "koni/h|s: o(\\ d' e)peu/cato di=os *)axilleu/s:",
+      "epithets": [
+        "di=os"
+      ]
+    },
+    {
+      "character": "Hector",
+      "form": "*(/ektwr",
+      "line_num": "",
+      "line": "to\\n d' o)ligodrane/wn prose/fh koruqai/olos *(/ektwr:",
+      "context": "to\\n d' o)ligodrane/wn prose/fh koruqai/olos *(/ektwr:",
+      "epithets": [
+        "koruqai/olos"
+      ]
+    },
+    {
+      "character": "Hector",
+      "form": "*(/ektwr",
+      "line_num": "355",
+      "line": "to\\n de\\ kataqnh/|skwn prose/fh koruqai/olos *(/ektwr:",
+      "context": "to\\n de\\ kataqnh/|skwn prose/fh koruqai/olos *(/ektwr:",
+      "epithets": [
+        "koruqai/olos"
+      ]
+    },
+    {
+      "character": "Achilles",
+      "form": "*)axilleu/s",
+      "line_num": "",
+      "line": "to\\n kai\\ teqnhw=ta proshu/da di=os *)axilleu/s:",
+      "context": "to\\n kai\\ teqnhw=ta proshu/da di=os *)axilleu/s:",
+      "epithets": [
+        "di=os"
+      ]
+    },
+    {
+      "character": "Hector",
+      "form": "*(/ektwr",
+      "line_num": "",
+      "line": "*(/ektwr h)\\ o(/te nh=as e)ne/prhsen puri\\ khle/w|.",
+      "context": "*(/ektwr h)\\ o(/te nh=as e)ne/prhsen puri\\",
+      "epithets": []
+    },
+    {
+      "character": "Achilles",
+      "form": "*)axilleu/s",
+      "line_num": "",
+      "line": "to\\n d' e)pei\\ e)cena/rice poda/rkhs di=os *)axilleu/s,",
+      "context": "d' e)pei\\ e)cena/rice poda/rkhs di=os *)axilleu/s,",
+      "epithets": [
+        "poda/rkhs",
+        "di=os"
+      ]
+    },
+    {
+      "character": "Patroclus",
+      "form": "*pa/troklos",
+      "line_num": "",
+      "line": "*pa/troklos: tou= d' ou)k e)pilh/somai, o)/fr' a)\\n e)/gwge",
+      "context": "*pa/troklos: tou= d' ou)k e)pilh/somai, o)/fr'",
+      "epithets": []
+    },
+    {
+      "character": "Hector",
+      "form": "*(/ektwr",
+      "line_num": "",
+      "line": "h)/mati tw=| o(/te min koruqai/olos h)ga/geq' *(/ektwr",
+      "context": "tw=| o(/te min koruqai/olos h)ga/geq' *(/ektwr",
+      "epithets": [
+        "koruqai/olos"
+      ]
+    },
+    {
+      "character": "Achilles",
+      "form": "*)axilleu/s",
+      "line_num": "",
+      "line": "*murmido/nas d' ou)k ei)/a a)poski/dnasqai *)axilleu/s,",
+      "context": "*murmido/nas d' ou)k ei)/a a)poski/dnasqai *)axilleu/s,",
+      "epithets": []
+    },
+    {
+      "character": "Patroclus",
+      "form": "*pa/troklon",
+      "line_num": "",
+      "line": "*pa/troklon klai/wmen: o(\\ ga\\r ge/ras e)sti\\ qano/ntwn.",
+      "context": "*pa/troklon klai/wmen: o(\\ ga\\r ge/ras e)sti\\",
+      "epithets": []
+    },
+    {
+      "character": "Achilles",
+      "form": "*)axilleu/s",
+      "line_num": "",
+      "line": "w(\\s e)/faq', oi(\\ d' w)/|mwcan a)olle/es, h)=rxe d' *)axilleu/s.",
+      "context": "d' w)/|mwcan a)olle/es, h)=rxe d' *)axilleu/s.",
+      "epithets": []
+    },
+    {
+      "character": "Patroclus",
+      "form": "*pa/troklon",
+      "line_num": "45",
+      "line": "pri/n g' e)ni\\ *pa/troklon qe/menai puri\\ sh=ma/ te xeu=ai",
+      "context": "pri/n g' e)ni\\ *pa/troklon qe/menai puri\\ sh=ma/ te xeu=ai",
+      "epithets": []
+    },
+    {
+      "character": "Achilles",
+      "form": "*)axilleu=",
+      "line_num": "",
+      "line": "eu(/deis, au)ta\\r e)mei=o lelasme/nos e)/pleu *)axilleu=.",
+      "context": "eu(/deis, au)ta\\r e)mei=o lelasme/nos e)/pleu *)axilleu=.",
+      "epithets": []
+    },
+    {
+      "character": "Achilles",
+      "form": "*)axilleu=",
+      "line_num": "80",
+      "line": "kai\\ de\\ soi\\ au)tw=| moi=ra, qeoi=s e)piei/kel' *)axilleu=,",
+      "context": "soi\\ au)tw=| moi=ra, qeoi=s e)piei/kel' *)axilleu=,",
+      "epithets": []
+    },
+    {
+      "character": "Achilles",
+      "form": "*)axilleu=",
+      "line_num": "",
+      "line": "mh\\ e)ma\\ sw=n a)pa/neuqe tiqh/menai o)ste/' *)axilleu=,",
+      "context": "e)ma\\ sw=n a)pa/neuqe tiqh/menai o)ste/' *)axilleu=,",
+      "epithets": []
+    },
+    {
+      "character": "Achilles",
+      "form": "*)axilleu/s",
+      "line_num": "",
+      "line": "to\\n d' a)pameibo/menos prose/fh po/das w)ku\\s *)axilleu/s:",
+      "context": "d' a)pameibo/menos prose/fh po/das w)ku\\s *)axilleu/s:",
+      "epithets": []
+    },
+    {
+      "character": "Patroclus",
+      "form": "*patro/klw|",
+      "line_num": "",
+      "line": "fra/ssato *patro/klw| me/ga h)ri/on h)de\\ oi(= au)tw=|.",
+      "context": "fra/ssato *patro/klw| me/ga h)ri/on h)de\\ oi(= au)tw=|.",
+      "epithets": []
+    },
+    {
+      "character": "Patroclus",
+      "form": "*pa/troklon",
+      "line_num": "",
+      "line": "muri/oi: e)n de\\ me/soisi fe/ron *pa/troklon e(tai=roi.",
+      "context": "muri/oi: e)n de\\ me/soisi fe/ron *pa/troklon e(tai=roi.",
+      "epithets": []
+    },
+    {
+      "character": "Achilles",
+      "form": "*)axilleu/s",
+      "line_num": "140",
+      "line": "e)/nq' au)=t' a)/ll' e)no/hse poda/rkhs di=os *)axilleu/s:",
+      "context": "au)=t' a)/ll' e)no/hse poda/rkhs di=os *)axilleu/s:",
+      "epithets": [
+        "poda/rkhs",
+        "di=os"
+      ]
+    },
+    {
+      "character": "Patroclus",
+      "form": "*patro/klw|",
+      "line_num": "",
+      "line": "*patro/klw| h(/rwi+ ko/mhn o)pa/saimi fe/resqai.",
+      "context": "*patro/klw| h(/rwi+ ko/mhn o)pa/saimi fe/resqai.",
+      "epithets": []
+    },
+    {
+      "character": "Patroclus",
+      "form": "*patro/klou",
+      "line_num": "",
+      "line": "ou)de\\ purh\\ *patro/klou e)kai/eto teqnhw=tos:",
+      "context": "ou)de\\ purh\\ *patro/klou e)kai/eto teqnhw=tos:",
+      "epithets": []
+    },
+    {
+      "character": "Achilles",
+      "form": "*)axilleu/s",
+      "line_num": "",
+      "line": "e)/nq' au)=t' a)ll' e)no/hse poda/rkhs di=os *)axilleu/s:",
+      "context": "au)=t' a)ll' e)no/hse poda/rkhs di=os *)axilleu/s:",
+      "epithets": [
+        "poda/rkhs",
+        "di=os"
+      ]
+    },
+    {
+      "character": "Patroclus",
+      "form": "*pa/troklos",
+      "line_num": "",
+      "line": "*pa/troklos, to\\n pa/ntes a)nastena/xousin *)axaioi/.",
+      "context": "*pa/troklos, to\\n pa/ntes a)nastena/xousin *)axaioi/.",
+      "epithets": []
+    },
+    {
+      "character": "Zeus",
+      "form": "*zeu/s",
+      "line_num": "",
+      "line": "*zeu/s te *poseida/wn te, kai\\ i(pposu/nas e)di/dacan",
+      "context": "*zeu/s te *poseida/wn te, kai\\ i(pposu/nas",
+      "epithets": []
+    },
+    {
+      "character": "Achilles",
+      "form": "*)axilleu/s",
+      "line_num": "",
+      "line": "kai\\ nu=n te/rmat' e)/qhke poda/rkhs di=os *)axilleu/s.",
+      "context": "nu=n te/rmat' e)/qhke poda/rkhs di=os *)axilleu/s.",
+      "epithets": [
+        "poda/rkhs",
+        "di=os"
+      ]
+    },
+    {
+      "character": "Achilles",
+      "form": "*)axilleu/s",
+      "line_num": "",
+      "line": "to\\n de\\ i)dw\\n w)/|kteire poda/rkhs di=os *)axilleu/s,",
+      "context": "de\\ i)dw\\n w)/|kteire poda/rkhs di=os *)axilleu/s,",
+      "epithets": [
+        "poda/rkhs",
+        "di=os"
+      ]
+    },
+    {
+      "character": "Achilles",
+      "form": "*)axilh=",
+      "line_num": "",
+      "line": "*phlei/+dhn *)axilh=a di/kh| h)mei/yat' a)nasta/s:",
+      "context": "*phlei/+dhn *)axilh=a di/kh| h)mei/yat' a)nasta/s:",
+      "epithets": []
+    },
+    {
+      "character": "Achilles",
+      "form": "*)axileu=",
+      "line_num": "",
+      "line": "w)= *)axileu= ma/la toi kexolw/somai ai)/ ke tele/ssh|s",
+      "context": "w)= *)axileu= ma/la toi kexolw/somai ai)/ ke",
+      "epithets": []
+    },
+    {
+      "character": "Patroclus",
+      "form": "*patro/klw|",
+      "line_num": "",
+      "line": "*patro/klw| h(/rwi+ *)ihsoni/dhs *eu)/nhos.",
+      "context": "*patro/klw| h(/rwi+ *)ihsoni/dhs *eu)/nhos.",
+      "epithets": []
+    },
+    {
+      "character": "Achilles",
+      "form": "*)axilleu/s",
+      "line_num": "",
+      "line": "sta\\n de\\ metastoixi/: sh/mhne de\\ te/rmat' *)axilleu/s.",
+      "context": "de\\ metastoixi/: sh/mhne de\\ te/rmat' *)axilleu/s.",
+      "epithets": []
+    },
+    {
+      "character": "Achilles",
+      "form": "*)axilleu/s",
+      "line_num": "",
+      "line": "ou(\\s e)pi\\ *patro/klw| pe/fnen po/das w)ku\\s *)axilleu/s:",
+      "context": "e)pi\\ *patro/klw| pe/fnen po/das w)ku\\s *)axilleu/s:",
+      "epithets": []
+    },
+    {
+      "character": "Patroclus",
+      "form": "*patro/klw|",
+      "line_num": "",
+      "line": "ou(\\s e)pi\\ *patro/klw| pe/fnen po/das w)ku\\s *)axilleu/s:",
+      "context": "ou(\\s e)pi\\ *patro/klw| pe/fnen po/das w)ku\\s *)axilleu/s:",
+      "epithets": []
+    },
+    {
+      "character": "Patroclus",
+      "form": "*pa/troklos",
+      "line_num": "800",
+      "line": "teu/xea *sarph/dontos, a(/ min *pa/troklos a)phu/ra.",
+      "context": "teu/xea *sarph/dontos, a(/ min *pa/troklos a)phu/ra.",
+      "epithets": []
+    },
+    {
+      "character": "Achilles",
+      "form": "*)axilleu/s",
+      "line_num": "",
+      "line": "a)ll' h)/toi to\\n e)/pefne poda/rkhs di=os *)axilleu/s,",
+      "context": "h)/toi to\\n e)/pefne poda/rkhs di=os *)axilleu/s,",
+      "epithets": [
+        "poda/rkhs",
+        "di=os"
+      ]
+    },
+    {
+      "character": "Achilles",
+      "form": "*)axilleu/s",
+      "line_num": "",
+      "line": "toi=si de\\ kai\\ mete/eipe poda/rkhs di=os *)axilleu/s:",
+      "context": "de\\ kai\\ mete/eipe poda/rkhs di=os *)axilleu/s:",
+      "epithets": [
+        "poda/rkhs",
+        "di=os"
+      ]
+    },
+    {
+      "character": "Patroclus",
+      "form": "*patro/klou",
+      "line_num": "",
+      "line": "*patro/klou poqe/wn a)ndroth=ta/ te kai\\ me/nos h)u/+,",
+      "context": "*patro/klou poqe/wn a)ndroth=ta/ te kai\\ me/nos",
+      "epithets": []
+    },
+    {
+      "character": "Hector",
+      "form": "*(/ektwr",
+      "line_num": "",
+      "line": "*(/ektwr mhri/' e)/khe bow=n ai)gw=n te telei/wn;",
+      "context": "*(/ektwr mhri/' e)/khe bow=n ai)gw=n te",
+      "epithets": []
+    },
+    {
+      "character": "Achilles",
+      "form": "*)axilh=i",
+      "line_num": "",
+      "line": "a)ll' o)low=| *)axilh=i+ qeoi\\ bou/lesq' e)parh/gein,",
+      "context": "a)ll' o)low=| *)axilh=i+ qeoi\\ bou/lesq' e)parh/gein,",
+      "epithets": []
+    },
+    {
+      "character": "Achilles",
+      "form": "*)axilh=i",
+      "line_num": "",
+      "line": "ei) dh\\ o(mh\\n *)axilh=i+ kai\\ *(/ektori qh/sete timh/n.",
+      "context": "ei) dh\\ o(mh\\n *)axilh=i+ kai\\ *(/ektori qh/sete timh/n.",
+      "epithets": []
+    },
+    {
+      "character": "Hector",
+      "form": "*(/ektwr",
+      "line_num": "",
+      "line": "*(/ektwr me\\n qnhto/s te gunai=ka/ te qh/sato mazo/n:",
+      "context": "*(/ektwr me\\n qnhto/s te gunai=ka/ te",
+      "epithets": []
+    },
+    {
+      "character": "Achilles",
+      "form": "*)axilleu/s",
+      "line_num": "",
+      "line": "au)ta\\r *)axilleu/s e)sti qea=s go/nos, h(\\n e)gw\\ au)th\\",
+      "context": "au)ta\\r *)axilleu/s e)sti qea=s go/nos, h(\\n e)gw\\",
+      "epithets": []
+    },
+    {
+      "character": "Zeus",
+      "form": "*zeu/s",
+      "line_num": "",
+      "line": "th\\n d' a)pameibo/menos prose/fh nefelhgere/ta *zeu/s:",
+      "context": "th\\n d' a)pameibo/menos prose/fh nefelhgere/ta *zeu/s:",
+      "epithets": []
+    },
+    {
+      "character": "Hector",
+      "form": "*(/ektwr",
+      "line_num": "",
+      "line": "ou) me\\n ga\\r timh/ ge mi/' e)/ssetai: a)lla\\ kai\\ *(/ektwr",
+      "context": "ge mi/' e)/ssetai: a)lla\\ kai\\ *(/ektwr",
+      "epithets": []
+    },
+    {
+      "character": "Achilles",
+      "form": "*)axilleu/s",
+      "line_num": "",
+      "line": "th\\n d' a)pameibo/menos prose/fh po/das w)ku\\s *)axilleu/s:",
+      "context": "d' a)pameibo/menos prose/fh po/das w)ku\\s *)axilleu/s:",
+      "epithets": []
+    },
+    {
+      "character": "Achilles",
+      "form": "*)axilleu/s",
+      "line_num": "",
+      "line": "nekro\\n a)/goi proti\\ a)/stu, to\\n e)/ktane di=os *)axilleu/s.",
+      "context": "proti\\ a)/stu, to\\n e)/ktane di=os *)axilleu/s.",
+      "epithets": [
+        "di=os"
+      ]
+    },
+    {
+      "character": "Achilles",
+      "form": "*)axilh=i",
+      "line_num": "",
+      "line": "o(\\s a)/cei ei(=o/s ken a)/gwn *)axilh=i+ pela/ssh|.",
+      "context": "o(\\s a)/cei ei(=o/s ken a)/gwn *)axilh=i+ pela/ssh|.",
+      "epithets": []
+    },
+    {
+      "character": "Achilles",
+      "form": "*)axilh=os",
+      "line_num": "155",
+      "line": "au)ta\\r e)ph\\n a)ga/gh|sin e)/sw klisi/hn *)axilh=os,",
+      "context": "au)ta\\r e)ph\\n a)ga/gh|sin e)/sw klisi/hn *)axilh=os,",
+      "epithets": []
+    },
+    {
+      "character": "Achilles",
+      "form": "*)axilleu/s",
+      "line_num": "180",
+      "line": "nekro\\n a)/goi proti\\ a)/stu, to\\n e)/ktane di=os *)axilleu/s.",
+      "context": "proti\\ a)/stu, to\\n e)/ktane di=os *)axilleu/s.",
+      "epithets": [
+        "di=os"
+      ]
+    },
+    {
+      "character": "Achilles",
+      "form": "*)axilh=i",
+      "line_num": "",
+      "line": "o(/s s' a)/cei ei(=o/s ken a)/gwn *)axilh=i+ pela/ssh|.",
+      "context": "s' a)/cei ei(=o/s ken a)/gwn *)axilh=i+ pela/ssh|.",
+      "epithets": []
+    },
+    {
+      "character": "Achilles",
+      "form": "*)axilh=os",
+      "line_num": "",
+      "line": "au)ta\\r e)ph\\n a)ga/gh|sin e)/sw klisi/hn *)axilh=os,",
+      "context": "au)ta\\r e)ph\\n a)ga/gh|sin e)/sw klisi/hn *)axilh=os,",
+      "epithets": []
+    },
+    {
+      "character": "Zeus",
+      "form": "*zeu/s",
+      "line_num": "",
+      "line": "ei) de/ toi ou) dw/sei e(o\\n a)/ggelon eu)ru/opa *zeu/s,",
+      "context": "ou) dw/sei e(o\\n a)/ggelon eu)ru/opa *zeu/s,",
+      "epithets": []
+    },
+    {
+      "character": "Achilles",
+      "form": "*)axilh=os",
+      "line_num": "",
+      "line": "ei) me\\n dh\\ qera/pwn *phlhi+a/dew *)axilh=os",
+      "context": "ei) me\\n dh\\ qera/pwn *phlhi+a/dew *)axilh=os",
+      "epithets": []
+    },
+    {
+      "character": "Achilles",
+      "form": "*)axilleu/s",
+      "line_num": "",
+      "line": "h(=|si kusi\\n melei+sti\\ tamw\\n prou/qhken *)axilleu/s.",
+      "context": "h(=|si kusi\\n melei+sti\\ tamw\\n prou/qhken *)axilleu/s.",
+      "epithets": []
+    },
+    {
+      "character": "Achilles",
+      "form": "*)axilh=",
+      "line_num": "",
+      "line": "o(/s me ke/lh| se/o dw=ra pare\\c *)axilh=a de/xesqai.",
+      "context": "me ke/lh| se/o dw=ra pare\\c *)axilh=a de/xesqai.",
+      "epithets": []
+    },
+    {
+      "character": "Achilles",
+      "form": "*)axilh=os",
+      "line_num": "",
+      "line": "a)ll' h)/toi me\\n e)gw\\ pa/lin ei)/somai, ou)d' *)axilh=os",
+      "context": "me\\n e)gw\\ pa/lin ei)/somai, ou)d' *)axilh=os",
+      "epithets": []
+    },
+    {
+      "character": "Achilles",
+      "form": "*)axilleu=",
+      "line_num": "",
+      "line": "mnh=sai patro\\s soi=o qeoi=s e)piei/kel' *)axilleu=,",
+      "context": "mnh=sai patro\\s soi=o qeoi=s e)piei/kel' *)axilleu=,",
+      "epithets": []
+    },
+    {
+      "character": "Achilles",
+      "form": "*)axileu=",
+      "line_num": "",
+      "line": "a)ll' ai)dei=o qeou\\s *)axileu=, au)to/n t' e)le/hson",
+      "context": "a)ll' ai)dei=o qeou\\s *)axileu=, au)to/n t' e)le/hson",
+      "epithets": []
+    },
+    {
+      "character": "Achilles",
+      "form": "*)axilh=os",
+      "line_num": "510",
+      "line": "klai=' a(dina\\ propa/roiqe podw=n *)axilh=os e)lusqei/s,",
+      "context": "klai=' a(dina\\ propa/roiqe podw=n *)axilh=os e)lusqei/s,",
+      "epithets": []
+    },
+    {
+      "character": "Patroclus",
+      "form": "*pa/troklon",
+      "line_num": "",
+      "line": "*pa/troklon: tw=n de\\ stonaxh\\ kata\\ dw/mat' o)rw/rei.",
+      "context": "*pa/troklon: tw=n de\\ stonaxh\\ kata\\ dw/mat'",
+      "epithets": []
+    },
+    {
+      "character": "Achilles",
+      "form": "*)axilleu/s",
+      "line_num": "",
+      "line": "au)ta\\r e)pei/ r(a go/oio teta/rpeto di=os *)axilleu/s,",
+      "context": "e)pei/ r(a go/oio teta/rpeto di=os *)axilleu/s,",
+      "epithets": [
+        "di=os"
+      ]
+    },
+    {
+      "character": "Hector",
+      "form": "*(/ektwr",
+      "line_num": "",
+      "line": "mh/ pw m' e)s qro/non i(/ze diotrefe\\s o)/fra/ ken *(/ektwr",
+      "context": "qro/non i(/ze diotrefe\\s o)/fra/ ken *(/ektwr",
+      "epithets": []
+    },
+    {
+      "character": "Achilles",
+      "form": "*)axilleu/s",
+      "line_num": "",
+      "line": "to\\n d' a)/r' u(po/dra i)dw\\n prose/fh po/das w)ku\\s *)axilleu/s:",
+      "context": "u(po/dra i)dw\\n prose/fh po/das w)ku\\s *)axilleu/s:",
+      "epithets": []
+    },
+    {
+      "character": "Achilles",
+      "form": "*)axilh=i",
+      "line_num": "585",
+      "line": "pai=da i)dw/n, *)axilh=i+ d' o)rinqei/h fi/lon h)=tor,",
+      "context": "pai=da i)dw/n, *)axilh=i+ d' o)rinqei/h fi/lon h)=tor,",
+      "epithets": []
+    },
+    {
+      "character": "Achilles",
+      "form": "*)axilleu/s",
+      "line_num": "",
+      "line": "h)= r(a, kai\\ e)s klisi/hn pa/lin h)/i+e di=os *)axilleu/s,",
+      "context": "e)s klisi/hn pa/lin h)/i+e di=os *)axilleu/s,",
+      "epithets": [
+        "di=os"
+      ]
+    },
+    {
+      "character": "Achilles",
+      "form": "*)axilleu/s",
+      "line_num": "",
+      "line": "kaloi=s e)n kane/oisin: a)ta\\r kre/a nei=men *)axilleu/s.",
+      "context": "e)n kane/oisin: a)ta\\r kre/a nei=men *)axilleu/s.",
+      "epithets": []
+    },
+    {
+      "character": "Achilles",
+      "form": "*)axilh=",
+      "line_num": "",
+      "line": "h)/toi *dardani/dhs *pri/amos qau/maz' *)axilh=a",
+      "context": "h)/toi *dardani/dhs *pri/amos qau/maz' *)axilh=a",
+      "epithets": []
+    },
+    {
+      "character": "Achilles",
+      "form": "*)axilleu/s",
+      "line_num": "",
+      "line": "to\\n d' e)pikertome/wn prose/fh po/das w)ku\\s *)axilleu/s:",
+      "context": "d' e)pikertome/wn prose/fh po/das w)ku\\s *)axilleu/s:",
+      "epithets": []
+    },
+    {
+      "character": "Achilles",
+      "form": "*)axileu=",
+      "line_num": "",
+      "line": "w(=de/ ke/ moi r(e/zwn *)axileu= kexarisme/na qei/hs.",
+      "context": "w(=de/ ke/ moi r(e/zwn *)axileu= kexarisme/na qei/hs.",
+      "epithets": []
+    },
+    {
+      "character": "Zeus",
+      "form": "di/a",
+      "line_num": "",
+      "line": "a)ce/men e)c o)/reos, ma/la de\\ *trw=es dedi/asin.",
+      "context": "e)c o)/reos, ma/la de\\ *trw=es dedi/asin.",
+      "epithets": []
+    },
+    {
+      "character": "Achilles",
+      "form": "*)axilleu/s",
+      "line_num": "",
+      "line": "to\\n d' au)=te prose/eipe poda/rkhs di=os *)axilleu/s:",
+      "context": "d' au)=te prose/eipe poda/rkhs di=os *)axilleu/s:",
+      "epithets": [
+        "poda/rkhs",
+        "di=os"
+      ]
+    },
+    {
+      "character": "Achilles",
+      "form": "*)axilleu/s",
+      "line_num": "",
+      "line": "a)ndra/sin e)n dhi/+oisin, e)pei/ s' ei)/asen *)axilleu/s.",
+      "context": "e)n dhi/+oisin, e)pei/ s' ei)/asen *)axilleu/s.",
+      "epithets": []
+    },
+    {
+      "character": "Zeus",
+      "form": "*zeu/s",
+      "line_num": "",
+      "line": "*ca/nqou dinh/entos, o(\\n a)qa/natos te/keto *zeu/s,",
+      "context": "*ca/nqou dinh/entos, o(\\n a)qa/natos te/keto *zeu/s,",
+      "epithets": []
+    },
+    {
+      "character": "Hector",
+      "form": "*(/ektwr",
+      "line_num": "",
+      "line": "xwo/menos, w(=| dh/ pou a)delfeo\\n e)/ktanen *(/ektwr",
+      "context": "w(=| dh/ pou a)delfeo\\n e)/ktanen *(/ektwr",
+      "epithets": []
+    },
+    {
+      "character": "Patroclus",
+      "form": "*patro/klou",
+      "line_num": "",
+      "line": "*patro/klou, to\\n e)/pefnes: a)ne/sthsen de/ min ou)d' w(=s.",
+      "context": "*patro/klou, to\\n e)/pefnes: a)ne/sthsen de/ min",
+      "epithets": []
+    }
+  ],
+  "epithet_frequency": {
+    "di=os": 40,
+    "a)/nac a)ndrw=n": 1,
+    "poda/rkhs": 14,
+    "koruqai/olos": 38,
+    "mega/qumos": 1
+  },
+  "character_epithet_pairs": {
+    "Achilles": [
+      "di=os",
+      "a)/nac a)ndrw=n",
+      "poda/rkhs",
+      "di=os",
+      "di=os",
+      "di=os",
+      "di=os",
+      "di=os",
+      "di=os",
+      "poda/rkhs",
+      "di=os",
+      "di=os",
+      "poda/rkhs",
+      "di=os",
+      "di=os",
+      "poda/rkhs",
+      "di=os",
+      "di=os",
+      "di=os",
+      "di=os",
+      "di=os",
+      "di=os",
+      "poda/rkhs",
+      "di=os",
+      "di=os",
+      "di=os",
+      "poda/rkhs",
+      "di=os",
+      "di=os",
+      "di=os",
+      "di=os",
+      "di=os",
+      "di=os",
+      "poda/rkhs",
+      "di=os",
+      "poda/rkhs",
+      "di=os",
+      "poda/rkhs",
+      "di=os",
+      "poda/rkhs",
+      "di=os",
+      "poda/rkhs",
+      "di=os",
+      "poda/rkhs",
+      "di=os",
+      "poda/rkhs",
+      "di=os",
+      "di=os",
+      "di=os",
+      "di=os",
+      "di=os",
+      "poda/rkhs",
+      "di=os"
+    ],
+    "Hector": [
+      "koruqai/olos",
+      "koruqai/olos",
+      "di=os",
+      "koruqai/olos",
+      "koruqai/olos",
+      "koruqai/olos",
+      "koruqai/olos",
+      "koruqai/olos",
+      "koruqai/olos",
+      "koruqai/olos",
+      "koruqai/olos",
+      "koruqai/olos",
+      "koruqai/olos",
+      "koruqai/olos",
+      "koruqai/olos",
+      "koruqai/olos",
+      "koruqai/olos",
+      "koruqai/olos",
+      "koruqai/olos",
+      "koruqai/olos",
+      "koruqai/olos",
+      "koruqai/olos",
+      "koruqai/olos",
+      "mega/qumos",
+      "koruqai/olos",
+      "koruqai/olos",
+      "koruqai/olos",
+      "koruqai/olos",
+      "koruqai/olos",
+      "koruqai/olos",
+      "koruqai/olos",
+      "koruqai/olos",
+      "koruqai/olos",
+      "koruqai/olos",
+      "koruqai/olos",
+      "koruqai/olos",
+      "koruqai/olos",
+      "koruqai/olos",
+      "koruqai/olos",
+      "koruqai/olos"
+    ],
+    "Patroclus": [
+      "di=os"
+    ]
+  },
+  "character_line_numbers": {
+    "Achilles": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "215",
+      "",
+      "",
+      "",
+      "330",
+      "",
+      "",
+      "",
+      "",
+      "220",
+      "",
+      "",
+      "685",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "225",
+      "",
+      "",
+      "485",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "625",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "805",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "5",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "105",
+      "",
+      "195",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "30",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "305",
+      "",
+      "",
+      "55",
+      "145",
+      "",
+      "155",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "85",
+      "",
+      "",
+      "120",
+      "",
+      "160",
+      "",
+      "",
+      "",
+      "320",
+      "",
+      "",
+      "",
+      "365",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "160",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "240",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "580",
+      "",
+      "",
+      "",
+      "55",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "205",
+      "",
+      "",
+      "260",
+      "",
+      "",
+      "",
+      "330",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "80",
+      "",
+      "",
+      "140",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "155",
+      "180",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "510",
+      "",
+      "",
+      "585",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "Zeus": [
+      "",
+      "175",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "560",
+      "",
+      "",
+      "",
+      "70",
+      "",
+      "",
+      "",
+      "",
+      "30",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "475",
+      "280",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "220",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "75",
+      "",
+      "120",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "215",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "Patroclus": [
+      "345",
+      "190",
+      "195",
+      "",
+      "205",
+      "",
+      "220",
+      "620",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "65",
+      "390",
+      "",
+      "130",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "460",
+      "",
+      "",
+      "480",
+      "490",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "710",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "815",
+      "",
+      "",
+      "",
+      "15",
+      "80",
+      "125",
+      "",
+      "",
+      "",
+      "255",
+      "",
+      "",
+      "355",
+      "400",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "690",
+      "",
+      "20",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "315",
+      "345",
+      "355",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "100",
+      "",
+      "",
+      "",
+      "45",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "800",
+      "",
+      "",
+      ""
+    ],
+    "Hector": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "85",
+      "",
+      "",
+      "",
+      "505",
+      "590",
+      "",
+      "680",
+      "",
+      "",
+      "",
+      "110",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "325",
+      "",
+      "",
+      "",
+      "",
+      "390",
+      "",
+      "",
+      "440",
+      "",
+      "",
+      "",
+      "520",
+      "",
+      "",
+      "",
+      "",
+      "90",
+      "",
+      "",
+      "",
+      "",
+      "110",
+      "",
+      "",
+      "",
+      "160",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "200",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "295",
+      "300",
+      "315",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "10",
+      "",
+      "",
+      "230",
+      "290",
+      "445",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "390",
+      "",
+      "",
+      "65",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "415",
+      "",
+      "440",
+      "",
+      "",
+      "515",
+      "545",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "755",
+      "760",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "125",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "525",
+      "",
+      "565",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "155",
+      "175",
+      "",
+      "310",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "430",
+      "5",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "355",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  }
+}

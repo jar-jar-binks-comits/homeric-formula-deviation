@@ -1,0 +1,495 @@
+================================================================================
+HOMERIC FORMULA DEVIATION ANALYSIS
+Detecting Moments Where Homer Breaks Formulaic Patterns
+================================================================================
+
+OVERALL STATISTICS:
+  Total character mentions analyzed: 484
+  Formulaic mentions: 91 (18.8%)
+  Bare mentions (no formula): 393 (81.2%)
+  Identified deviations: 112 (23.1%)
+
+================================================================================
+HIGH SURPRISAL MOMENTS (Top 50)
+These are moments where Homer's formula usage is most unexpected
+================================================================================
+
+
+1. Line : Hector
+   Surprisal: 6.07 bits
+   Probability: 1.49%
+   Formula used: a)/ra fwnh/sas a)pe/bh koruqai/olos
+   Formula type: speech_formula
+   Semantic: narrative - speech introduction or response
+   Line: w(\s a)/ra fwnh/sas a)pe/bh koruqai/olos *(/ektwr:
+   Context: w(\s a)/ra fwnh/sas a)pe/bh koruqai/olos *(/ektwr:
+
+2. Line : Hector
+   Surprisal: 6.07 bits
+   Probability: 1.49%
+   Formula used: a)/ra fwnh/sas a)pe/bh koruqai/olos
+   Formula type: speech_formula
+   Semantic: narrative - speech introduction or response
+   Line: w(\s a)/ra fwnh/sas a)pe/bh koruqai/olos *(/ektwr:
+   Context: w(\s a)/ra fwnh/sas a)pe/bh koruqai/olos *(/ektwr:
+
+3. Line : Hector
+   Surprisal: 6.07 bits
+   Probability: 1.49%
+   Formula used: *priami/dhs, o(/te oi( *zeu\s
+   Formula type: patronymic
+   Semantic: patronymic or genealogical
+   Line: *(/ektwr *priami/dhs, o(/te oi( *zeu\s ku=dos e)/dwke.
+   Context: *(/ektwr *priami/dhs, o(/te oi( *zeu\s ku=dos
+
+4. Line 300: Hector
+   Surprisal: 6.07 bits
+   Probability: 1.49%
+   Formula used: *priami/dhs, o(/te oi( *zeu\s
+   Formula type: patronymic
+   Semantic: patronymic or genealogical
+   Line: *(/ektwr *priami/dhs, o(/te oi( *zeu\s ku=dos e)/dwken;
+   Context: *(/ektwr *priami/dhs, o(/te oi( *zeu\s ku=dos
+
+5. Line : Hector
+   Surprisal: 6.07 bits
+   Probability: 1.49%
+   Formula used: ge teu/xe' e)/xei koruqai/olos
+   Formula type: epithet
+   Semantic: character epithet
+   Line: gumno/n: a)ta\r ta/ ge teu/xe' e)/xei koruqai/olos *(/ektwr.
+   Context: ta/ ge teu/xe' e)/xei koruqai/olos *(/ektwr.
+
+6. Line : Hector
+   Surprisal: 6.07 bits
+   Probability: 1.49%
+   Formula used: a)/ra fwnh/sas a)pe/bh koruqai/olos
+   Formula type: speech_formula
+   Semantic: narrative - speech introduction or response
+   Line: w(\s a)/ra fwnh/sas a)pe/bh koruqai/olos *(/ektwr
+   Context: w(\s a)/ra fwnh/sas a)pe/bh koruqai/olos *(/ektwr
+
+7. Line : Hector
+   Surprisal: 6.07 bits
+   Probability: 1.49%
+   Formula used: ge teu/xe' e)/xei koruqai/olos
+   Formula type: epithet
+   Semantic: character epithet
+   Line: gumno/n: a)ta\r ta/ ge teu/xe' e)/xei koruqai/olos *(/ektwr.
+   Context: ta/ ge teu/xe' e)/xei koruqai/olos *(/ektwr.
+
+8. Line : Hector
+   Surprisal: 6.07 bits
+   Probability: 1.49%
+   Formula used: ge teu/xe' e)/xei koruqai/olos
+   Formula type: epithet
+   Semantic: character epithet
+   Line: gumnou=: a)ta\r ta/ ge teu/xe' e)/xei koruqai/olos *(/ektwr.
+   Context: ta/ ge teu/xe' e)/xei koruqai/olos *(/ektwr.
+
+9. Line : Hector
+   Surprisal: 6.07 bits
+   Probability: 1.49%
+   Formula used: *priami/dhs, o(/te oi( *zeu\s
+   Formula type: patronymic
+   Semantic: patronymic or genealogical
+   Line: *(/ektwr *priami/dhs, o(/te oi( *zeu\s ku=dos e)/dwken,
+   Context: *(/ektwr *priami/dhs, o(/te oi( *zeu\s ku=dos
+
+10. Line 505: Hector
+   Surprisal: 4.85 bits
+   Probability: 3.47%
+   Formula used: kai\ fai/dimos
+   Formula type: epithet
+   Semantic: character epithet
+   Line: xw/rhsan d' u(po/ te pro/maxoi kai\ fai/dimos *(/ektwr:
+   Context: u(po/ te pro/maxoi kai\ fai/dimos *(/ektwr:
+
+11. Line 290: Hector
+   Surprisal: 4.85 bits
+   Probability: 3.47%
+   Formula used: kai\ fai/dimos
+   Formula type: epithet
+   Semantic: character epithet
+   Line: ou)d' a)/n pw to/te ge *trw=es kai\ fai/dimos *(/ektwr
+   Context: to/te ge *trw=es kai\ fai/dimos *(/ektwr
+
+12. Line 390: Hector
+   Surprisal: 4.85 bits
+   Probability: 3.47%
+   Formula used: kai\ fai/dimos
+   Formula type: epithet
+   Semantic: character epithet
+   Line: kuanoxai=ta *poseida/wn kai\ fai/dimos *(/ektwr,
+   Context: kuanoxai=ta *poseida/wn kai\ fai/dimos *(/ektwr,
+
+13. Line : Hector
+   Surprisal: 4.85 bits
+   Probability: 3.47%
+   Formula used: kai\ fai/dimos
+   Formula type: epithet
+   Semantic: character epithet
+   Line: xw/rhsan d' u(po/ te pro/maxoi kai\ fai/dimos *(/ektwr.
+   Context: u(po/ te pro/maxoi kai\ fai/dimos *(/ektwr.
+
+14. Line 760: Hector
+   Surprisal: 4.85 bits
+   Probability: 3.47%
+   Formula used: kai\ fai/dimos
+   Formula type: epithet
+   Semantic: character epithet
+   Line: *pa/troklo/s te *menoitia/dhs kai\ fai/dimos *(/ektwr
+   Context: *pa/troklo/s te *menoitia/dhs kai\ fai/dimos *(/ektwr
+
+15. Line : Hector
+   Surprisal: 4.85 bits
+   Probability: 3.47%
+   Formula used: kai\ fai/dimos
+   Formula type: epithet
+   Semantic: character epithet
+   Line: xw/rhsan d' u(po/ te pro/maxoi kai\ fai/dimos *(/ektwr:
+   Context: u(po/ te pro/maxoi kai\ fai/dimos *(/ektwr:
+
+16. Line : Hector
+   Surprisal: 4.85 bits
+   Probability: 3.47%
+   Formula used: kai\ fai/dimos
+   Formula type: epithet
+   Semantic: character epithet
+   Line: *ai)nei/as t' *)agxisia/dhs kai\ fai/dimos *(/ektwr.
+   Context: *ai)nei/as t' *)agxisia/dhs kai\ fai/dimos *(/ektwr.
+
+17. Line : Hector
+   Surprisal: 4.34 bits
+   Probability: 4.95%
+   Formula used: prose/fh koruqai/olos
+   Formula type: speech_formula
+   Semantic: narrative - speech introduction or response
+   Line: w(\s fa/to, to\n d' ou)/ ti prose/fh koruqai/olos *(/ektwr,
+   Context: d' ou)/ ti prose/fh koruqai/olos *(/ektwr,
+
+18. Line : Hector
+   Surprisal: 4.34 bits
+   Probability: 4.95%
+   Formula used: prose/fh koruqai/olos
+   Formula type: speech_formula
+   Semantic: narrative - speech introduction or response
+   Line: w(\s fa/to, to\n d' ou)/ ti prose/fh koruqai/olos *(/ektwr:
+   Context: d' ou)/ ti prose/fh koruqai/olos *(/ektwr:
+
+19. Line 520: Hector
+   Surprisal: 4.34 bits
+   Probability: 4.95%
+   Formula used: prose/fh koruqai/olos
+   Formula type: speech_formula
+   Semantic: narrative - speech introduction or response
+   Line: to\n d' a)pameibo/menos prose/fh koruqai/olos *(/ektwr:
+   Context: to\n d' a)pameibo/menos prose/fh koruqai/olos *(/ektwr:
+
+20. Line 230: Hector
+   Surprisal: 4.34 bits
+   Probability: 4.95%
+   Formula used: prose/fh koruqai/olos
+   Formula type: speech_formula
+   Semantic: narrative - speech introduction or response
+   Line: to\n d' a)/r' u(po/dra i)dw\n prose/fh koruqai/olos *(/ektwr:
+   Context: a)/r' u(po/dra i)dw\n prose/fh koruqai/olos *(/ektwr:
+
+21. Line : Hector
+   Surprisal: 4.34 bits
+   Probability: 4.95%
+   Formula used: prose/fh koruqai/olos
+   Formula type: speech_formula
+   Semantic: narrative - speech introduction or response
+   Line: to\n d' o)ligodrane/wn prose/fh koruqai/olos *(/ektwr:
+   Context: to\n d' o)ligodrane/wn prose/fh koruqai/olos *(/ektwr:
+
+22. Line : Hector
+   Surprisal: 4.34 bits
+   Probability: 4.95%
+   Formula used: prose/fh koruqai/olos
+   Formula type: speech_formula
+   Semantic: narrative - speech introduction or response
+   Line: to\n d' a)/r' u(po/dra i)dw\n prose/fh koruqai/olos *(/ektwr:
+   Context: a)/r' u(po/dra i)dw\n prose/fh koruqai/olos *(/ektwr:
+
+23. Line : Hector
+   Surprisal: 4.34 bits
+   Probability: 4.95%
+   Formula used: prose/fh koruqai/olos
+   Formula type: speech_formula
+   Semantic: narrative - speech introduction or response
+   Line: to\n d' a)/r' u(po/dra i)dw\n prose/fh koruqai/olos *(/ektwr:
+   Context: a)/r' u(po/dra i)dw\n prose/fh koruqai/olos *(/ektwr:
+
+24. Line 430: Hector
+   Surprisal: 4.34 bits
+   Probability: 4.95%
+   Formula used: prose/fh koruqai/olos
+   Formula type: speech_formula
+   Semantic: narrative - speech introduction or response
+   Line: to\n d' ou) tarbh/sas prose/fh koruqai/olos *(/ektwr:
+   Context: d' ou) tarbh/sas prose/fh koruqai/olos *(/ektwr:
+
+25. Line : Hector
+   Surprisal: 4.34 bits
+   Probability: 4.95%
+   Formula used: prose/fh koruqai/olos
+   Formula type: speech_formula
+   Semantic: narrative - speech introduction or response
+   Line: to\n d' o)ligodrane/wn prose/fh koruqai/olos *(/ektwr:
+   Context: to\n d' o)ligodrane/wn prose/fh koruqai/olos *(/ektwr:
+
+26. Line 355: Hector
+   Surprisal: 4.34 bits
+   Probability: 4.95%
+   Formula used: prose/fh koruqai/olos
+   Formula type: speech_formula
+   Semantic: narrative - speech introduction or response
+   Line: to\n de\ kataqnh/|skwn prose/fh koruqai/olos *(/ektwr:
+   Context: to\n de\ kataqnh/|skwn prose/fh koruqai/olos *(/ektwr:
+
+27. Line : Hector
+   Surprisal: 4.07 bits
+   Probability: 5.94%
+   Formula used: me/gas koruqai/olos
+   Formula type: epithet
+   Semantic: character epithet
+   Line: *trwsi\ me\n h(gemo/neue me/gas koruqai/olos *(/ektwr
+   Context: *trwsi\ me\n h(gemo/neue me/gas koruqai/olos *(/ektwr
+
+28. Line : Hector
+   Surprisal: 4.07 bits
+   Probability: 5.94%
+   Formula used: me/gas koruqai/olos
+   Formula type: epithet
+   Semantic: character epithet
+   Line: w(\s a)/r' e)/fan, pa/llen de\ me/gas koruqai/olos *(/ektwr
+   Context: e)/fan, pa/llen de\ me/gas koruqai/olos *(/ektwr
+
+29. Line 680: Hector
+   Surprisal: 4.07 bits
+   Probability: 5.94%
+   Formula used: me/gas koruqai/olos
+   Formula type: epithet
+   Semantic: character epithet
+   Line: ei) mh\ a)/r' o)cu\ no/hse me/gas koruqai/olos *(/ektwr:
+   Context: a)/r' o)cu\ no/hse me/gas koruqai/olos *(/ektwr:
+
+30. Line : Hector
+   Surprisal: 4.07 bits
+   Probability: 5.94%
+   Formula used: me/gas koruqai/olos
+   Formula type: epithet
+   Semantic: character epithet
+   Line: th\n d' h)mei/bet' e)/peita me/gas koruqai/olos *(/ektwr:
+   Context: d' h)mei/bet' e)/peita me/gas koruqai/olos *(/ektwr:
+
+31. Line : Hector
+   Surprisal: 4.07 bits
+   Probability: 5.94%
+   Formula used: me/gas koruqai/olos
+   Formula type: epithet
+   Semantic: character epithet
+   Line: th\n d' h)mei/bet' e)/peita me/gas koruqai/olos *(/ektwr
+   Context: d' h)mei/bet' e)/peita me/gas koruqai/olos *(/ektwr
+
+32. Line 440: Hector
+   Surprisal: 4.07 bits
+   Probability: 5.94%
+   Formula used: me/gas koruqai/olos
+   Formula type: epithet
+   Semantic: character epithet
+   Line: th\n d' au)=te prose/eipe me/gas koruqai/olos *(/ektwr:
+   Context: d' au)=te prose/eipe me/gas koruqai/olos *(/ektwr:
+
+33. Line : Hector
+   Surprisal: 4.07 bits
+   Probability: 5.94%
+   Formula used: me/gas koruqai/olos
+   Formula type: epithet
+   Semantic: character epithet
+   Line: to\n d' au)=te prose/eipe me/gas koruqai/olos *(/ektwr:
+   Context: d' au)=te prose/eipe me/gas koruqai/olos *(/ektwr:
+
+34. Line : Hector
+   Surprisal: 4.07 bits
+   Probability: 5.94%
+   Formula used: me/gas koruqai/olos
+   Formula type: epithet
+   Semantic: character epithet
+   Line: to\n d' au)=te prose/eipe me/gas koruqai/olos *(/ektwr:
+   Context: d' au)=te prose/eipe me/gas koruqai/olos *(/ektwr:
+
+35. Line 160: Hector
+   Surprisal: 4.07 bits
+   Probability: 5.94%
+   Formula used: me/gas koruqai/olos
+   Formula type: epithet
+   Semantic: character epithet
+   Line: tw=| d' e)pi\ makro\n a)/u+se me/gas koruqai/olos *(/ektwr:
+   Context: e)pi\ makro\n a)/u+se me/gas koruqai/olos *(/ektwr:
+
+36. Line : Hector
+   Surprisal: 4.07 bits
+   Probability: 5.94%
+   Formula used: me/gas koruqai/olos
+   Formula type: epithet
+   Semantic: character epithet
+   Line: w(\s kai\ e)gw/n, o(/te d' au)=te me/gas koruqai/olos *(/ektwr
+   Context: o(/te d' au)=te me/gas koruqai/olos *(/ektwr
+
+37. Line : Hector
+   Surprisal: 4.07 bits
+   Probability: 5.94%
+   Formula used: me/gas koruqai/olos
+   Formula type: epithet
+   Semantic: character epithet
+   Line: th\n d' au)=te prose/eipe me/gas koruqai/olos *(/ektwr:
+   Context: d' au)=te prose/eipe me/gas koruqai/olos *(/ektwr:
+
+38. Line : Hector
+   Surprisal: 4.07 bits
+   Probability: 5.94%
+   Formula used: me/gas koruqai/olos
+   Formula type: epithet
+   Semantic: character epithet
+   Line: to\n pro/teros prose/eipe me/gas koruqai/olos *(/ektwr:
+   Context: to\n pro/teros prose/eipe me/gas koruqai/olos *(/ektwr:
+
+39. Line : Achilles
+   Surprisal: 3.88 bits
+   Probability: 6.80%
+   Formula used: poda/rkhs di=os
+   Formula type: epithet
+   Semantic: character epithet
+   Line: to\n d' h)mei/bet' e)/peita poda/rkhs di=os *)axilleu/s:
+   Context: d' h)mei/bet' e)/peita poda/rkhs di=os *)axilleu/s:
+
+40. Line : Achilles
+   Surprisal: 3.88 bits
+   Probability: 6.80%
+   Formula used: poda/rkhs di=os
+   Formula type: epithet
+   Semantic: character epithet
+   Line: to\n de\ i)dw\n e)no/hse poda/rkhs di=os *)axilleu/s:
+   Context: de\ i)dw\n e)no/hse poda/rkhs di=os *)axilleu/s:
+
+41. Line 5: Achilles
+   Surprisal: 3.88 bits
+   Probability: 6.80%
+   Formula used: poda/rkhs di=os
+   Formula type: epithet
+   Semantic: character epithet
+   Line: to\n de\ i)dw\n w)/|ktire poda/rkhs di=os *)axilleu/s,
+   Context: de\ i)dw\n w)/|ktire poda/rkhs di=os *)axilleu/s,
+
+42. Line : Achilles
+   Surprisal: 3.88 bits
+   Probability: 6.80%
+   Formula used: poda/rkhs di=os
+   Formula type: epithet
+   Semantic: character epithet
+   Line: th\n d' h)mei/bet' e)/peita poda/rkhs di=os *)axilleu/s:
+   Context: d' h)mei/bet' e)/peita poda/rkhs di=os *)axilleu/s:
+
+43. Line : Achilles
+   Surprisal: 3.88 bits
+   Probability: 6.80%
+   Formula used: poda/rkhs di=os
+   Formula type: epithet
+   Semantic: character epithet
+   Line: to\n pro/teros prose/eipe poda/rkhs di=os *)axilleu/s:
+   Context: to\n pro/teros prose/eipe poda/rkhs di=os *)axilleu/s:
+
+44. Line : Achilles
+   Surprisal: 3.88 bits
+   Probability: 6.80%
+   Formula used: poda/rkhs di=os
+   Formula type: epithet
+   Semantic: character epithet
+   Line: to\n pro/teros prose/eipe poda/rkhs di=os *)axilleu/s:
+   Context: to\n pro/teros prose/eipe poda/rkhs di=os *)axilleu/s:
+
+45. Line : Achilles
+   Surprisal: 3.88 bits
+   Probability: 6.80%
+   Formula used: poda/rkhs di=os
+   Formula type: epithet
+   Semantic: character epithet
+   Line: to\n d' e)pei\ e)cena/rice poda/rkhs di=os *)axilleu/s,
+   Context: d' e)pei\ e)cena/rice poda/rkhs di=os *)axilleu/s,
+
+46. Line 140: Achilles
+   Surprisal: 3.88 bits
+   Probability: 6.80%
+   Formula used: poda/rkhs di=os
+   Formula type: epithet
+   Semantic: character epithet
+   Line: e)/nq' au)=t' a)/ll' e)no/hse poda/rkhs di=os *)axilleu/s:
+   Context: au)=t' a)/ll' e)no/hse poda/rkhs di=os *)axilleu/s:
+
+47. Line : Achilles
+   Surprisal: 3.88 bits
+   Probability: 6.80%
+   Formula used: poda/rkhs di=os
+   Formula type: epithet
+   Semantic: character epithet
+   Line: e)/nq' au)=t' a)ll' e)no/hse poda/rkhs di=os *)axilleu/s:
+   Context: au)=t' a)ll' e)no/hse poda/rkhs di=os *)axilleu/s:
+
+48. Line : Achilles
+   Surprisal: 3.88 bits
+   Probability: 6.80%
+   Formula used: poda/rkhs di=os
+   Formula type: epithet
+   Semantic: character epithet
+   Line: kai\ nu=n te/rmat' e)/qhke poda/rkhs di=os *)axilleu/s.
+   Context: nu=n te/rmat' e)/qhke poda/rkhs di=os *)axilleu/s.
+
+49. Line : Achilles
+   Surprisal: 3.88 bits
+   Probability: 6.80%
+   Formula used: poda/rkhs di=os
+   Formula type: epithet
+   Semantic: character epithet
+   Line: to\n de\ i)dw\n w)/|kteire poda/rkhs di=os *)axilleu/s,
+   Context: de\ i)dw\n w)/|kteire poda/rkhs di=os *)axilleu/s,
+
+50. Line : Achilles
+   Surprisal: 3.88 bits
+   Probability: 6.80%
+   Formula used: poda/rkhs di=os
+   Formula type: epithet
+   Semantic: character epithet
+   Line: a)ll' h)/toi to\n e)/pefne poda/rkhs di=os *)axilleu/s,
+   Context: h)/toi to\n e)/pefne poda/rkhs di=os *)axilleu/s,
+
+================================================================================
+DEVIATIONS BY CHARACTER
+================================================================================
+
+
+Achilles:
+  Total mentions: 206
+  Deviations: 14 (6.8%)
+  Most surprising moments:
+    Line : surprisal 3.88
+    Line : surprisal 3.88
+    Line 5: surprisal 3.88
+
+Hector:
+  Total mentions: 202
+  Deviations: 38 (18.8%)
+  Most surprising moments:
+    Line : surprisal 6.07
+    Line : surprisal 6.07
+    Line : surprisal 6.07
+
+Zeus:
+  Total mentions: 76
+  Deviations: 60 (78.9%)
+  Most surprising moments:
+    Line : surprisal 2.79
+    Line 175: surprisal 2.79
+    Line : surprisal 2.79

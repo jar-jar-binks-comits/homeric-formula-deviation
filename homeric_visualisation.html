@@ -1,0 +1,541 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Homeric Formula Deviation Analysis</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+            background: #0a0e27;
+            color: #e4e4e7;
+            padding: 20px;
+            line-height: 1.6;
+        }
+        
+        .container {
+            max-width: 1400px;
+            margin: 0 auto;
+        }
+        
+        header {
+            margin-bottom: 40px;
+            padding-bottom: 20px;
+            border-bottom: 2px solid #27272a;
+        }
+        
+        h1 {
+            font-size: 2em;
+            font-weight: 600;
+            margin-bottom: 10px;
+            color: #fafafa;
+        }
+        
+        .subtitle {
+            color: #a1a1aa;
+            font-size: 1.05em;
+        }
+        
+        .hypothesis {
+            background: #18181b;
+            border-left: 3px solid #3b82f6;
+            padding: 20px;
+            margin: 20px 0;
+            border-radius: 4px;
+        }
+        
+        .upload-section {
+            background: #18181b;
+            padding: 25px;
+            border-radius: 8px;
+            margin: 30px 0;
+            text-align: center;
+        }
+        
+        input[type="file"] {
+            padding: 10px;
+            background: #27272a;
+            border: 1px solid #3f3f46;
+            border-radius: 4px;
+            color: #e4e4e7;
+        }
+        
+        button {
+            padding: 10px 20px;
+            background: #3b82f6;
+            color: white;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+            font-weight: 500;
+            margin-left: 10px;
+        }
+        
+        button:hover {
+            background: #2563eb;
+        }
+        
+        .controls {
+            background: #18181b;
+            padding: 20px;
+            border-radius: 8px;
+            margin: 20px 0;
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 15px;
+        }
+        
+        .control-group label {
+            display: block;
+            font-size: 0.9em;
+            color: #a1a1aa;
+            margin-bottom: 5px;
+        }
+        
+        select {
+            width: 100%;
+            padding: 8px;
+            background: #27272a;
+            border: 1px solid #3f3f46;
+            border-radius: 4px;
+            color: #e4e4e7;
+        }
+        
+        .stats-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 15px;
+            margin: 20px 0;
+        }
+        
+        .stat-card {
+            background: #18181b;
+            padding: 20px;
+            border-radius: 8px;
+            border-left: 3px solid #3b82f6;
+        }
+        
+        .stat-label {
+            font-size: 0.85em;
+            color: #a1a1aa;
+            margin-bottom: 8px;
+        }
+        
+        .stat-value {
+            font-size: 1.8em;
+            font-weight: 600;
+            color: #fafafa;
+        }
+        
+        .chart-container {
+            background: #18181b;
+            padding: 30px;
+            border-radius: 8px;
+            margin: 20px 0;
+        }
+        
+        canvas {
+            max-height: 500px;
+        }
+        
+        .detail-panel {
+            background: #18181b;
+            padding: 25px;
+            border-radius: 8px;
+            border-left: 3px solid #ef4444;
+            margin-top: 20px;
+        }
+        
+        .greek-text {
+            font-family: 'Times New Roman', serif;
+            font-size: 1.3em;
+            color: #60a5fa;
+            padding: 15px;
+            background: #0f172a;
+            border-radius: 4px;
+            margin: 15px 0;
+        }
+        
+        .detail-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+            gap: 15px;
+            margin: 20px 0;
+        }
+        
+        .detail-item {
+            background: #0f172a;
+            padding: 12px;
+            border-radius: 4px;
+        }
+        
+        .detail-label {
+            font-size: 0.8em;
+            color: #a1a1aa;
+            margin-bottom: 5px;
+            text-transform: uppercase;
+        }
+        
+        .detail-value {
+            color: #fafafa;
+            font-weight: 500;
+        }
+        
+        .legend {
+            display: flex;
+            gap: 20px;
+            margin-top: 20px;
+            flex-wrap: wrap;
+        }
+        
+        .legend-item {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+        
+        .legend-color {
+            width: 16px;
+            height: 16px;
+            border-radius: 2px;
+        }
+        
+        .hidden {
+            display: none;
+        }
+        
+        .narrative-note {
+            background: #7f1d1d;
+            padding: 15px;
+            border-radius: 4px;
+            margin: 15px 0;
+            border-left: 4px solid #ef4444;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Homeric Formula Deviation Analysis</h1>
+            <p class="subtitle">Computational Detection of Pattern-Breaking at Narrative Climaxes</p>
+        </header>
+        
+        <div class="hypothesis">
+            <p><strong>Hypothesis:</strong> Homer exploits predictive processing by breaking formulaic patterns at emotionally significant moments. When expected formula X doesn't appear, the prediction error marks narrative importance—analogous to Dante's deployment of Beatrice's rhyme in Inferno V.</p>
+            <p style="margin-top: 10px;"><strong>Method:</strong> Information-theoretic analysis. Surprisal = -log₂(P(formula|context)). High surprisal = deviation from expected patterns.</p>
+        </div>
+        
+        <div class="upload-section">
+            <h3 style="margin-bottom: 15px;">Load Analysis Data</h3>
+            <input type="file" id="fileInput" accept=".json">
+        </div>
+        
+        <div id="mainContent" class="hidden">
+            <div class="controls">
+                <div class="control-group">
+                    <label>Character Filter</label>
+                    <select id="characterFilter">
+                        <option value="all">All Characters</option>
+                    </select>
+                </div>
+                
+                <div class="control-group">
+                    <label>Surprisal Threshold</label>
+                    <select id="surprisalFilter">
+                        <option value="0">All (≥0 bits)</option>
+                        <option value="2">Medium (≥2 bits)</option>
+                        <option value="3" selected>High (≥3 bits)</option>
+                        <option value="4">Very High (≥4 bits)</option>
+                        <option value="5">Extreme (≥5 bits)</option>
+                    </select>
+                </div>
+                
+                <div class="control-group">
+                    <label>Display Mode</label>
+                    <select id="displayMode">
+                        <option value="deviations">Deviations Only</option>
+                        <option value="all">All Mentions</option>
+                    </select>
+                </div>
+                
+                <div class="control-group" style="display: flex; align-items: flex-end;">
+                    <button onclick="updateVisualization()">Update</button>
+                </div>
+            </div>
+            
+            <div class="stats-grid">
+                <div class="stat-card">
+                    <div class="stat-label">Total Points</div>
+                    <div class="stat-value" id="statTotal">0</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-label">Deviations</div>
+                    <div class="stat-value" id="statDeviations">0</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-label">Mean Surprisal</div>
+                    <div class="stat-value" id="statAvg">0</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-label">Max Surprisal</div>
+                    <div class="stat-value" id="statMax">0</div>
+                </div>
+            </div>
+            
+            <div class="chart-container">
+                <canvas id="mainChart"></canvas>
+                <div class="legend" id="legend"></div>
+            </div>
+            
+            <div id="detailPanel" class="detail-panel hidden"></div>
+        </div>
+    </div>
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/3.9.1/chart.min.js"></script>
+    <script>
+        let analysisData = null;
+        let currentChart = null;
+        let filteredData = [];
+        
+        const characterColors = {
+            'Achilles': '#ef4444',
+            'Hector': '#3b82f6',
+            'Zeus': '#f59e0b',
+            'Patroclus': '#8b5cf6'
+        };
+        
+        // Known narrative events
+        const narrativeEvents = {
+            '355': 'Hector\'s death scene',
+            '17': 'Hector wears Achilles\'s armor'
+        };
+        
+        document.getElementById('fileInput').addEventListener('change', function(e) {
+            const file = e.target.files[0];
+            if (file) {
+                const reader = new FileReader();
+                reader.onload = function(event) {
+                    try {
+                        analysisData = JSON.parse(event.target.result);
+                        initializeVisualization();
+                    } catch (error) {
+                        alert('Error: ' + error.message);
+                    }
+                };
+                reader.readAsText(file);
+            }
+        });
+        
+        function initializeVisualization() {
+            document.getElementById('mainContent').classList.remove('hidden');
+            
+            const characters = [...new Set(analysisData.all_analyses.map(a => a.character))];
+            const select = document.getElementById('characterFilter');
+            characters.forEach(char => {
+                const option = document.createElement('option');
+                option.value = char;
+                option.textContent = char;
+                select.appendChild(option);
+            });
+            
+            updateVisualization();
+        }
+        
+        function updateVisualization() {
+            const charFilter = document.getElementById('characterFilter').value;
+            const surprisalMin = parseFloat(document.getElementById('surprisalFilter').value);
+            const displayMode = document.getElementById('displayMode').value;
+            
+            filteredData = analysisData.all_analyses.filter(a => {
+                if (charFilter !== 'all' && a.character !== charFilter) return false;
+                if (displayMode === 'deviations' && !a.is_deviation) return false;
+                if (a.surprisal < surprisalMin) return false;
+                return true;
+            });
+            
+            updateStats();
+            updateChart();
+        }
+        
+        function updateStats() {
+            const deviations = filteredData.filter(d => d.is_deviation).length;
+            const avgSurprisal = filteredData.reduce((s, d) => s + d.surprisal, 0) / filteredData.length || 0;
+            const maxSurprisal = Math.max(...filteredData.map(d => d.surprisal), 0);
+            
+            document.getElementById('statTotal').textContent = filteredData.length;
+            document.getElementById('statDeviations').textContent = deviations;
+            document.getElementById('statAvg').textContent = avgSurprisal.toFixed(2) + ' bits';
+            document.getElementById('statMax').textContent = maxSurprisal.toFixed(2) + ' bits';
+        }
+        
+        function updateChart() {
+            const ctx = document.getElementById('mainChart').getContext('2d');
+            
+            const characters = [...new Set(filteredData.map(d => d.character))];
+            const datasets = characters.map(char => {
+                const charData = filteredData.filter(d => d.character === char);
+                return {
+                    label: char,
+                    data: charData.map(d => ({
+                        x: parseInt(d.line_num) || 0,
+                        y: d.surprisal,
+                        raw: d
+                    })),
+                    backgroundColor: characterColors[char] || '#71717a',
+                    pointRadius: (context) => {
+                        const lineNum = context.raw?.raw?.line_num;
+                        return narrativeEvents[lineNum] ? 10 : 5;
+                    },
+                    pointStyle: (context) => {
+                        const lineNum = context.raw?.raw?.line_num;
+                        return narrativeEvents[lineNum] ? 'star' : 'circle';
+                    }
+                };
+            });
+            
+            if (currentChart) currentChart.destroy();
+            
+            currentChart = new Chart(ctx, {
+                type: 'scatter',
+                data: { datasets },
+                options: {
+                    responsive: true,
+                    maintainAspectRatio: true,
+                    aspectRatio: 2.5,
+                    plugins: {
+                        legend: {
+                            labels: { color: '#e4e4e7' }
+                        },
+                        tooltip: {
+                            backgroundColor: '#18181b',
+                            titleColor: '#fafafa',
+                            bodyColor: '#e4e4e7',
+                            borderColor: '#3f3f46',
+                            borderWidth: 1,
+                            callbacks: {
+                                title: function(context) {
+                                    const d = context[0].raw.raw;
+                                    return `${d.character} - Line ${d.line_num}`;
+                                },
+                                label: function(context) {
+                                    const d = context.raw.raw;
+                                    const labels = [
+                                        `Surprisal: ${d.surprisal.toFixed(2)} bits`,
+                                        `Probability: ${(d.probability * 100).toFixed(1)}%`
+                                    ];
+                                    if (narrativeEvents[d.line_num]) {
+                                        labels.push(`★ ${narrativeEvents[d.line_num]}`);
+                                    }
+                                    return labels;
+                                }
+                            }
+                        }
+                    },
+                    scales: {
+                        x: {
+                            title: { display: true, text: 'Line Number', color: '#a1a1aa' },
+                            ticks: { color: '#71717a' },
+                            grid: { color: '#27272a' }
+                        },
+                        y: {
+                            title: { display: true, text: 'Surprisal (bits)', color: '#a1a1aa' },
+                            ticks: { color: '#71717a' },
+                            grid: { color: '#27272a' }
+                        }
+                    },
+                    onClick: (event, elements) => {
+                        if (elements.length > 0) {
+                            const el = elements[0];
+                            const data = currentChart.data.datasets[el.datasetIndex].data[el.index].raw;
+                            showDetail(data);
+                        }
+                    }
+                }
+            });
+            
+            // Legend
+            const legend = document.getElementById('legend');
+            legend.innerHTML = characters.map(char => `
+                <div class="legend-item">
+                    <div class="legend-color" style="background: ${characterColors[char]}"></div>
+                    <span>${char}</span>
+                </div>
+            `).join('') + '<div class="legend-item"><span>★ Narrative Event</span></div>';
+        }
+        
+        function showDetail(data) {
+            const panel = document.getElementById('detailPanel');
+            
+            let narrativeHTML = '';
+            if (narrativeEvents[data.line_num]) {
+                narrativeHTML = `<div class="narrative-note"><strong>★ ${narrativeEvents[data.line_num]}</strong></div>`;
+            }
+            
+            let formulaHTML = '';
+            if (data.type === 'formulaic' && data.primary_formula) {
+                formulaHTML = `
+                    <div class="detail-item">
+                        <div class="detail-label">Formula</div>
+                        <div class="detail-value" style="font-family: 'Times New Roman'; color: #60a5fa;">
+                            ${data.primary_formula}
+                        </div>
+                    </div>
+                `;
+            } else {
+                narrativeHTML += `<div class="narrative-note" style="background: #7f1d1d;"><strong>BARE MENTION</strong> — No formula. This absence may be significant.</div>`;
+            }
+            
+            panel.innerHTML = `
+                <h3>Selected Moment</h3>
+                ${narrativeHTML}
+                <div class="greek-text">${data.line}</div>
+                <div class="detail-grid">
+                    <div class="detail-item">
+                        <div class="detail-label">Character</div>
+                        <div class="detail-value" style="color: ${characterColors[data.character]}">${data.character}</div>
+                    </div>
+                    <div class="detail-item">
+                        <div class="detail-label">Line</div>
+                        <div class="detail-value">${data.line_num}</div>
+                    </div>
+                    <div class="detail-item">
+                        <div class="detail-label">Surprisal</div>
+                        <div class="detail-value">${data.surprisal.toFixed(2)} bits</div>
+                    </div>
+                    <div class="detail-item">
+                        <div class="detail-label">Probability</div>
+                        <div class="detail-value">${(data.probability * 100).toFixed(1)}%</div>
+                    </div>
+                    <div class="detail-item">
+                        <div class="detail-label">Deviation?</div>
+                        <div class="detail-value" style="color: ${data.is_deviation ? '#ef4444' : '#10b981'}">
+                            ${data.is_deviation ? 'YES' : 'No'}
+                        </div>
+                    </div>
+                    ${formulaHTML}
+                </div>
+                <div style="margin-top: 20px; padding: 15px; background: #0f172a; border-radius: 4px;">
+                    <strong>Interpretation:</strong> ${interpretSurprisal(data.surprisal)}
+                </div>
+            `;
+            
+            panel.classList.remove('hidden');
+            panel.scrollIntoView({ behavior: 'smooth' });
+        }
+        
+        function interpretSurprisal(s) {
+            if (s >= 5) return 'Extremely rare (<3% probability). Likely marks critical narrative moment.';
+            if (s >= 4) return 'Very rare (3-6% probability). Significant pattern break.';
+            if (s >= 3) return 'Uncommon (6-12% probability). Notable deviation worth examining.';
+            if (s >= 2) return 'Moderate (12-25% probability). Somewhat unexpected.';
+            return 'Common (>25% probability). Expected pattern.';
+        }
+    </script>
+</body>
+</html>

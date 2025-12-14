@@ -1,0 +1,165 @@
+================================================================================
+HOMERIC FORMULAIC PATTERNS - AUTOMATIC EXTRACTION REPORT
+================================================================================
+
+
+================================================================================
+ACHILLES - 206 total mentions
+================================================================================
+
+--- PATTERNS BEFORE NAME ---
+
+4-word phrases (most formulaic):
+   12x  a)pameibo/menos prose/fh po/das w)ku\s
+    4x  o)xqh/sas prose/fh po/das w)ku\s
+    3x  i)dw\n prose/fh po/das w)ku\s
+
+3-word phrases:
+   23x  prose/fh po/das w)ku\s
+   12x  a)pameibo/menos prose/fh po/das
+    4x  o)xqh/sas prose/fh po/das
+    3x  i)dw\n prose/fh po/das
+    3x  e)no/hse poda/rkhs di=os
+    3x  prose/eipe poda/rkhs di=os
+
+2-word phrases:
+   28x  po/das w)ku\s
+   23x  prose/fh po/das
+   14x  poda/rkhs di=os
+   12x  a)pameibo/menos prose/fh
+    5x  qeoi=s e)piei/kel'
+    4x  o)xqh/sas prose/fh
+    3x  i)dw\n prose/fh
+    3x  e)no/hse poda/rkhs
+    3x  prose/eipe poda/rkhs
+    3x  o(\ d'
+
+--- PATTERNS AFTER NAME ---
+
+
+2-word phrases:
+    3x  po/das taxu/n:
+
+
+================================================================================
+HECTOR - 202 total mentions
+================================================================================
+
+--- PATTERNS BEFORE NAME ---
+
+4-word phrases (most formulaic):
+    4x  au)=te prose/eipe me/gas koruqai/olos
+    3x  te pro/maxoi kai\ fai/dimos
+    3x  a)/ra fwnh/sas a)pe/bh koruqai/olos
+    3x  u(po/dra i)dw\n prose/fh koruqai/olos
+    3x  ge teu/xe' e)/xei koruqai/olos
+
+3-word phrases:
+    5x  prose/eipe me/gas koruqai/olos
+    4x  au)=te prose/eipe me/gas
+    4x  h)=rxe d' a)/r'
+    3x  te pro/maxoi kai\
+    3x  pro/maxoi kai\ fai/dimos
+    3x  a)/ra fwnh/sas a)pe/bh
+    3x  fwnh/sas a)pe/bh koruqai/olos
+    3x  u(po/dra i)dw\n prose/fh
+    3x  i)dw\n prose/fh koruqai/olos
+    3x  ge teu/xe' e)/xei
+    3x  teu/xe' e)/xei koruqai/olos
+
+2-word phrases:
+   12x  me/gas koruqai/olos
+   10x  prose/fh koruqai/olos
+    7x  kai\ fai/dimos
+    5x  w(\s e)/faq',
+    5x  prose/eipe me/gas
+    5x  d' a)/r'
+    4x  to\n d'
+    4x  au)=te prose/eipe
+    4x  h)=rxe d'
+    3x  te pro/maxoi
+    3x  pro/maxoi kai\
+    3x  a)/ra fwnh/sas
+    3x  fwnh/sas a)pe/bh
+    3x  a)pe/bh koruqai/olos
+    3x  to/n r('
+
+--- PATTERNS AFTER NAME ---
+
+4-word phrases (most formulaic):
+    3x  de\ *trw/essin e)ke/kleto makro\n
+    3x  *priami/dhs, o(/te oi( *zeu\s
+
+3-word phrases:
+    3x  de\ *trw/essin e)ke/kleto
+    3x  *trw/essin e)ke/kleto makro\n
+    3x  *priami/dhs, o(/te oi(
+    3x  o(/te oi( *zeu\s
+
+2-word phrases:
+    7x  d' w(s
+    3x  d' au)=t'
+    3x  *pria/moio pa/i+s
+    3x  de\ *trw/essin
+    3x  *trw/essin e)ke/kleto
+    3x  e)ke/kleto makro\n
+    3x  *priami/dhs, o(/te
+    3x  o(/te oi(
+    3x  oi( *zeu\s
+    3x  d' e)n
+
+
+================================================================================
+PATROCLUS - 97 total mentions
+================================================================================
+
+--- PATTERNS BEFORE NAME ---
+
+
+2-word phrases:
+    5x  w(\s fa/to,
+
+--- PATTERNS AFTER NAME ---
+
+
+3-word phrases:
+    3x  de\ fi/lw| e)pepei/qeq'
+
+2-word phrases:
+    5x  d' e(te/rwqen
+    3x  de\ fi/lw|
+    3x  fi/lw| e)pepei/qeq'
+
+
+================================================================================
+ZEUS - 76 total mentions
+================================================================================
+
+--- PATTERNS BEFORE NAME ---
+
+4-word phrases (most formulaic):
+    8x  d' a)pameibo/menos prose/fh nefelhgere/ta
+    3x  me/g' o)xqh/sas prose/fh nefelhgere/ta
+    3x  dinh/entos, o(\n a)qa/natos te/keto
+
+3-word phrases:
+    8x  d' a)pameibo/menos prose/fh
+    8x  a)pameibo/menos prose/fh nefelhgere/ta
+    3x  me/g' o)xqh/sas prose/fh
+    3x  o)xqh/sas prose/fh nefelhgere/ta
+    3x  dinh/entos, o(\n a)qa/natos
+    3x  o(\n a)qa/natos te/keto
+
+2-word phrases:
+   16x  prose/fh nefelhgere/ta
+    8x  d' a)pameibo/menos
+    8x  a)pameibo/menos prose/fh
+    4x  a)qa/natos te/keto
+    3x  me/g' o)xqh/sas
+    3x  o)xqh/sas prose/fh
+    3x  dinh/entos, o(\n
+    3x  o(\n a)qa/natos
+
+--- PATTERNS AFTER NAME ---
+
+

@@ -1,0 +1,4899 @@
+{
+  "all_analyses": [
+    {
+      "line_num": "",
+      "character": "Achilles",
+      "line": "mh=nin a)/eide qea\\ *phlhi+a/dew *)axilh=os",
+      "type": "bare_mention",
+      "probability": 0.4368932038834951,
+      "surprisal": 1.1946474308535437,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Achilles",
+      "line": "*)atrei/+dhs te a)/nac a)ndrw=n kai\\ di=os *)axilleu/s.",
+      "type": "bare_mention",
+      "probability": 0.4368932038834951,
+      "surprisal": 1.1946474308535437,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Achilles",
+      "line": "th=| deka/th| d' a)gorh\\n de\\ kale/ssato lao\\n *)axilleu/s:",
+      "type": "bare_mention",
+      "probability": 0.4368932038834951,
+      "surprisal": 1.1946474308535437,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Achilles",
+      "line": "toi=si d' a)nista/menos mete/fh po/das w)ku\\s *)axilleu/s:",
+      "type": "bare_mention",
+      "probability": 0.4368932038834951,
+      "surprisal": 1.1946474308535437,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Zeus",
+      "line": "h)\\ kai\\ o)neiropo/lon, kai\\ ga/r t' o)/nar e)k *dio/s e)stin,",
+      "type": "bare_mention",
+      "probability": 0.14473684210526316,
+      "surprisal": 2.7884958948062883,
+      "is_deviation": true
+    },
+    {
+      "line_num": "",
+      "character": "Achilles",
+      "line": "w)= *)axileu= ke/leai/ me *dii\\+ fi/le muqh/sasqai",
+      "type": "bare_mention",
+      "probability": 0.4368932038834951,
+      "surprisal": 1.1946474308535437,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Achilles",
+      "line": "to\\n d' a)pameibo/menos prose/fh po/das w)ku\\s *)axilleu/s:",
+      "type": "formulaic",
+      "probability": 0.11165048543689321,
+      "surprisal": 3.1629385711262055,
+      "is_deviation": false,
+      "detected_formulae": [
+        "prose/fh po/das w)ku\\s",
+        "prose/fh po/das",
+        "a)pameibo/menos prose/fh po/das w)ku\\s",
+        "a)pameibo/menos prose/fh po/das",
+        "a)pameibo/menos prose/fh"
+      ],
+      "primary_formula": "prose/fh po/das w)ku\\s"
+    },
+    {
+      "line_num": "",
+      "character": "Achilles",
+      "line": "to\\n d' h)mei/bet' e)/peita poda/rkhs di=os *)axilleu/s:",
+      "type": "formulaic",
+      "probability": 0.06796116504854369,
+      "surprisal": 3.8791456051256143,
+      "is_deviation": true,
+      "detected_formulae": [
+        "poda/rkhs di=os"
+      ],
+      "primary_formula": "poda/rkhs di=os"
+    },
+    {
+      "line_num": "",
+      "character": "Achilles",
+      "line": "mh\\ d' ou(/tws a)gaqo/s per e)w\\n qeoei/kel' *)axilleu=",
+      "type": "bare_mention",
+      "probability": 0.4368932038834951,
+      "surprisal": 1.1946474308535437,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Achilles",
+      "line": "to\\n d' a)/r' u(po/dra i)dw\\n prose/fh po/das w)ku\\s *)axilleu/s:",
+      "type": "formulaic",
+      "probability": 0.11165048543689321,
+      "surprisal": 3.1629385711262055,
+      "is_deviation": false,
+      "detected_formulae": [
+        "prose/fh po/das w)ku\\s",
+        "prose/fh po/das",
+        "i)dw\\n prose/fh po/das w)ku\\s",
+        "i)dw\\n prose/fh po/das"
+      ],
+      "primary_formula": "prose/fh po/das w)ku\\s"
+    },
+    {
+      "line_num": "175",
+      "character": "Zeus",
+      "line": "oi(/ ke/ me timh/sousi, ma/lista de\\ mhti/eta *zeu/s.",
+      "type": "bare_mention",
+      "probability": 0.14473684210526316,
+      "surprisal": 2.7884958948062883,
+      "is_deviation": true
+    },
+    {
+      "line_num": "215",
+      "character": "Achilles",
+      "line": "th\\n d' a)pameibo/menos prose/fh po/das w)ku\\s *)axilleu/s:",
+      "type": "formulaic",
+      "probability": 0.11165048543689321,
+      "surprisal": 3.1629385711262055,
+      "is_deviation": false,
+      "detected_formulae": [
+        "prose/fh po/das w)ku\\s",
+        "prose/fh po/das",
+        "a)pameibo/menos prose/fh po/das w)ku\\s",
+        "a)pameibo/menos prose/fh po/das",
+        "a)pameibo/menos prose/fh"
+      ],
+      "primary_formula": "prose/fh po/das w)ku\\s"
+    },
+    {
+      "line_num": "",
+      "character": "Achilles",
+      "line": "to\\n d' a)/r' u(poblh/dhn h)mei/beto di=os *)axilleu/s:",
+      "type": "bare_mention",
+      "probability": 0.4368932038834951,
+      "surprisal": 1.1946474308535437,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Achilles",
+      "line": "lh=g' e)/ridos th\\n prw=ton e)phpei/lhs' *)axilh=i+,",
+      "type": "bare_mention",
+      "probability": 0.4368932038834951,
+      "surprisal": 1.1946474308535437,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Achilles",
+      "line": "e)/rxesqon klisi/hn *phlhi+a/dew *)axilh=os:",
+      "type": "bare_mention",
+      "probability": 0.4368932038834951,
+      "surprisal": 1.1946474308535437,
+      "is_deviation": false
+    },
+    {
+      "line_num": "330",
+      "character": "Achilles",
+      "line": "h(/menon: ou)d' a)/ra tw/ ge i)dw\\n gh/qhsen *)axilleu/s.",
+      "type": "bare_mention",
+      "probability": 0.4368932038834951,
+      "surprisal": 1.1946474308535437,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Achilles",
+      "line": "th\\n de\\ baru\\ stena/xwn prose/fh po/das w)ku\\s *)axilleu/s:",
+      "type": "formulaic",
+      "probability": 0.11165048543689321,
+      "surprisal": 3.1629385711262055,
+      "is_deviation": false,
+      "detected_formulae": [
+        "prose/fh po/das w)ku\\s",
+        "prose/fh po/das"
+      ],
+      "primary_formula": "prose/fh po/das w)ku\\s"
+    },
+    {
+      "line_num": "",
+      "character": "Zeus",
+      "line": "e)lqou=s' *ou)/lumpon de\\ *di/a li/sai, ei)/ pote dh/ ti",
+      "type": "bare_mention",
+      "probability": 0.14473684210526316,
+      "surprisal": 2.7884958948062883,
+      "is_deviation": true
+    },
+    {
+      "line_num": "",
+      "character": "Achilles",
+      "line": "diogenh\\s *phlh=os ui(o\\s po/das w)ku\\s *)axilleu/s:",
+      "type": "bare_mention",
+      "probability": 0.4368932038834951,
+      "surprisal": 1.1946474308535437,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Zeus",
+      "line": "lissome/nh prose/eipe *di/a *kroni/wna a)/nakta:",
+      "type": "bare_mention",
+      "probability": 0.14473684210526316,
+      "surprisal": 2.7884958948062883,
+      "is_deviation": true
+    },
+    {
+      "line_num": "",
+      "character": "Zeus",
+      "line": "w(\\s fa/to: th\\n d' ou)/ ti prose/fh nefelhgere/ta *zeu/s,",
+      "type": "formulaic",
+      "probability": 0.21052631578947367,
+      "surprisal": 2.2479275134435857,
+      "is_deviation": false,
+      "detected_formulae": [
+        "prose/fh nefelhgere/ta"
+      ],
+      "primary_formula": "prose/fh nefelhgere/ta"
+    },
+    {
+      "line_num": "",
+      "character": "Zeus",
+      "line": "th\\n de\\ me/g' o)xqh/sas prose/fh nefelhgere/ta *zeu/s:",
+      "type": "formulaic",
+      "probability": 0.21052631578947367,
+      "surprisal": 2.2479275134435857,
+      "is_deviation": false,
+      "detected_formulae": [
+        "prose/fh nefelhgere/ta",
+        "me/g' o)xqh/sas prose/fh nefelhgere/ta",
+        "me/g' o)xqh/sas prose/fh",
+        "o)xqh/sas prose/fh nefelhgere/ta"
+      ],
+      "primary_formula": "prose/fh nefelhgere/ta"
+    },
+    {
+      "line_num": "",
+      "character": "Zeus",
+      "line": "au)ti/ka kertomi/oisi *di/a *kroni/wna proshu/da:",
+      "type": "bare_mention",
+      "probability": 0.14473684210526316,
+      "surprisal": 2.7884958948062883,
+      "is_deviation": true
+    },
+    {
+      "line_num": "",
+      "character": "Achilles",
+      "line": "th=| s' o)i/+w kataneu=sai e)th/tumon w(s *)axilh=a",
+      "type": "bare_mention",
+      "probability": 0.4368932038834951,
+      "surprisal": 1.1946474308535437,
+      "is_deviation": false
+    },
+    {
+      "line_num": "560",
+      "character": "Zeus",
+      "line": "th\\n d' a)pameibo/menos prose/fh nefelhgere/ta *zeu/s:",
+      "type": "formulaic",
+      "probability": 0.21052631578947367,
+      "surprisal": 2.2479275134435857,
+      "is_deviation": false,
+      "detected_formulae": [
+        "prose/fh nefelhgere/ta",
+        "d' a)pameibo/menos prose/fh nefelhgere/ta",
+        "d' a)pameibo/menos prose/fh",
+        "a)pameibo/menos prose/fh nefelhgere/ta",
+        "d' a)pameibo/menos",
+        "a)pameibo/menos prose/fh"
+      ],
+      "primary_formula": "prose/fh nefelhgere/ta"
+    },
+    {
+      "line_num": "",
+      "character": "Zeus",
+      "line": "patri\\ fi/lw| e)pi/hra fe/rein *dii/, o)/fra mh\\ au)=te",
+      "type": "bare_mention",
+      "probability": 0.14473684210526316,
+      "surprisal": 2.7884958948062883,
+      "is_deviation": true
+    },
+    {
+      "line_num": "",
+      "character": "Zeus",
+      "line": "eu(=don pannu/xioi, *di/a d' ou)k e)/xe nh/dumos u(/pnos,",
+      "type": "bare_mention",
+      "probability": 0.14473684210526316,
+      "surprisal": 2.7884958948062883,
+      "is_deviation": true
+    },
+    {
+      "line_num": "",
+      "character": "Achilles",
+      "line": "a)ll' o(/ ge mermh/rize kata\\ fre/na w(s *)axilh=a",
+      "type": "bare_mention",
+      "probability": 0.4368932038834951,
+      "surprisal": 1.1946474308535437,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Zeus",
+      "line": "e)k *dio/s: a)lla\\ su\\ sh=|sin e)/xe fresi/, mhde/ se lh/qh",
+      "type": "bare_mention",
+      "probability": 0.14473684210526316,
+      "surprisal": 2.7884958948062883,
+      "is_deviation": true
+    },
+    {
+      "line_num": "70",
+      "character": "Zeus",
+      "line": "e)k *dio/s: a)lla\\ su\\ sh=|sin e)/xe fresi/n: w(\\s o(\\ me\\n ei)pw\\n",
+      "type": "bare_mention",
+      "probability": 0.14473684210526316,
+      "surprisal": 2.7884958948062883,
+      "is_deviation": true
+    },
+    {
+      "line_num": "",
+      "character": "Zeus",
+      "line": "*zeu/s me me/ga *kroni/dhs a)/th| e)ne/dhse barei/h|,",
+      "type": "bare_mention",
+      "probability": 0.14473684210526316,
+      "surprisal": 2.7884958948062883,
+      "is_deviation": true
+    },
+    {
+      "line_num": "",
+      "character": "Zeus",
+      "line": "timh\\ d' e)k *dio/s e)sti, filei= de/ e( mhti/eta *zeu/s.",
+      "type": "bare_mention",
+      "probability": 0.14473684210526316,
+      "surprisal": 2.7884958948062883,
+      "is_deviation": true
+    },
+    {
+      "line_num": "220",
+      "character": "Achilles",
+      "line": "e)/xqistos d' *)axilh=i+ ma/list' h)=n h)d' *)odush=i+:",
+      "type": "bare_mention",
+      "probability": 0.4368932038834951,
+      "surprisal": 1.1946474308535437,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Achilles",
+      "line": "o(\\s kai\\ nu=n *)axilh=a e(/o me/g' a)mei/nona fw=ta",
+      "type": "bare_mention",
+      "probability": 0.4368932038834951,
+      "surprisal": 1.1946474308535437,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Achilles",
+      "line": "a)lla\\ ma/l' ou)k *)axilh=i+ xo/los fresi/n, a)lla\\ meqh/mwn:",
+      "type": "bare_mention",
+      "probability": 0.4368932038834951,
+      "surprisal": 1.1946474308535437,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Zeus",
+      "line": "e)k *dio/s, o(/s te qeoi=si kai\\ a)nqrw/poisin a)na/ssei,",
+      "type": "bare_mention",
+      "probability": 0.14473684210526316,
+      "surprisal": 2.7884958948062883,
+      "is_deviation": true
+    },
+    {
+      "line_num": "685",
+      "character": "Achilles",
+      "line": "tw=n au)= penth/konta new=n h)=n a)rxo\\s *)axilleu/s.",
+      "type": "bare_mention",
+      "probability": 0.4368932038834951,
+      "surprisal": 1.1946474308535437,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Zeus",
+      "line": "ui(o\\s *peiriqo/oio to\\n a)qa/natos te/keto *zeu/s:",
+      "type": "bare_mention",
+      "probability": 0.14473684210526316,
+      "surprisal": 2.7884958948062883,
+      "is_deviation": true
+    },
+    {
+      "line_num": "",
+      "character": "Hector",
+      "line": "w(\\s e)/faq', *(/ektwr d' ou)/ ti qea=s e)/pos h)gnoi/hsen,",
+      "type": "bare_mention",
+      "probability": 0.5891089108910891,
+      "surprisal": 0.7633937194438513,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Hector",
+      "line": "*trwsi\\ me\\n h(gemo/neue me/gas koruqai/olos *(/ektwr",
+      "type": "formulaic",
+      "probability": 0.0594059405940594,
+      "surprisal": 4.073248982030639,
+      "is_deviation": true,
+      "detected_formulae": [
+        "me/gas koruqai/olos"
+      ],
+      "primary_formula": "me/gas koruqai/olos"
+    },
+    {
+      "line_num": "",
+      "character": "Hector",
+      "line": "to\\n d' *(/ektwr nei/kessen i)dw\\n ai)sxroi=s e)pe/essin:",
+      "type": "bare_mention",
+      "probability": 0.5891089108910891,
+      "surprisal": 0.7633937194438513,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Hector",
+      "line": "w(\\s e)/faq', *(/ektwr d' au)=t' e)xa/rh me/ga mu=qon a)kou/sas,",
+      "type": "bare_mention",
+      "probability": 0.5891089108910891,
+      "surprisal": 0.7633937194438513,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Hector",
+      "line": "steu=tai ga/r ti e)/pos e)re/ein koruqai/olos *(/ektwr.",
+      "type": "bare_mention",
+      "probability": 0.5891089108910891,
+      "surprisal": 0.7633937194438513,
+      "is_deviation": false
+    },
+    {
+      "line_num": "85",
+      "character": "Hector",
+      "line": "e)ssume/nws: *(/ektwr de\\ met' a)mfote/roisin e)/eipe:",
+      "type": "bare_mention",
+      "probability": 0.5891089108910891,
+      "surprisal": 0.7633937194438513,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Hector",
+      "line": "*(/ektwr de\\ proti\\ a)/stu du/w kh/rukas e)/pempe",
+      "type": "bare_mention",
+      "probability": 0.5891089108910891,
+      "surprisal": 0.7633937194438513,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Hector",
+      "line": "*(/ektwr de\\ *pria/moio pa/i+s kai\\ di=os *)odusseu\\s",
+      "type": "bare_mention",
+      "probability": 0.5891089108910891,
+      "surprisal": 0.7633937194438513,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Hector",
+      "line": "w(\\s a)/r' e)/fan, pa/llen de\\ me/gas koruqai/olos *(/ektwr",
+      "type": "formulaic",
+      "probability": 0.0594059405940594,
+      "surprisal": 4.073248982030639,
+      "is_deviation": true,
+      "detected_formulae": [
+        "me/gas koruqai/olos"
+      ],
+      "primary_formula": "me/gas koruqai/olos"
+    },
+    {
+      "line_num": "30",
+      "character": "Zeus",
+      "line": "th\\n de\\ me/g' o)xqh/sas prose/fh nefelhgere/ta *zeu/s:",
+      "type": "formulaic",
+      "probability": 0.21052631578947367,
+      "surprisal": 2.2479275134435857,
+      "is_deviation": false,
+      "detected_formulae": [
+        "prose/fh nefelhgere/ta",
+        "me/g' o)xqh/sas prose/fh nefelhgere/ta",
+        "me/g' o)xqh/sas prose/fh",
+        "o)xqh/sas prose/fh nefelhgere/ta"
+      ],
+      "primary_formula": "prose/fh nefelhgere/ta"
+    },
+    {
+      "line_num": "",
+      "character": "Zeus",
+      "line": "*zeu/s, o(/s t' a)nqrw/pwn tami/hs pole/moio te/tuktai.",
+      "type": "bare_mention",
+      "probability": 0.14473684210526316,
+      "surprisal": 2.7884958948062883,
+      "is_deviation": true
+    },
+    {
+      "line_num": "505",
+      "character": "Hector",
+      "line": "xw/rhsan d' u(po/ te pro/maxoi kai\\ fai/dimos *(/ektwr:",
+      "type": "formulaic",
+      "probability": 0.034653465346534656,
+      "surprisal": 4.850856560694191,
+      "is_deviation": true,
+      "detected_formulae": [
+        "kai\\ fai/dimos",
+        "te pro/maxoi kai\\ fai/dimos",
+        "pro/maxoi kai\\ fai/dimos"
+      ],
+      "primary_formula": "kai\\ fai/dimos"
+    },
+    {
+      "line_num": "",
+      "character": "Zeus",
+      "line": "kertomi/ois e)pe/essi *di/a *kroni/dhn e)re/qizon.",
+      "type": "bare_mention",
+      "probability": 0.14473684210526316,
+      "surprisal": 2.7884958948062883,
+      "is_deviation": true
+    },
+    {
+      "line_num": "590",
+      "character": "Hector",
+      "line": "tou\\s d' *(/ektwr e)no/hse kata\\ sti/xas, w)=rto d' e)p' au)tou\\s",
+      "type": "bare_mention",
+      "probability": 0.5891089108910891,
+      "surprisal": 0.7633937194438513,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Hector",
+      "line": "e)/nq' *(/ektwr du/o fw=te kate/ktanen ei)do/te xa/rmhs",
+      "type": "bare_mention",
+      "probability": 0.5891089108910891,
+      "surprisal": 0.7633937194438513,
+      "is_deviation": false
+    },
+    {
+      "line_num": "680",
+      "character": "Hector",
+      "line": "ei) mh\\ a)/r' o)cu\\ no/hse me/gas koruqai/olos *(/ektwr:",
+      "type": "formulaic",
+      "probability": 0.0594059405940594,
+      "surprisal": 4.073248982030639,
+      "is_deviation": true,
+      "detected_formulae": [
+        "me/gas koruqai/olos"
+      ],
+      "primary_formula": "me/gas koruqai/olos"
+    },
+    {
+      "line_num": "",
+      "character": "Hector",
+      "line": "w(\\s fa/to, to\\n d' ou)/ ti prose/fh koruqai/olos *(/ektwr,",
+      "type": "formulaic",
+      "probability": 0.04950495049504951,
+      "surprisal": 4.336283387864432,
+      "is_deviation": true,
+      "detected_formulae": [
+        "prose/fh koruqai/olos"
+      ],
+      "primary_formula": "prose/fh koruqai/olos"
+    },
+    {
+      "line_num": "",
+      "character": "Hector",
+      "line": "*(/ektwr te *pria/moio pa/i+s kai\\ xa/lkeos *)/arhs;",
+      "type": "bare_mention",
+      "probability": 0.5891089108910891,
+      "surprisal": 0.7633937194438513,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Zeus",
+      "line": "th\\n d' a)pameibo/menos prose/fh nefelhgere/ta *zeu/s:",
+      "type": "formulaic",
+      "probability": 0.21052631578947367,
+      "surprisal": 2.2479275134435857,
+      "is_deviation": false,
+      "detected_formulae": [
+        "prose/fh nefelhgere/ta",
+        "d' a)pameibo/menos prose/fh nefelhgere/ta",
+        "d' a)pameibo/menos prose/fh",
+        "a)pameibo/menos prose/fh nefelhgere/ta",
+        "d' a)pameibo/menos",
+        "a)pameibo/menos prose/fh"
+      ],
+      "primary_formula": "prose/fh nefelhgere/ta"
+    },
+    {
+      "line_num": "",
+      "character": "Achilles",
+      "line": "o)/fra me\\n e)s po/lemon pwle/sketo di=os *)axilleu/s,",
+      "type": "bare_mention",
+      "probability": 0.4368932038834951,
+      "surprisal": 1.1946474308535437,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Zeus",
+      "line": "to\\n d' a)/r' u(po/dra i)dw\\n prose/fh nefelhgere/ta *zeu/s.",
+      "type": "formulaic",
+      "probability": 0.21052631578947367,
+      "surprisal": 2.2479275134435857,
+      "is_deviation": false,
+      "detected_formulae": [
+        "prose/fh nefelhgere/ta"
+      ],
+      "primary_formula": "prose/fh nefelhgere/ta"
+    },
+    {
+      "line_num": "",
+      "character": "Achilles",
+      "line": "ou)d' *)axilh=a/ poq' w(=de/ g' e)dei/dimen o)/rxamon a)ndrw=n,",
+      "type": "bare_mention",
+      "probability": 0.4368932038834951,
+      "surprisal": 1.1946474308535437,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Hector",
+      "line": "w(\\s e)/faq', *(/ektwr d' ou)/ ti kasignh/tw| a)pi/qhsen.",
+      "type": "bare_mention",
+      "probability": 0.5891089108910891,
+      "surprisal": 0.7633937194438513,
+      "is_deviation": false
+    },
+    {
+      "line_num": "110",
+      "character": "Hector",
+      "line": "*(/ektwr de\\ *trw/essin e)ke/kleto makro\\n a)u/+sas:",
+      "type": "bare_mention",
+      "probability": 0.5891089108910891,
+      "surprisal": 0.7633937194438513,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Hector",
+      "line": "w(\\s a)/ra fwnh/sas a)pe/bh koruqai/olos *(/ektwr:",
+      "type": "formulaic",
+      "probability": 0.01485148514851485,
+      "surprisal": 6.073248982030639,
+      "is_deviation": true,
+      "detected_formulae": [
+        "a)/ra fwnh/sas a)pe/bh koruqai/olos",
+        "a)/ra fwnh/sas a)pe/bh",
+        "fwnh/sas a)pe/bh koruqai/olos"
+      ],
+      "primary_formula": "a)/ra fwnh/sas a)pe/bh koruqai/olos"
+    },
+    {
+      "line_num": "",
+      "character": "Zeus",
+      "line": "*laodamei/h| me\\n parele/cato mhti/eta *zeu/s,",
+      "type": "bare_mention",
+      "probability": 0.14473684210526316,
+      "surprisal": 2.7884958948062883,
+      "is_deviation": true
+    },
+    {
+      "line_num": "",
+      "character": "Zeus",
+      "line": "e)/nq' au)=te *glau/kw| *kroni/dhs fre/nas e)ce/leto *zeu/s,",
+      "type": "bare_mention",
+      "probability": 0.14473684210526316,
+      "surprisal": 2.7884958948062883,
+      "is_deviation": true
+    },
+    {
+      "line_num": "",
+      "character": "Hector",
+      "line": "*(/ektwr d' w(s *skaia/s te pu/las kai\\ fhgo\\n i(/kanen,",
+      "type": "bare_mention",
+      "probability": 0.5891089108910891,
+      "surprisal": 0.7633937194438513,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Hector",
+      "line": "th\\n d' h)mei/bet' e)/peita me/gas koruqai/olos *(/ektwr:",
+      "type": "formulaic",
+      "probability": 0.0594059405940594,
+      "surprisal": 4.073248982030639,
+      "is_deviation": true,
+      "detected_formulae": [
+        "me/gas koruqai/olos"
+      ],
+      "primary_formula": "me/gas koruqai/olos"
+    },
+    {
+      "line_num": "",
+      "character": "Hector",
+      "line": "*(/ektwr de\\ pro\\s dw/mat' *)aleca/ndroio bebh/kei",
+      "type": "bare_mention",
+      "probability": 0.5891089108910891,
+      "surprisal": 0.7633937194438513,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Hector",
+      "line": "e)/nq' *(/ektwr ei)sh=lqe *dii\\+ fi/los, e)n d' a)/ra xeiri\\",
+      "type": "bare_mention",
+      "probability": 0.5891089108910891,
+      "surprisal": 0.7633937194438513,
+      "is_deviation": false
+    },
+    {
+      "line_num": "325",
+      "character": "Hector",
+      "line": "to\\n d' *(/ektwr nei/kessen i)dw\\n ai)sxroi=s e)pe/essi:",
+      "type": "bare_mention",
+      "probability": 0.5891089108910891,
+      "surprisal": 0.7633937194438513,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Hector",
+      "line": "w(\\s fa/to, to\\n d' ou)/ ti prose/fh koruqai/olos *(/ektwr:",
+      "type": "formulaic",
+      "probability": 0.04950495049504951,
+      "surprisal": 4.336283387864432,
+      "is_deviation": true,
+      "detected_formulae": [
+        "prose/fh koruqai/olos"
+      ],
+      "primary_formula": "prose/fh koruqai/olos"
+    },
+    {
+      "line_num": "",
+      "character": "Hector",
+      "line": "th\\n d' h)mei/bet' e)/peita me/gas koruqai/olos *(/ektwr",
+      "type": "formulaic",
+      "probability": 0.0594059405940594,
+      "surprisal": 4.073248982030639,
+      "is_deviation": true,
+      "detected_formulae": [
+        "me/gas koruqai/olos"
+      ],
+      "primary_formula": "me/gas koruqai/olos"
+    },
+    {
+      "line_num": "",
+      "character": "Hector",
+      "line": "w(\\s a)/ra fwnh/sas a)pe/bh koruqai/olos *(/ektwr:",
+      "type": "formulaic",
+      "probability": 0.01485148514851485,
+      "surprisal": 6.073248982030639,
+      "is_deviation": true,
+      "detected_formulae": [
+        "a)/ra fwnh/sas a)pe/bh koruqai/olos",
+        "a)/ra fwnh/sas a)pe/bh",
+        "fwnh/sas a)pe/bh koruqai/olos"
+      ],
+      "primary_formula": "a)/ra fwnh/sas a)pe/bh koruqai/olos"
+    },
+    {
+      "line_num": "",
+      "character": "Hector",
+      "line": "*(/ektwr d' w(s ou)k e)/ndon a)mu/mona te/tmen a)/koitin",
+      "type": "bare_mention",
+      "probability": 0.5891089108910891,
+      "surprisal": 0.7633937194438513,
+      "is_deviation": false
+    },
+    {
+      "line_num": "390",
+      "character": "Hector",
+      "line": "h)= r(a gunh\\ tami/h, o(\\ d' a)pe/ssuto dw/matos *(/ektwr",
+      "type": "bare_mention",
+      "probability": 0.5891089108910891,
+      "surprisal": 0.7633937194438513,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Hector",
+      "line": "to/n r(' *(/ektwr kale/eske *skama/ndrion, au)ta\\r oi( a)/lloi",
+      "type": "bare_mention",
+      "probability": 0.5891089108910891,
+      "surprisal": 0.7633937194438513,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Hector",
+      "line": "*)astua/nakt': oi)=os ga\\r e)ru/eto *)/ilion *(/ektwr.",
+      "type": "bare_mention",
+      "probability": 0.5891089108910891,
+      "surprisal": 0.7633937194438513,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Achilles",
+      "line": "h)/toi ga\\r pate/r' a(mo\\n a)pe/ktane di=os *)axilleu/s,",
+      "type": "bare_mention",
+      "probability": 0.4368932038834951,
+      "surprisal": 1.1946474308535437,
+      "is_deviation": false
+    },
+    {
+      "line_num": "440",
+      "character": "Hector",
+      "line": "th\\n d' au)=te prose/eipe me/gas koruqai/olos *(/ektwr:",
+      "type": "formulaic",
+      "probability": 0.0594059405940594,
+      "surprisal": 4.073248982030639,
+      "is_deviation": true,
+      "detected_formulae": [
+        "me/gas koruqai/olos",
+        "prose/eipe me/gas koruqai/olos",
+        "prose/eipe me/gas",
+        "au)=te prose/eipe me/gas koruqai/olos",
+        "au)=te prose/eipe me/gas"
+      ],
+      "primary_formula": "me/gas koruqai/olos"
+    },
+    {
+      "line_num": "",
+      "character": "Hector",
+      "line": "w(\\s ei)pw\\n ou(= paido\\s o)re/cato fai/dimos *(/ektwr:",
+      "type": "bare_mention",
+      "probability": 0.5891089108910891,
+      "surprisal": 0.7633937194438513,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Hector",
+      "line": "au)ti/k' a)po\\ krato\\s ko/ruq' ei(/leto fai/dimos *(/ektwr,",
+      "type": "bare_mention",
+      "probability": 0.5891089108910891,
+      "surprisal": 0.7633937194438513,
+      "is_deviation": false
+    },
+    {
+      "line_num": "475",
+      "character": "Zeus",
+      "line": "ei)=pe d' e)peuca/menos *dii/ t' a)/lloisi/n te qeoi=si:",
+      "type": "bare_mention",
+      "probability": 0.14473684210526316,
+      "surprisal": 2.7884958948062883,
+      "is_deviation": true
+    },
+    {
+      "line_num": "",
+      "character": "Hector",
+      "line": "w(\\s a)/ra fwnh/sas ko/ruq' ei(/leto fai/dimos *(/ektwr",
+      "type": "bare_mention",
+      "probability": 0.5891089108910891,
+      "surprisal": 0.7633937194438513,
+      "is_deviation": false
+    },
+    {
+      "line_num": "520",
+      "character": "Hector",
+      "line": "to\\n d' a)pameibo/menos prose/fh koruqai/olos *(/ektwr:",
+      "type": "formulaic",
+      "probability": 0.04950495049504951,
+      "surprisal": 4.336283387864432,
+      "is_deviation": true,
+      "detected_formulae": [
+        "prose/fh koruqai/olos"
+      ],
+      "primary_formula": "prose/fh koruqai/olos"
+    },
+    {
+      "line_num": "",
+      "character": "Hector",
+      "line": "w(\\s ei)pw\\n pule/wn e)ce/ssuto fai/dimos *(/ektwr,",
+      "type": "bare_mention",
+      "probability": 0.5891089108910891,
+      "surprisal": 0.7633937194438513,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Hector",
+      "line": "*(/ektwr d' *)hi+onh=a ba/l' e)/gxei+ o)cuo/enti",
+      "type": "bare_mention",
+      "probability": 0.5891089108910891,
+      "surprisal": 0.7633937194438513,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Hector",
+      "line": "w(\\s e)/faq', *(/ektwr d' au)=te xa/rh me/ga mu=qon a)kou/sas,",
+      "type": "bare_mention",
+      "probability": 0.5891089108910891,
+      "surprisal": 0.7633937194438513,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Hector",
+      "line": "e)n pedi/w|: *(/ektwr de\\ met' a)mfote/roisin e)/eipe:",
+      "type": "bare_mention",
+      "probability": 0.5891089108910891,
+      "surprisal": 0.7633937194438513,
+      "is_deviation": false
+    },
+    {
+      "line_num": "90",
+      "character": "Hector",
+      "line": "o(/n pot' a)risteu/onta kate/ktane fai/dimos *(/ektwr.",
+      "type": "bare_mention",
+      "probability": 0.5891089108910891,
+      "surprisal": 0.7633937194438513,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Hector",
+      "line": "tw/ ke ta/x' a)nth/seie ma/xhs koruqai/olos *(/ektwr.",
+      "type": "bare_mention",
+      "probability": 0.5891089108910891,
+      "surprisal": 0.7633937194438513,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Hector",
+      "line": "to\\n d' au)=te prose/eipe me/gas koruqai/olos *(/ektwr:",
+      "type": "formulaic",
+      "probability": 0.0594059405940594,
+      "surprisal": 4.073248982030639,
+      "is_deviation": true,
+      "detected_formulae": [
+        "me/gas koruqai/olos",
+        "prose/eipe me/gas koruqai/olos",
+        "prose/eipe me/gas",
+        "au)=te prose/eipe me/gas koruqai/olos",
+        "au)=te prose/eipe me/gas"
+      ],
+      "primary_formula": "me/gas koruqai/olos"
+    },
+    {
+      "line_num": "",
+      "character": "Hector",
+      "line": "a)ll' ou)d' w(=s a)pe/lhge ma/xhs koruqai/olos *(/ektwr,",
+      "type": "bare_mention",
+      "probability": 0.5891089108910891,
+      "surprisal": 0.7633937194438513,
+      "is_deviation": false
+    },
+    {
+      "line_num": "280",
+      "character": "Zeus",
+      "line": "a)mfote/rw ga\\r sfw=i+ filei= nefelhgere/ta *zeu/s,",
+      "type": "bare_mention",
+      "probability": 0.14473684210526316,
+      "surprisal": 2.7884958948062883,
+      "is_deviation": true
+    },
+    {
+      "line_num": "",
+      "character": "Hector",
+      "line": "to\\n d' au)=te prose/eipe me/gas koruqai/olos *(/ektwr:",
+      "type": "formulaic",
+      "probability": 0.0594059405940594,
+      "surprisal": 4.073248982030639,
+      "is_deviation": true,
+      "detected_formulae": [
+        "me/gas koruqai/olos",
+        "prose/eipe me/gas koruqai/olos",
+        "prose/eipe me/gas",
+        "au)=te prose/eipe me/gas koruqai/olos",
+        "au)=te prose/eipe me/gas"
+      ],
+      "primary_formula": "me/gas koruqai/olos"
+    },
+    {
+      "line_num": "",
+      "character": "Zeus",
+      "line": "to\\n de\\ me/g' o)xqh/sas prose/fh nefelhgere/ta *zeu/s:",
+      "type": "formulaic",
+      "probability": 0.21052631578947367,
+      "surprisal": 2.2479275134435857,
+      "is_deviation": false,
+      "detected_formulae": [
+        "prose/fh nefelhgere/ta",
+        "me/g' o)xqh/sas prose/fh nefelhgere/ta",
+        "me/g' o)xqh/sas prose/fh",
+        "o)xqh/sas prose/fh nefelhgere/ta"
+      ],
+      "primary_formula": "prose/fh nefelhgere/ta"
+    },
+    {
+      "line_num": "",
+      "character": "Zeus",
+      "line": "th\\n d' e)pimeidh/sas prose/fh nefelhgere/ta *zeu/s:",
+      "type": "formulaic",
+      "probability": 0.21052631578947367,
+      "surprisal": 2.2479275134435857,
+      "is_deviation": false,
+      "detected_formulae": [
+        "prose/fh nefelhgere/ta"
+      ],
+      "primary_formula": "prose/fh nefelhgere/ta"
+    },
+    {
+      "line_num": "110",
+      "character": "Hector",
+      "line": "*trwsi\\n e)f' i(ppoda/mois i)qu/nomen, o)/fra kai\\ *(/ektwr",
+      "type": "bare_mention",
+      "probability": 0.5891089108910891,
+      "surprisal": 0.7633937194438513,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Hector",
+      "line": "*(/ektwr ga/r pote fh/sei e)ni\\ *trw/ess' a)goreu/wn:",
+      "type": "bare_mention",
+      "probability": 0.5891089108910891,
+      "surprisal": 0.7633937194438513,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Hector",
+      "line": "ei)/ per ga/r s' *(/ektwr ge kako\\n kai\\ a)na/lkida fh/sei,",
+      "type": "bare_mention",
+      "probability": 0.5891089108910891,
+      "surprisal": 0.7633937194438513,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Hector",
+      "line": "au)=tis a)n' i)wxmo/n: e)pi\\ de\\ *trw=e/s te kai\\ *(/ektwr",
+      "type": "bare_mention",
+      "probability": 0.5891089108910891,
+      "surprisal": 0.7633937194438513,
+      "is_deviation": false
+    },
+    {
+      "line_num": "160",
+      "character": "Hector",
+      "line": "tw=| d' e)pi\\ makro\\n a)/u+se me/gas koruqai/olos *(/ektwr:",
+      "type": "formulaic",
+      "probability": 0.0594059405940594,
+      "surprisal": 4.073248982030639,
+      "is_deviation": true,
+      "detected_formulae": [
+        "me/gas koruqai/olos"
+      ],
+      "primary_formula": "me/gas koruqai/olos"
+    },
+    {
+      "line_num": "",
+      "character": "Hector",
+      "line": "*(/ektwr de\\ *trw/essin e)ke/kleto makro\\n a)u/+sas:",
+      "type": "bare_mention",
+      "probability": 0.5891089108910891,
+      "surprisal": 0.7633937194438513,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Hector",
+      "line": "*(/ektwr *priami/dhs, o(/te oi( *zeu\\s ku=dos e)/dwke.",
+      "type": "formulaic",
+      "probability": 0.01485148514851485,
+      "surprisal": 6.073248982030639,
+      "is_deviation": true,
+      "detected_formulae": [
+        "*priami/dhs, o(/te oi( *zeu\\s",
+        "*priami/dhs, o(/te oi("
+      ],
+      "primary_formula": "*priami/dhs, o(/te oi( *zeu\\s"
+    },
+    {
+      "line_num": "",
+      "character": "Zeus",
+      "line": "ai)/ ke/n moi dw/h| *zeu/s t' ai)gi/oxos kai\\ *)aqh/nh",
+      "type": "bare_mention",
+      "probability": 0.14473684210526316,
+      "surprisal": 2.7884958948062883,
+      "is_deviation": true
+    },
+    {
+      "line_num": "",
+      "character": "Hector",
+      "line": "qh=ke d' e)pi\\ neurh=|: to\\n d' au)= koruqai/olos *(/ektwr",
+      "type": "bare_mention",
+      "probability": 0.5891089108910891,
+      "surprisal": 0.7633937194438513,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Hector",
+      "line": "*(/ektwr d' e)n prw/toisi ki/e sqe/nei+ blemeai/nwn.",
+      "type": "bare_mention",
+      "probability": 0.5891089108910891,
+      "surprisal": 0.7633937194438513,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Hector",
+      "line": "w(\\s *(/ektwr w)/paze ka/rh komo/wntas *)axaiou/s,",
+      "type": "bare_mention",
+      "probability": 0.5891089108910891,
+      "surprisal": 0.7633937194438513,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Hector",
+      "line": "*(/ektwr d' a)mfiperistrw/fa kalli/trixas i(/ppous",
+      "type": "bare_mention",
+      "probability": 0.5891089108910891,
+      "surprisal": 0.7633937194438513,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Hector",
+      "line": "*(/ektwr *priami/dhs, kai\\ dh\\ kaka\\ polla\\ e)/orge.",
+      "type": "bare_mention",
+      "probability": 0.5891089108910891,
+      "surprisal": 0.7633937194438513,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Hector",
+      "line": "h)\\ nw=i+ *pria/moio pa/i+s koruqai/olos *(/ektwr",
+      "type": "bare_mention",
+      "probability": 0.5891089108910891,
+      "surprisal": 0.7633937194438513,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Zeus",
+      "line": "th\\n d' a)pameibo/menos prose/fh nefelhgere/ta *zeu/s:",
+      "type": "formulaic",
+      "probability": 0.21052631578947367,
+      "surprisal": 2.2479275134435857,
+      "is_deviation": false,
+      "detected_formulae": [
+        "prose/fh nefelhgere/ta",
+        "d' a)pameibo/menos prose/fh nefelhgere/ta",
+        "d' a)pameibo/menos prose/fh",
+        "a)pameibo/menos prose/fh nefelhgere/ta",
+        "d' a)pameibo/menos",
+        "a)pameibo/menos prose/fh"
+      ],
+      "primary_formula": "prose/fh nefelhgere/ta"
+    },
+    {
+      "line_num": "",
+      "character": "Hector",
+      "line": "ou) ga\\r pri\\n pole/mou a)popau/setai o)/brimos *(/ektwr",
+      "type": "bare_mention",
+      "probability": 0.5891089108910891,
+      "surprisal": 0.7633937194438513,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Hector",
+      "line": "*trw/wn au)=t' a)gorh\\n poih/sato fai/dimos *(/ektwr",
+      "type": "bare_mention",
+      "probability": 0.5891089108910891,
+      "surprisal": 0.7633937194438513,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Hector",
+      "line": "to/n r(' *(/ektwr a)go/reue *dii\\+ fi/los: e)n d' a)/ra xeiri\\",
+      "type": "bare_mention",
+      "probability": 0.5891089108910891,
+      "surprisal": 0.7633937194438513,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Zeus",
+      "line": "e)/lpomai eu)xo/menos *dii/ t' a)/lloisi/n te qeoi=sin",
+      "type": "bare_mention",
+      "probability": 0.14473684210526316,
+      "surprisal": 2.7884958948062883,
+      "is_deviation": true
+    },
+    {
+      "line_num": "",
+      "character": "Hector",
+      "line": "w(\\s *(/ektwr a)go/reu', e)pi\\ de\\ *trw=es kela/dhsan.",
+      "type": "bare_mention",
+      "probability": 0.5891089108910891,
+      "surprisal": 0.7633937194438513,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Zeus",
+      "line": "*zeu/s me me/ga *kroni/dhs a)/th| e)ne/dhse barei/h|",
+      "type": "bare_mention",
+      "probability": 0.14473684210526316,
+      "surprisal": 2.7884958948062883,
+      "is_deviation": true
+    },
+    {
+      "line_num": "",
+      "character": "Zeus",
+      "line": "e)cei/pw kai\\ pa/nta dii/comai: ou)de/ ke/ ti/s moi",
+      "type": "bare_mention",
+      "probability": 0.14473684210526316,
+      "surprisal": 2.7884958948062883,
+      "is_deviation": true
+    },
+    {
+      "line_num": "",
+      "character": "Achilles",
+      "line": "xwome/nou *)axilh=os e)/bhs klisi/hqen a)pou/ras",
+      "type": "bare_mention",
+      "probability": 0.4368932038834951,
+      "surprisal": 1.1946474308535437,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Achilles",
+      "line": "dw=ra me\\n ou)ke/t' o)nosta\\ didoi=s *)axilh=i+ a)/nakti:",
+      "type": "bare_mention",
+      "probability": 0.4368932038834951,
+      "surprisal": 1.1946474308535437,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Achilles",
+      "line": "e)/lqws' e)s klisi/hn *phlhi+a/dew *)axilh=os.",
+      "type": "bare_mention",
+      "probability": 0.4368932038834951,
+      "surprisal": 1.1946474308535437,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Achilles",
+      "line": "tw\\ kai\\ deiknu/menos prose/fh po/das w)ku\\s *)axilleu/s:",
+      "type": "formulaic",
+      "probability": 0.11165048543689321,
+      "surprisal": 3.1629385711262055,
+      "is_deviation": false,
+      "detected_formulae": [
+        "prose/fh po/das w)ku\\s",
+        "prose/fh po/das"
+      ],
+      "primary_formula": "prose/fh po/das w)ku\\s"
+    },
+    {
+      "line_num": "",
+      "character": "Achilles",
+      "line": "w(\\s a)/ra fwnh/sas prote/rw a)/ge di=os *)axilleu/s,",
+      "type": "bare_mention",
+      "probability": 0.4368932038834951,
+      "surprisal": 1.1946474308535437,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Achilles",
+      "line": "tw=| d' e)/xen *au)tome/dwn, ta/mnen d' a)/ra di=os *)axilleu/s.",
+      "type": "bare_mention",
+      "probability": 0.4368932038834951,
+      "surprisal": 1.1946474308535437,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Achilles",
+      "line": "kaloi=s e)n kane/oisin, a)ta\\r kre/a nei=men *)axilleu/s.",
+      "type": "bare_mention",
+      "probability": 0.4368932038834951,
+      "surprisal": 1.1946474308535437,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Achilles",
+      "line": "plhsa/menos d' oi)/noio de/pas dei/dekt' *)axilh=a:",
+      "type": "bare_mention",
+      "probability": 0.4368932038834951,
+      "surprisal": 1.1946474308535437,
+      "is_deviation": false
+    },
+    {
+      "line_num": "225",
+      "character": "Achilles",
+      "line": "xai=r' *)axileu=: daito\\s me\\n e)i/+shs ou)k e)pideuei=s",
+      "type": "bare_mention",
+      "probability": 0.4368932038834951,
+      "surprisal": 1.1946474308535437,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Hector",
+      "line": "a)stra/ptei: *(/ektwr de\\ me/ga sqe/nei+ blemeai/nwn",
+      "type": "bare_mention",
+      "probability": 0.5891089108910891,
+      "surprisal": 0.7633937194438513,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Zeus",
+      "line": "mai/netai e)kpa/glws pi/sunos *dii/, ou)de/ ti ti/ei",
+      "type": "bare_mention",
+      "probability": 0.14473684210526316,
+      "surprisal": 2.7884958948062883,
+      "is_deviation": true
+    },
+    {
+      "line_num": "",
+      "character": "Achilles",
+      "line": "to\\n d' a)pameibo/menos prose/fh po/das w)ku\\s *)axilleu/s:",
+      "type": "formulaic",
+      "probability": 0.11165048543689321,
+      "surprisal": 3.1629385711262055,
+      "is_deviation": false,
+      "detected_formulae": [
+        "prose/fh po/das w)ku\\s",
+        "prose/fh po/das",
+        "a)pameibo/menos prose/fh po/das w)ku\\s",
+        "a)pameibo/menos prose/fh po/das",
+        "a)pameibo/menos prose/fh"
+      ],
+      "primary_formula": "prose/fh po/das w)ku\\s"
+    },
+    {
+      "line_num": "",
+      "character": "Hector",
+      "line": "ou)k e)qe/leske ma/xhn a)po\\ tei/xeos o)rnu/men *(/ektwr,",
+      "type": "bare_mention",
+      "probability": 0.5891089108910891,
+      "surprisal": 0.7633937194438513,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Zeus",
+      "line": "e)rre/tw: e)k ga/r eu( fre/nas ei(/leto mhti/eta *zeu/s.",
+      "type": "bare_mention",
+      "probability": 0.14473684210526316,
+      "surprisal": 2.7884958948062883,
+      "is_deviation": true
+    },
+    {
+      "line_num": "",
+      "character": "Zeus",
+      "line": "dixqadi/as kh=ras fere/men qana/toio te/los de/.",
+      "type": "bare_mention",
+      "probability": 0.14473684210526316,
+      "surprisal": 2.7884958948062883,
+      "is_deviation": true
+    },
+    {
+      "line_num": "",
+      "character": "Achilles",
+      "line": "ei) me\\n dh\\ no/sto/n ge meta\\ fresi\\ fai/dim' *)axilleu=",
+      "type": "bare_mention",
+      "probability": 0.4368932038834951,
+      "surprisal": 1.1946474308535437,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Zeus",
+      "line": "*zeu/s te kataxqo/nios kai\\ e)painh\\ *persefo/neia.",
+      "type": "bare_mention",
+      "probability": 0.14473684210526316,
+      "surprisal": 2.7884958948062883,
+      "is_deviation": true
+    },
+    {
+      "line_num": "485",
+      "character": "Achilles",
+      "line": "kai/ se tosou=ton e)/qhka qeoi=s e)piei/kel' *)axilleu=,",
+      "type": "bare_mention",
+      "probability": 0.4368932038834951,
+      "surprisal": 1.1946474308535437,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Achilles",
+      "line": "e)c e)meu=: a)lla\\ se\\ pai=da qeoi=s e)piei/kel' *)axilleu=",
+      "type": "bare_mention",
+      "probability": 0.4368932038834951,
+      "surprisal": 1.1946474308535437,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Achilles",
+      "line": "a)ll' *)axileu= da/mason qumo\\n me/gan: ou)de/ ti/ se xrh\\",
+      "type": "bare_mention",
+      "probability": 0.4368932038834951,
+      "surprisal": 1.1946474308535437,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Zeus",
+      "line": "li/ssontai d' a)/ra tai/ ge *di/a *kroni/wna kiou=sai",
+      "type": "bare_mention",
+      "probability": 0.14473684210526316,
+      "surprisal": 2.7884958948062883,
+      "is_deviation": true
+    },
+    {
+      "line_num": "",
+      "character": "Achilles",
+      "line": "a)ll' *)axileu= po/re kai\\ su\\ *dio\\s kou/rh|sin e(/pesqai",
+      "type": "bare_mention",
+      "probability": 0.4368932038834951,
+      "surprisal": 1.1946474308535437,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Achilles",
+      "line": "to\\n d' a)pameibo/menos prose/fh po/das w)ku\\s *)axilleu/s:",
+      "type": "formulaic",
+      "probability": 0.11165048543689321,
+      "surprisal": 3.1629385711262055,
+      "is_deviation": false,
+      "detected_formulae": [
+        "prose/fh po/das w)ku\\s",
+        "prose/fh po/das",
+        "a)pameibo/menos prose/fh po/das w)ku\\s",
+        "a)pameibo/menos prose/fh po/das",
+        "a)pameibo/menos prose/fh"
+      ],
+      "primary_formula": "prose/fh po/das w)ku\\s"
+    },
+    {
+      "line_num": "",
+      "character": "Achilles",
+      "line": "to\\n d' a)pameibo/menos prose/fh po/das w)ku\\s *)axilleu/s:",
+      "type": "formulaic",
+      "probability": 0.11165048543689321,
+      "surprisal": 3.1629385711262055,
+      "is_deviation": false,
+      "detected_formulae": [
+        "prose/fh po/das w)ku\\s",
+        "prose/fh po/das",
+        "a)pameibo/menos prose/fh po/das w)ku\\s",
+        "a)pameibo/menos prose/fh po/das",
+        "a)pameibo/menos prose/fh"
+      ],
+      "primary_formula": "prose/fh po/das w)ku\\s"
+    },
+    {
+      "line_num": "",
+      "character": "Zeus",
+      "line": "u(yo/q' e)o/nti *dii/, me/ga d' e)/stene kuda/limon kh=r.",
+      "type": "bare_mention",
+      "probability": 0.14473684210526316,
+      "surprisal": 2.7884958948062883,
+      "is_deviation": true
+    },
+    {
+      "line_num": "",
+      "character": "Hector",
+      "line": "o(/ss' *(/ektwr e)/rrece *dii\\+ fi/los ui(=as *)axaiw=n",
+      "type": "bare_mention",
+      "probability": 0.5891089108910891,
+      "surprisal": 0.7633937194438513,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Zeus",
+      "line": "la/mf' w(/s te steroph\\ patro\\s *dio/s: au)ta\\r o(/ g' h(/rws",
+      "type": "bare_mention",
+      "probability": 0.14473684210526316,
+      "surprisal": 2.7884958948062883,
+      "is_deviation": true
+    },
+    {
+      "line_num": "200",
+      "character": "Hector",
+      "line": "pipto/ntwn: o(/qen au)=tis a)petra/pet' o)/brimos *(/ektwr",
+      "type": "bare_mention",
+      "probability": 0.5891089108910891,
+      "surprisal": 0.7633937194438513,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Hector",
+      "line": "ou)de\\ me\\n ou)de\\ *trw=as a)gh/noras ei)/asen *(/ektwr",
+      "type": "bare_mention",
+      "probability": 0.5891089108910891,
+      "surprisal": 0.7633937194438513,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Hector",
+      "line": "h)= s' *(/ektwr proe/hke diaskopia=sqai e(/kasta",
+      "type": "bare_mention",
+      "probability": 0.5891089108910891,
+      "surprisal": 0.7633937194438513,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Hector",
+      "line": "pollh=|si/n m' a)/th|si pare\\k no/on h)/gagen *(/ektwr,",
+      "type": "bare_mention",
+      "probability": 0.5891089108910891,
+      "surprisal": 0.7633937194438513,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Achilles",
+      "line": "a)/llw| g' h)\\ *)axilh=i+, to\\n a)qana/th te/ke mh/thr.",
+      "type": "bare_mention",
+      "probability": 0.4368932038834951,
+      "surprisal": 1.1946474308535437,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Hector",
+      "line": "*(/ektwr me\\n meta\\ toi=sin, o(/soi boulhfo/roi ei)si/,",
+      "type": "bare_mention",
+      "probability": 0.5891089108910891,
+      "surprisal": 0.7633937194438513,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Hector",
+      "line": "*(/ektwr te proe/hke kai\\ a)/lloi *trw=es a)gauoi/.",
+      "type": "bare_mention",
+      "probability": 0.5891089108910891,
+      "surprisal": 0.7633937194438513,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Hector",
+      "line": "*(/ektwr d' e)n prw/toisi fe/r' a)spi/da pa/ntos' e)i/+shn,",
+      "type": "bare_mention",
+      "probability": 0.5891089108910891,
+      "surprisal": 0.7633937194438513,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Hector",
+      "line": "w(\\s *(/ektwr o(te\\ me/n te meta\\ prw/toisi fa/nesken,",
+      "type": "bare_mention",
+      "probability": 0.5891089108910891,
+      "surprisal": 0.7633937194438513,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Achilles",
+      "line": "ei)=den, o(/t' e)c *)/idhs a)/gagen po/das w)ku\\s *)axilleu/s.",
+      "type": "bare_mention",
+      "probability": 0.4368932038834951,
+      "surprisal": 1.1946474308535437,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Zeus",
+      "line": "*zeu/s me path\\r proe/hke tei\\+n ta/de muqh/sasqai.",
+      "type": "bare_mention",
+      "probability": 0.14473684210526316,
+      "surprisal": 2.7884958948062883,
+      "is_deviation": true
+    },
+    {
+      "line_num": "",
+      "character": "Hector",
+      "line": "*(/ektwr d' e)c o)xe/wn su\\n teu/xesin a)=lto xama=ze,",
+      "type": "bare_mention",
+      "probability": 0.5891089108910891,
+      "surprisal": 0.7633937194438513,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Hector",
+      "line": "*(/ektwr d' w(s e)no/hs' *)agame/mnona no/sfi kio/nta",
+      "type": "bare_mention",
+      "probability": 0.5891089108910891,
+      "surprisal": 0.7633937194438513,
+      "is_deviation": false
+    },
+    {
+      "line_num": "295",
+      "character": "Hector",
+      "line": "*(/ektwr *priami/dhs brotoloigw=| i)=sos *)/arhi+.",
+      "type": "bare_mention",
+      "probability": 0.5891089108910891,
+      "surprisal": 0.7633937194438513,
+      "is_deviation": false
+    },
+    {
+      "line_num": "300",
+      "character": "Hector",
+      "line": "*(/ektwr *priami/dhs, o(/te oi( *zeu\\s ku=dos e)/dwken;",
+      "type": "formulaic",
+      "probability": 0.01485148514851485,
+      "surprisal": 6.073248982030639,
+      "is_deviation": true,
+      "detected_formulae": [
+        "*priami/dhs, o(/te oi( *zeu\\s",
+        "*priami/dhs, o(/te oi("
+      ],
+      "primary_formula": "*priami/dhs, o(/te oi( *zeu\\s"
+    },
+    {
+      "line_num": "315",
+      "character": "Hector",
+      "line": "e)/ssetai ei)/ ken nh=as e(/lh| koruqai/olos *(/ektwr.",
+      "type": "bare_mention",
+      "probability": 0.5891089108910891,
+      "surprisal": 0.7633937194438513,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Hector",
+      "line": "*(/ektwr d' o)cu\\ no/hse kata\\ sti/xas, w)=rto d' e)p' au)tou\\s",
+      "type": "bare_mention",
+      "probability": 0.5891089108910891,
+      "surprisal": 0.7633937194438513,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Hector",
+      "line": "nw=i+n dh\\ to/de ph=ma kuli/ndetai o)/brimos *(/ektwr:",
+      "type": "bare_mention",
+      "probability": 0.5891089108910891,
+      "surprisal": 0.7633937194438513,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Hector",
+      "line": "*(/ektwr d' w)=k' a)pe/leqron a)ne/drame, mi/kto d' o(mi/lw|,",
+      "type": "bare_mention",
+      "probability": 0.5891089108910891,
+      "surprisal": 0.7633937194438513,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Hector",
+      "line": "to/fr' *(/ektwr e)/mpnuto, kai\\ a)\\y e)s di/fron o)rou/sas",
+      "type": "bare_mention",
+      "probability": 0.5891089108910891,
+      "surprisal": 0.7633937194438513,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Hector",
+      "line": "dai/+zwn i(/ppous te kai\\ a)ne/ras: ou)de/ pw *(/ektwr",
+      "type": "bare_mention",
+      "probability": 0.5891089108910891,
+      "surprisal": 0.7633937194438513,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Hector",
+      "line": "*(/ektwr me\\n meta\\ toi=sin o(mi/lei me/rmera r(e/zwn",
+      "type": "bare_mention",
+      "probability": 0.5891089108910891,
+      "surprisal": 0.7633937194438513,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Achilles",
+      "line": "to\\n de\\ i)dw\\n e)no/hse poda/rkhs di=os *)axilleu/s:",
+      "type": "formulaic",
+      "probability": 0.06796116504854369,
+      "surprisal": 3.8791456051256143,
+      "is_deviation": true,
+      "detected_formulae": [
+        "poda/rkhs di=os",
+        "e)no/hse poda/rkhs di=os"
+      ],
+      "primary_formula": "poda/rkhs di=os"
+    },
+    {
+      "line_num": "",
+      "character": "Achilles",
+      "line": "ti/pte/ me kiklh/skeis *)axileu=; ti/ de/ se xrew\\ e)mei=o;",
+      "type": "bare_mention",
+      "probability": 0.4368932038834951,
+      "surprisal": 1.1946474308535437,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Achilles",
+      "line": "to\\n d' a)pameibo/menos prose/fh po/das w)ku\\s *)axilleu/s:",
+      "type": "formulaic",
+      "probability": 0.11165048543689321,
+      "surprisal": 3.1629385711262055,
+      "is_deviation": false,
+      "detected_formulae": [
+        "prose/fh po/das w)ku\\s",
+        "prose/fh po/das",
+        "a)pameibo/menos prose/fh po/das w)ku\\s",
+        "a)pameibo/menos prose/fh po/das",
+        "a)pameibo/menos prose/fh"
+      ],
+      "primary_formula": "prose/fh po/das w)ku\\s"
+    },
+    {
+      "line_num": "625",
+      "character": "Achilles",
+      "line": "th\\n a)/ret' e)k *tene/doio ge/rwn, o(/te pe/rsen *)axilleu/s,",
+      "type": "bare_mention",
+      "probability": 0.4368932038834951,
+      "surprisal": 1.1946474308535437,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Achilles",
+      "line": "nu=n de\\ e)/pos e)re/wn pa/lin a)/ggelos ei)=m' *)axilh=i+.",
+      "type": "bare_mention",
+      "probability": 0.4368932038834951,
+      "surprisal": 1.1946474308535437,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Zeus",
+      "line": "sumfero/mesqa ma/xh| *dii/ t' eu)xo/menoi kai\\ *)aqh/nh|.",
+      "type": "bare_mention",
+      "probability": 0.14473684210526316,
+      "surprisal": 2.7884958948062883,
+      "is_deviation": true
+    },
+    {
+      "line_num": "",
+      "character": "Achilles",
+      "line": "h)de\\ se/, pa\\r d' *)axilh=a: ge/rwn d' i(pphla/ta *phleu\\s",
+      "type": "bare_mention",
+      "probability": 0.4368932038834951,
+      "surprisal": 1.1946474308535437,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Achilles",
+      "line": "sth=men e)ni\\ proqu/roisi: tafw\\n d' a)no/rousen *)axilleu/s,",
+      "type": "bare_mention",
+      "probability": 0.4368932038834951,
+      "surprisal": 1.1946474308535437,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Achilles",
+      "line": "*phleu\\s me\\n w(=| paidi\\ ge/rwn e)pe/tell' *)axilh=i+",
+      "type": "bare_mention",
+      "probability": 0.4368932038834951,
+      "surprisal": 1.1946474308535437,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Achilles",
+      "line": "te/knon e)mo\\n geneh=| me\\n u(pe/rtero/s e)stin *)axilleu/s,",
+      "type": "bare_mention",
+      "probability": 0.4368932038834951,
+      "surprisal": 1.1946474308535437,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Achilles",
+      "line": "tau=t' ei)/pois *)axilh=i+ dai/+froni ai)/ ke pi/qhtai.",
+      "type": "bare_mention",
+      "probability": 0.4368932038834951,
+      "surprisal": 1.1946474308535437,
+      "is_deviation": false
+    },
+    {
+      "line_num": "805",
+      "character": "Achilles",
+      "line": "bh= de\\ qe/ein para\\ nh=as e)p' *ai)aki/dhn *)axilh=a.",
+      "type": "bare_mention",
+      "probability": 0.4368932038834951,
+      "surprisal": 1.1946474308535437,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Achilles",
+      "line": "e)/rxomai o)/fr' *)axilh=i+ dai/+froni mu=qon e)ni/spw",
+      "type": "bare_mention",
+      "probability": 0.4368932038834951,
+      "surprisal": 1.1946474308535437,
+      "is_deviation": false
+    },
+    {
+      "line_num": "10",
+      "character": "Hector",
+      "line": "o)/fra me\\n *(/ektwr zwo\\s e)/hn kai\\ mh/ni' *)axilleu\\s",
+      "type": "bare_mention",
+      "probability": 0.5891089108910891,
+      "surprisal": 0.7633937194438513,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Hector",
+      "line": "w(\\s *(/ektwr a)n' o(/milon i)w\\n e)lli/sseq' e(tai/rous",
+      "type": "bare_mention",
+      "probability": 0.5891089108910891,
+      "surprisal": 0.7633937194438513,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Hector",
+      "line": "a)/llon *kebrio/nao xerei/ona ka/llipen *(/ektwr.",
+      "type": "bare_mention",
+      "probability": 0.5891089108910891,
+      "surprisal": 0.7633937194438513,
+      "is_deviation": false
+    },
+    {
+      "line_num": "230",
+      "character": "Hector",
+      "line": "to\\n d' a)/r' u(po/dra i)dw\\n prose/fh koruqai/olos *(/ektwr:",
+      "type": "formulaic",
+      "probability": 0.04950495049504951,
+      "surprisal": 4.336283387864432,
+      "is_deviation": true,
+      "detected_formulae": [
+        "prose/fh koruqai/olos",
+        "u(po/dra i)dw\\n prose/fh koruqai/olos",
+        "u(po/dra i)dw\\n prose/fh",
+        "i)dw\\n prose/fh koruqai/olos"
+      ],
+      "primary_formula": "prose/fh koruqai/olos"
+    },
+    {
+      "line_num": "",
+      "character": "Zeus",
+      "line": "kai\\ pedi/a lwtou=nta kai\\ a)ndrw=n pi/ona e)/rga,",
+      "type": "bare_mention",
+      "probability": 0.14473684210526316,
+      "surprisal": 2.7884958948062883,
+      "is_deviation": true
+    },
+    {
+      "line_num": "290",
+      "character": "Hector",
+      "line": "ou)d' a)/n pw to/te ge *trw=es kai\\ fai/dimos *(/ektwr",
+      "type": "formulaic",
+      "probability": 0.034653465346534656,
+      "surprisal": 4.850856560694191,
+      "is_deviation": true,
+      "detected_formulae": [
+        "kai\\ fai/dimos"
+      ],
+      "primary_formula": "kai\\ fai/dimos"
+    },
+    {
+      "line_num": "445",
+      "character": "Hector",
+      "line": "*(/ektwr d' a(rpa/cas la=an fe/ren, o(/s r(a pula/wn",
+      "type": "bare_mention",
+      "probability": 0.5891089108910891,
+      "surprisal": 0.7633937194438513,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Hector",
+      "line": "w(\\s *(/ektwr i)qu\\s sani/dwn fe/re la=an a)ei/ras,",
+      "type": "bare_mention",
+      "probability": 0.5891089108910891,
+      "surprisal": 0.7633937194438513,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Hector",
+      "line": "la=os u(po\\ r(iph=s: o(\\ d' a)/r' e)/sqore fai/dimos *(/ektwr",
+      "type": "bare_mention",
+      "probability": 0.5891089108910891,
+      "surprisal": 0.7633937194438513,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Zeus",
+      "line": "ghqosu/nh| de\\ qa/lassa dii/stato: toi\\ de\\ pe/tonto",
+      "type": "bare_mention",
+      "probability": 0.14473684210526316,
+      "surprisal": 2.7884958948062883,
+      "is_deviation": true
+    },
+    {
+      "line_num": "",
+      "character": "Hector",
+      "line": "*(/ektwr, o(\\s *dio\\s eu)/xet' e)risqene/os pa/i+s ei)=nai.",
+      "type": "bare_mention",
+      "probability": 0.5891089108910891,
+      "surprisal": 0.7633937194438513,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Hector",
+      "line": "*(/ektwr dh\\ para\\ nhusi\\ boh\\n a)gaqo\\s polemi/zei",
+      "type": "bare_mention",
+      "probability": 0.5891089108910891,
+      "surprisal": 0.7633937194438513,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Hector",
+      "line": "*trw=es de\\ prou)/tuyan a)olle/es, h)=rxe d' a)/r' *(/ektwr",
+      "type": "bare_mention",
+      "probability": 0.5891089108910891,
+      "surprisal": 0.7633937194438513,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Hector",
+      "line": "w(\\s *(/ektwr ei(=os me\\n a)pei/lei me/xri qala/sshs",
+      "type": "bare_mention",
+      "probability": 0.5891089108910891,
+      "surprisal": 0.7633937194438513,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Hector",
+      "line": "*(/ektwr d' o(rmhqe/ntos a)ko/ntise douri\\ faeinw=|.",
+      "type": "bare_mention",
+      "probability": 0.5891089108910891,
+      "surprisal": 0.7633937194438513,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Hector",
+      "line": "*(/ektwr d' o(rmh/qh ko/ruqa krota/fois a)rarui=an",
+      "type": "bare_mention",
+      "probability": 0.5891089108910891,
+      "surprisal": 0.7633937194438513,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Achilles",
+      "line": "kudai/nwn *)axilh=a po/das taxu/n: ou)de/ ti pa/mpan",
+      "type": "bare_mention",
+      "probability": 0.4368932038834951,
+      "surprisal": 1.1946474308535437,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Hector",
+      "line": "*(/ektwr d' ou)k e)pe/pusto *dii\\+ fi/los, ou)de/ ti h)/|dh",
+      "type": "bare_mention",
+      "probability": 0.5891089108910891,
+      "surprisal": 0.7633937194438513,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Hector",
+      "line": "*(/ektwr d' h(gei=to brotoloigw=| i)=sos *)/arhi+",
+      "type": "bare_mention",
+      "probability": 0.5891089108910891,
+      "surprisal": 0.7633937194438513,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Hector",
+      "line": "qa/rsunos oi)wnw=|: o(\\ d' a)mei/beto fai/dimos *(/ektwr:",
+      "type": "bare_mention",
+      "probability": 0.5891089108910891,
+      "surprisal": 0.7633937194438513,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Hector",
+      "line": "dei/dw mh\\ dh/ moi tele/sh| e)/pos o)/brimos *(/ektwr,",
+      "type": "bare_mention",
+      "probability": 0.5891089108910891,
+      "surprisal": 0.7633937194438513,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Zeus",
+      "line": "*)/idhs u(yhlh=s: i)/de de\\ nefelhgere/ta *zeu/s.",
+      "type": "bare_mention",
+      "probability": 0.14473684210526316,
+      "surprisal": 2.7884958948062883,
+      "is_deviation": true
+    },
+    {
+      "line_num": "",
+      "character": "Zeus",
+      "line": "th\\n d' a)pameibo/menos prose/fh nefelhgere/ta *zeu/s:",
+      "type": "formulaic",
+      "probability": 0.21052631578947367,
+      "surprisal": 2.2479275134435857,
+      "is_deviation": false,
+      "detected_formulae": [
+        "prose/fh nefelhgere/ta",
+        "d' a)pameibo/menos prose/fh nefelhgere/ta",
+        "d' a)pameibo/menos prose/fh",
+        "a)pameibo/menos prose/fh nefelhgere/ta",
+        "d' a)pameibo/menos",
+        "a)pameibo/menos prose/fh"
+      ],
+      "primary_formula": "prose/fh nefelhgere/ta"
+    },
+    {
+      "line_num": "",
+      "character": "Zeus",
+      "line": "th\\n d' a)pameibo/menos prose/fh nefelhgere/ta *zeu/s:",
+      "type": "formulaic",
+      "probability": 0.21052631578947367,
+      "surprisal": 2.2479275134435857,
+      "is_deviation": false,
+      "detected_formulae": [
+        "prose/fh nefelhgere/ta",
+        "d' a)pameibo/menos prose/fh nefelhgere/ta",
+        "d' a)pameibo/menos prose/fh",
+        "a)pameibo/menos prose/fh nefelhgere/ta",
+        "d' a)pameibo/menos",
+        "a)pameibo/menos prose/fh"
+      ],
+      "primary_formula": "prose/fh nefelhgere/ta"
+    },
+    {
+      "line_num": "",
+      "character": "Zeus",
+      "line": "*zeu/s, e)pei\\ au)tw=| e)gw\\ malako\\n peri\\ kw=m' e)ka/luya:",
+      "type": "bare_mention",
+      "probability": 0.14473684210526316,
+      "surprisal": 2.7884958948062883,
+      "is_deviation": true
+    },
+    {
+      "line_num": "",
+      "character": "Hector",
+      "line": "*trw=as d' au)=q' e(te/rwqen e)ko/smei fai/dimos *(/ektwr.",
+      "type": "bare_mention",
+      "probability": 0.5891089108910891,
+      "surprisal": 0.7633937194438513,
+      "is_deviation": false
+    },
+    {
+      "line_num": "390",
+      "character": "Hector",
+      "line": "kuanoxai=ta *poseida/wn kai\\ fai/dimos *(/ektwr,",
+      "type": "formulaic",
+      "probability": 0.034653465346534656,
+      "surprisal": 4.850856560694191,
+      "is_deviation": true,
+      "detected_formulae": [
+        "kai\\ fai/dimos"
+      ],
+      "primary_formula": "kai\\ fai/dimos"
+    },
+    {
+      "line_num": "",
+      "character": "Hector",
+      "line": "*ai)/antos de\\ prw=tos a)ko/ntise fai/dimos *(/ektwr",
+      "type": "bare_mention",
+      "probability": 0.5891089108910891,
+      "surprisal": 0.7633937194438513,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Hector",
+      "line": "tw/ oi( r(usa/sqhn te/rena xro/a. xw/sato d' *(/ektwr,",
+      "type": "bare_mention",
+      "probability": 0.5891089108910891,
+      "surprisal": 0.7633937194438513,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Zeus",
+      "line": "*ca/nqou dinh/entos, o(\\n a)qa/natos te/keto *zeu/s,",
+      "type": "bare_mention",
+      "probability": 0.14473684210526316,
+      "surprisal": 2.7884958948062883,
+      "is_deviation": true
+    },
+    {
+      "line_num": "",
+      "character": "Achilles",
+      "line": "*phlei/+dew *)axilh=os: o(\\ d' a)nsth/sei o(\\n e(tai=ron",
+      "type": "bare_mention",
+      "probability": 0.4368932038834951,
+      "surprisal": 1.1946474308535437,
+      "is_deviation": false
+    },
+    {
+      "line_num": "65",
+      "character": "Hector",
+      "line": "*pa/troklon: to\\n de\\ ktenei= e)/gxei+ fai/dimos *(/ektwr",
+      "type": "bare_mention",
+      "probability": 0.5891089108910891,
+      "surprisal": 0.7633937194438513,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Achilles",
+      "line": "tou= de\\ xolwsa/menos ktenei= *(/ektora di=os *)axilleu/s.",
+      "type": "bare_mention",
+      "probability": 0.4368932038834951,
+      "surprisal": 1.1946474308535437,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Zeus",
+      "line": "au)ta\\r e)ph\\n e)/lqhte, *dio/s t' ei)s w)=pa i)/dhsqe,",
+      "type": "bare_mention",
+      "probability": 0.14473684210526316,
+      "surprisal": 2.7884958948062883,
+      "is_deviation": true
+    },
+    {
+      "line_num": "220",
+      "character": "Zeus",
+      "line": "kai\\ to/t' *)apo/llwna prose/fh nefelhgere/ta *zeu/s:",
+      "type": "formulaic",
+      "probability": 0.21052631578947367,
+      "surprisal": 2.2479275134435857,
+      "is_deviation": false,
+      "detected_formulae": [
+        "prose/fh nefelhgere/ta"
+      ],
+      "primary_formula": "prose/fh nefelhgere/ta"
+    },
+    {
+      "line_num": "",
+      "character": "Hector",
+      "line": "soi\\ d' au)tw=| mele/tw e(kathbo/le fai/dimos *(/ektwr:",
+      "type": "bare_mention",
+      "probability": 0.5891089108910891,
+      "surprisal": 0.7633937194438513,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Hector",
+      "line": "to\\n d' o)ligodrane/wn prose/fh koruqai/olos *(/ektwr:",
+      "type": "formulaic",
+      "probability": 0.04950495049504951,
+      "surprisal": 4.336283387864432,
+      "is_deviation": true,
+      "detected_formulae": [
+        "prose/fh koruqai/olos"
+      ],
+      "primary_formula": "prose/fh koruqai/olos"
+    },
+    {
+      "line_num": "",
+      "character": "Hector",
+      "line": "w(\\s *(/ektwr laiyhra\\ po/das kai\\ gou/nat' e)nw/ma",
+      "type": "bare_mention",
+      "probability": 0.5891089108910891,
+      "surprisal": 0.7633937194438513,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Hector",
+      "line": "*(/ektwr: h)= qh/n min ma/la e)/lpeto qumo\\s e(ka/stou",
+      "type": "bare_mention",
+      "probability": 0.5891089108910891,
+      "surprisal": 0.7633937194438513,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Hector",
+      "line": "*trw=es de\\ prou)/tuyan a)olle/es, h)=rxe d' a)/r' *(/ektwr",
+      "type": "bare_mention",
+      "probability": 0.5891089108910891,
+      "surprisal": 0.7633937194438513,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Hector",
+      "line": "*(/ektwr me\\n *stixi/on te kai\\ *)arkesi/laon e)/pefne,",
+      "type": "bare_mention",
+      "probability": 0.5891089108910891,
+      "surprisal": 0.7633937194438513,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Hector",
+      "line": "*(/ektwr de\\ *trw/essin e)ke/kleto makro\\n a)u/+sas",
+      "type": "bare_mention",
+      "probability": 0.5891089108910891,
+      "surprisal": 0.7633937194438513,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Zeus",
+      "line": "w(\\s e)/fat' eu)xo/menos, me/ga d' e)/ktupe mhti/eta *zeu/s,",
+      "type": "bare_mention",
+      "probability": 0.14473684210526316,
+      "surprisal": 2.7884958948062883,
+      "is_deviation": true
+    },
+    {
+      "line_num": "",
+      "character": "Achilles",
+      "line": "speu/somai ei)s *)axilh=a, i(/n' o)tru/nw polemi/zein.",
+      "type": "bare_mention",
+      "probability": 0.4368932038834951,
+      "surprisal": 1.1946474308535437,
+      "is_deviation": false
+    },
+    {
+      "line_num": "415",
+      "character": "Hector",
+      "line": "*(/ektwr d' a)/nt' *ai)/antos e)ei/sato kudali/moio.",
+      "type": "bare_mention",
+      "probability": 0.5891089108910891,
+      "surprisal": 0.7633937194438513,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Hector",
+      "line": "*(/ektwr d' w(s e)no/hsen a)neyio\\n o)fqalmoi=sin",
+      "type": "bare_mention",
+      "probability": 0.5891089108910891,
+      "surprisal": 0.7633937194438513,
+      "is_deviation": false
+    },
+    {
+      "line_num": "440",
+      "character": "Hector",
+      "line": "to\\n d' *(/ektwr mega/qumos a)pe/ktane. pou= nu/ toi i)oi\\",
+      "type": "bare_mention",
+      "probability": 0.5891089108910891,
+      "surprisal": 0.7633937194438513,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Hector",
+      "line": "*(/ektwr d' w(s ei)=den *teu/krou blafqe/nta be/lemna,",
+      "type": "bare_mention",
+      "probability": 0.5891089108910891,
+      "surprisal": 0.7633937194438513,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Hector",
+      "line": "h)= e)/lpesq' h)\\n nh=as e(/lh| koruqai/olos *(/ektwr",
+      "type": "bare_mention",
+      "probability": 0.5891089108910891,
+      "surprisal": 0.7633937194438513,
+      "is_deviation": false
+    },
+    {
+      "line_num": "515",
+      "character": "Hector",
+      "line": "e)/nq' *(/ektwr me\\n e(/le *sxedi/on *perimh/deos ui(o\\n",
+      "type": "bare_mention",
+      "probability": 0.5891089108910891,
+      "surprisal": 0.7633937194438513,
+      "is_deviation": false
+    },
+    {
+      "line_num": "545",
+      "character": "Hector",
+      "line": "sulh/sein: *(/ektwr de\\ kasignh/toisi ke/leuse",
+      "type": "bare_mention",
+      "probability": 0.5891089108910891,
+      "surprisal": 0.7633937194438513,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Hector",
+      "line": "to/n r(' *(/ektwr e)ne/nipen e)/pos t' e)/fat' e)/k t' o)no/mazen:",
+      "type": "bare_mention",
+      "probability": 0.5891089108910891,
+      "surprisal": 0.7633937194438513,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Hector",
+      "line": "w(\\s tre/se *nestori/dhs, e)pi\\ de\\ *trw=e/s te kai\\ *(/ektwr",
+      "type": "bare_mention",
+      "probability": 0.5891089108910891,
+      "surprisal": 0.7633937194438513,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Zeus",
+      "line": "*zeu/s, o(/s min pleo/nessi met' a)ndra/si mou=non e)o/nta",
+      "type": "bare_mention",
+      "probability": 0.14473684210526316,
+      "surprisal": 2.7884958948062883,
+      "is_deviation": true
+    },
+    {
+      "line_num": "",
+      "character": "Hector",
+      "line": "*(/ektwr d' o)cu\\ no/hse, qe/wn de/ oi( a)/gxi pare/sth,",
+      "type": "bare_mention",
+      "probability": 0.5891089108910891,
+      "surprisal": 0.7633937194438513,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Hector",
+      "line": "nhusi/ te kai\\ klisi/h|sin a)mune/men. ou)de\\ me\\n *(/ektwr",
+      "type": "bare_mention",
+      "probability": 0.5891089108910891,
+      "surprisal": 0.7633937194438513,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Hector",
+      "line": "w(\\s *(/ektwr i)/quse neo\\s kuanoprw/|roio",
+      "type": "bare_mention",
+      "probability": 0.5891089108910891,
+      "surprisal": 0.7633937194438513,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Hector",
+      "line": "*(/ektwr de\\ prumnh=s neo\\s h(/yato pontopo/roio",
+      "type": "bare_mention",
+      "probability": 0.5891089108910891,
+      "surprisal": 0.7633937194438513,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Hector",
+      "line": "*(/ektwr de\\ pru/mnhqen e)pei\\ la/ben ou)xi\\ meqi/ei",
+      "type": "bare_mention",
+      "probability": 0.5891089108910891,
+      "surprisal": 0.7633937194438513,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Achilles",
+      "line": "*pa/troklos d' *)axilh=i+ pari/stato poime/ni law=n",
+      "type": "bare_mention",
+      "probability": 0.4368932038834951,
+      "surprisal": 1.1946474308535437,
+      "is_deviation": false
+    },
+    {
+      "line_num": "5",
+      "character": "Achilles",
+      "line": "to\\n de\\ i)dw\\n w)/|ktire poda/rkhs di=os *)axilleu/s,",
+      "type": "formulaic",
+      "probability": 0.06796116504854369,
+      "surprisal": 3.8791456051256143,
+      "is_deviation": true,
+      "detected_formulae": [
+        "poda/rkhs di=os"
+      ],
+      "primary_formula": "poda/rkhs di=os"
+    },
+    {
+      "line_num": "",
+      "character": "Achilles",
+      "line": "w)= *)axileu= *phlh=os ui(e\\ me/ga fe/rtat' *)axaiw=n",
+      "type": "bare_mention",
+      "probability": 0.4368932038834951,
+      "surprisal": 1.1946474308535437,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Achilles",
+      "line": "e(/lke' a)keio/menoi: su\\ d' a)mh/xanos e)/pleu *)axilleu=.",
+      "type": "bare_mention",
+      "probability": 0.4368932038834951,
+      "surprisal": 1.1946474308535437,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Achilles",
+      "line": "to\\n de\\ me/g' o)xqh/sas prose/fh po/das w)ku\\s *)axilleu/s:",
+      "type": "formulaic",
+      "probability": 0.11165048543689321,
+      "surprisal": 3.1629385711262055,
+      "is_deviation": false,
+      "detected_formulae": [
+        "prose/fh po/das w)ku\\s",
+        "prose/fh po/das",
+        "o)xqh/sas prose/fh po/das w)ku\\s",
+        "o)xqh/sas prose/fh po/das"
+      ],
+      "primary_formula": "prose/fh po/das w)ku\\s"
+    },
+    {
+      "line_num": "",
+      "character": "Hector",
+      "line": "*(/ektwr *ai)/antos do/ru mei/linon a)/gxi parasta\\s",
+      "type": "bare_mention",
+      "probability": 0.5891089108910891,
+      "surprisal": 0.7633937194438513,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Achilles",
+      "line": "to/n r(a/ pot' *)heti/wnos e(lw\\n po/lin h)/gag' *)axilleu/s,",
+      "type": "bare_mention",
+      "probability": 0.4368932038834951,
+      "surprisal": 1.1946474308535437,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Achilles",
+      "line": "r(w/ont': e)n d' a)/ra toi=sin a)rh/i+os i(/stat' *)axilleu/s,",
+      "type": "bare_mention",
+      "probability": 0.4368932038834951,
+      "surprisal": 1.1946474308535437,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Zeus",
+      "line": "ou)rano\\n ei)sanidw/n: *di/a d' ou) la/qe terpike/raunon:",
+      "type": "bare_mention",
+      "probability": 0.14473684210526316,
+      "surprisal": 2.7884958948062883,
+      "is_deviation": true
+    },
+    {
+      "line_num": "",
+      "character": "Hector",
+      "line": "qa/rsunon de/ oi( h)=tor e)ni\\ fresi/n, o)/fra kai\\ *(/ektwr",
+      "type": "bare_mention",
+      "probability": 0.5891089108910891,
+      "surprisal": 0.7633937194438513,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Zeus",
+      "line": "w(\\s e)/fat' eu)xo/menos, tou= d' e)/klue mhti/eta *zeu/s.",
+      "type": "bare_mention",
+      "probability": 0.14473684210526316,
+      "surprisal": 2.7884958948062883,
+      "is_deviation": true
+    },
+    {
+      "line_num": "",
+      "character": "Achilles",
+      "line": "*murmido/nes e(/taroi *phlhi+a/dew *)axilh=os",
+      "type": "bare_mention",
+      "probability": 0.4368932038834951,
+      "surprisal": 1.1946474308535437,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Zeus",
+      "line": "kinh/sh| pukinh\\n nefe/lhn sterophgere/ta *zeu/s,",
+      "type": "bare_mention",
+      "probability": 0.14473684210526316,
+      "surprisal": 2.7884958948062883,
+      "is_deviation": true
+    },
+    {
+      "line_num": "",
+      "character": "Zeus",
+      "line": "*zeu/s, o(/te dh/ r(' a)/ndressi kotessa/menos xaleph/nh|,",
+      "type": "bare_mention",
+      "probability": 0.14473684210526316,
+      "surprisal": 2.7884958948062883,
+      "is_deviation": true
+    },
+    {
+      "line_num": "",
+      "character": "Hector",
+      "line": "*(/ektwr xwo/menos *sarphdo/nos. au)ta\\r *)axaiou\\s",
+      "type": "bare_mention",
+      "probability": 0.5891089108910891,
+      "surprisal": 0.7633937194438513,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Hector",
+      "line": "to/n r(a to/q' a(pto/menon ne/kuos ba/le fai/dimos *(/ektwr",
+      "type": "bare_mention",
+      "probability": 0.5891089108910891,
+      "surprisal": 0.7633937194438513,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Hector",
+      "line": "xw/rhsan d' u(po/ te pro/maxoi kai\\ fai/dimos *(/ektwr.",
+      "type": "formulaic",
+      "probability": 0.034653465346534656,
+      "surprisal": 4.850856560694191,
+      "is_deviation": true,
+      "detected_formulae": [
+        "kai\\ fai/dimos",
+        "te pro/maxoi kai\\ fai/dimos",
+        "pro/maxoi kai\\ fai/dimos"
+      ],
+      "primary_formula": "kai\\ fai/dimos"
+    },
+    {
+      "line_num": "",
+      "character": "Hector",
+      "line": "au)tou= e)p' a)ntiqe/w| *sarphdo/ni fai/dimos *(/ektwr",
+      "type": "bare_mention",
+      "probability": 0.5891089108910891,
+      "surprisal": 0.7633937194438513,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Achilles",
+      "line": "o)/fr' h)u\\+s qera/pwn *phlhi+a/dew *)axilh=os",
+      "type": "bare_mention",
+      "probability": 0.4368932038834951,
+      "surprisal": 1.1946474308535437,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Zeus",
+      "line": "kai\\ to/t' *)apo/llwna prose/fh nefelhgere/ta *zeu/s:",
+      "type": "formulaic",
+      "probability": 0.21052631578947367,
+      "surprisal": 2.2479275134435857,
+      "is_deviation": false,
+      "detected_formulae": [
+        "prose/fh nefelhgere/ta"
+      ],
+      "primary_formula": "prose/fh nefelhgere/ta"
+    },
+    {
+      "line_num": "",
+      "character": "Hector",
+      "line": "*(/ektwr d' e)n *skaih=|si pu/lh|s e)/xe mw/nuxas i(/ppous:",
+      "type": "bare_mention",
+      "probability": 0.5891089108910891,
+      "surprisal": 0.7633937194438513,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Hector",
+      "line": "*kebrio/nh| d' e)ke/leuse dai/+froni fai/dimos *(/ektwr",
+      "type": "bare_mention",
+      "probability": 0.5891089108910891,
+      "surprisal": 0.7633937194438513,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Hector",
+      "line": "*(/ektwr d' a)/llous me\\n *danaou\\s e)/a ou)d' e)na/rizen:",
+      "type": "bare_mention",
+      "probability": 0.5891089108910891,
+      "surprisal": 0.7633937194438513,
+      "is_deviation": false
+    },
+    {
+      "line_num": "755",
+      "character": "Hector",
+      "line": "*(/ektwr d' au)=q' e(te/rwqen a)f' i(/ppwn a)=lto xama=ze.",
+      "type": "bare_mention",
+      "probability": 0.5891089108910891,
+      "surprisal": 0.7633937194438513,
+      "is_deviation": false
+    },
+    {
+      "line_num": "760",
+      "character": "Hector",
+      "line": "*pa/troklo/s te *menoitia/dhs kai\\ fai/dimos *(/ektwr",
+      "type": "formulaic",
+      "probability": 0.034653465346534656,
+      "surprisal": 4.850856560694191,
+      "is_deviation": true,
+      "detected_formulae": [
+        "kai\\ fai/dimos"
+      ],
+      "primary_formula": "kai\\ fai/dimos"
+    },
+    {
+      "line_num": "",
+      "character": "Hector",
+      "line": "*(/ektwr me\\n kefalh=fin e)pei\\ la/ben ou)xi\\ meqi/ei:",
+      "type": "bare_mention",
+      "probability": 0.5891089108910891,
+      "surprisal": 0.7633937194438513,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Hector",
+      "line": "*(/ektwr d' w(s ei)=den *patroklh=a mega/qumon",
+      "type": "bare_mention",
+      "probability": 0.5891089108910891,
+      "surprisal": 0.7633937194438513,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Hector",
+      "line": "*(/ektwr *priami/dhs sxedo\\n e)/gxei+ qumo\\n a)phu/ra,",
+      "type": "bare_mention",
+      "probability": 0.5891089108910891,
+      "surprisal": 0.7633937194438513,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Achilles",
+      "line": "a)= dei/l', ou)de/ toi e)sqlo\\s e)w\\n xrai/smhsen *)axilleu/s,",
+      "type": "bare_mention",
+      "probability": 0.4368932038834951,
+      "surprisal": 1.1946474308535437,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Achilles",
+      "line": "xersi\\ dame/nt' *)axilh=os a)mu/monos *ai)aki/dao.",
+      "type": "bare_mention",
+      "probability": 0.4368932038834951,
+      "surprisal": 1.1946474308535437,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Hector",
+      "line": "to\\n kai\\ teqnhw=ta proshu/da fai/dimos *(/ektwr:",
+      "type": "bare_mention",
+      "probability": 0.5891089108910891,
+      "surprisal": 0.7633937194438513,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Achilles",
+      "line": "a)/llw| g' h)\\ *)axilh=i+, to\\n a)qana/th te/ke mh/thr.",
+      "type": "bare_mention",
+      "probability": 0.4368932038834951,
+      "surprisal": 1.1946474308535437,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Hector",
+      "line": "*trw=as d' e)nqa/de pa/ntas a)/gei koruqai/olos *(/ektwr.",
+      "type": "bare_mention",
+      "probability": 0.5891089108910891,
+      "surprisal": 0.7633937194438513,
+      "is_deviation": false
+    },
+    {
+      "line_num": "105",
+      "character": "Achilles",
+      "line": "*phlei/+dh| *)axilh=i+: kakw=n de/ ke fe/rtaton ei)/h.",
+      "type": "bare_mention",
+      "probability": 0.4368932038834951,
+      "surprisal": 1.1946474308535437,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Hector",
+      "line": "to/fra d' e)pi\\ *trw/wn sti/xes h)/luqon: h)=rxe d' a)/r' *(/ektwr.",
+      "type": "bare_mention",
+      "probability": 0.5891089108910891,
+      "surprisal": 0.7633937194438513,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Hector",
+      "line": "gumno/n: a)ta\\r ta/ ge teu/xe' e)/xei koruqai/olos *(/ektwr.",
+      "type": "formulaic",
+      "probability": 0.01485148514851485,
+      "surprisal": 6.073248982030639,
+      "is_deviation": true,
+      "detected_formulae": [
+        "ge teu/xe' e)/xei koruqai/olos",
+        "teu/xe' e)/xei koruqai/olos"
+      ],
+      "primary_formula": "ge teu/xe' e)/xei koruqai/olos"
+    },
+    {
+      "line_num": "125",
+      "character": "Hector",
+      "line": "*(/ektwr me\\n *pa/troklon e)pei\\ kluta\\ teu/xe' a)phu/ra,",
+      "type": "bare_mention",
+      "probability": 0.5891089108910891,
+      "surprisal": 0.7633937194438513,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Hector",
+      "line": "*(/ektwr d' a)\\y e)s o(/milon i)w\\n a)nexa/zeq' e(tai/rwn,",
+      "type": "bare_mention",
+      "probability": 0.5891089108910891,
+      "surprisal": 0.7633937194438513,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Hector",
+      "line": "to\\n d' a)/r' u(po/dra i)dw\\n prose/fh koruqai/olos *(/ektwr:",
+      "type": "formulaic",
+      "probability": 0.04950495049504951,
+      "surprisal": 4.336283387864432,
+      "is_deviation": true,
+      "detected_formulae": [
+        "prose/fh koruqai/olos",
+        "u(po/dra i)dw\\n prose/fh koruqai/olos",
+        "u(po/dra i)dw\\n prose/fh",
+        "i)dw\\n prose/fh koruqai/olos"
+      ],
+      "primary_formula": "prose/fh koruqai/olos"
+    },
+    {
+      "line_num": "",
+      "character": "Achilles",
+      "line": "o)/fr' a)\\n e)gw\\n *)axilh=os a)mu/monos e)/ntea du/w",
+      "type": "bare_mention",
+      "probability": 0.4368932038834951,
+      "surprisal": 1.1946474308535437,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Hector",
+      "line": "w(\\s a)/ra fwnh/sas a)pe/bh koruqai/olos *(/ektwr",
+      "type": "formulaic",
+      "probability": 0.01485148514851485,
+      "surprisal": 6.073248982030639,
+      "is_deviation": true,
+      "detected_formulae": [
+        "a)/ra fwnh/sas a)pe/bh koruqai/olos",
+        "a)/ra fwnh/sas a)pe/bh",
+        "fwnh/sas a)pe/bh koruqai/olos"
+      ],
+      "primary_formula": "a)/ra fwnh/sas a)pe/bh koruqai/olos"
+    },
+    {
+      "line_num": "195",
+      "character": "Achilles",
+      "line": "*phlei/+dew *)axilh=os a(/ oi( qeoi\\ *ou)rani/wnes",
+      "type": "bare_mention",
+      "probability": 0.4368932038834951,
+      "surprisal": 1.1946474308535437,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Hector",
+      "line": "*(/ektwr, h(mi=n d' au)=t' a)nafai/netai ai)pu\\s o)/leqros.",
+      "type": "bare_mention",
+      "probability": 0.5891089108910891,
+      "surprisal": 0.7633937194438513,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Hector",
+      "line": "*trw=es de\\ prou)/tuyan a)olle/es: h)=rxe d' a)/r' *(/ektwr.",
+      "type": "bare_mention",
+      "probability": 0.5891089108910891,
+      "surprisal": 0.7633937194438513,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Hector",
+      "line": "*(/ektwr d' au)=t' *ai)/antos a)ko/ntise douri\\ faeinw=|:",
+      "type": "bare_mention",
+      "probability": 0.5891089108910891,
+      "surprisal": 0.7633937194438513,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Hector",
+      "line": "xw/rhsan d' u(po/ te pro/maxoi kai\\ fai/dimos *(/ektwr:",
+      "type": "formulaic",
+      "probability": 0.034653465346534656,
+      "surprisal": 4.850856560694191,
+      "is_deviation": true,
+      "detected_formulae": [
+        "kai\\ fai/dimos",
+        "te pro/maxoi kai\\ fai/dimos",
+        "pro/maxoi kai\\ fai/dimos"
+      ],
+      "primary_formula": "kai\\ fai/dimos"
+    },
+    {
+      "line_num": "",
+      "character": "Achilles",
+      "line": "h)/|dee *pa/troklon teqnho/ta di=os *)axilleu/s:",
+      "type": "bare_mention",
+      "probability": 0.4368932038834951,
+      "surprisal": 1.1946474308535437,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Hector",
+      "line": "*(/ektwr *priami/dhs e)poxh/setai: ou) ga\\r e)a/sw.",
+      "type": "bare_mention",
+      "probability": 0.5891089108910891,
+      "surprisal": 0.7633937194438513,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Hector",
+      "line": "mou=nos: a)ta/r toi e(tai=ros a)pe/ktato, teu/xea d' *(/ektwr",
+      "type": "bare_mention",
+      "probability": 0.5891089108910891,
+      "surprisal": 0.7633937194438513,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Hector",
+      "line": "*au)tome/dwn d' a)po/rouse: no/hse de\\ fai/dimos *(/ektwr,",
+      "type": "bare_mention",
+      "probability": 0.5891089108910891,
+      "surprisal": 0.7633937194438513,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Hector",
+      "line": "*(/ektwr *ai)nei/as q', oi(\\ *trw/wn ei)si\\n a)/ristoi.",
+      "type": "bare_mention",
+      "probability": 0.5891089108910891,
+      "surprisal": 0.7633937194438513,
+      "is_deviation": false
+    },
+    {
+      "line_num": "525",
+      "character": "Hector",
+      "line": "*(/ektwr d' *au)tome/dontos a)ko/ntise douri\\ faeinw=|:",
+      "type": "bare_mention",
+      "probability": 0.5891089108910891,
+      "surprisal": 0.7633937194438513,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Hector",
+      "line": "*(/ektwr *ai)nei/as t' h)de\\ *xromi/os qeoeidh/s,",
+      "type": "bare_mention",
+      "probability": 0.5891089108910891,
+      "surprisal": 0.7633937194438513,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Achilles",
+      "line": "e)/ssetai ei)/ k' *)axilh=os a)gauou= pisto\\n e(tai=ron",
+      "type": "bare_mention",
+      "probability": 0.4368932038834951,
+      "surprisal": 1.1946474308535437,
+      "is_deviation": false
+    },
+    {
+      "line_num": "565",
+      "character": "Hector",
+      "line": "a)ll' *(/ektwr puro\\s ai)no\\n e)/xei me/nos, ou)d' a)polh/gei",
+      "type": "bare_mention",
+      "probability": 0.5891089108910891,
+      "surprisal": 0.7633937194438513,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Hector",
+      "line": "a)fneio/s t' a)gaqo/s te: ma/lista de/ min ti/en *(/ektwr",
+      "type": "bare_mention",
+      "probability": 0.5891089108910891,
+      "surprisal": 0.7633937194438513,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Hector",
+      "line": "*lh/i+ton au)=q' *(/ektwr sxedo\\n ou)/tase xei=r' e)pi\\ karpw=|",
+      "type": "bare_mention",
+      "probability": 0.5891089108910891,
+      "surprisal": 0.7633937194438513,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Zeus",
+      "line": "*zeu/s, o(/te dh\\ *trw/essi di/dou e(teralke/a ni/khn.",
+      "type": "bare_mention",
+      "probability": 0.14473684210526316,
+      "surprisal": 2.7884958948062883,
+      "is_deviation": true
+    },
+    {
+      "line_num": "",
+      "character": "Achilles",
+      "line": "o)/trunon d' *)axilh=i+ dai/+froni qa=sson i)o/nta",
+      "type": "bare_mention",
+      "probability": 0.4368932038834951,
+      "surprisal": 1.1946474308535437,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Achilles",
+      "line": "a)lla\\ su/ g' ai)=y' *)axilh=i+ qe/wn e)pi\\ nh=as *)axaiw=n",
+      "type": "bare_mention",
+      "probability": 0.4368932038834951,
+      "surprisal": 1.1946474308535437,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Hector",
+      "line": "gumno/n: a)ta\\r ta/ ge teu/xe' e)/xei koruqai/olos *(/ektwr.",
+      "type": "formulaic",
+      "probability": 0.01485148514851485,
+      "surprisal": 6.073248982030639,
+      "is_deviation": true,
+      "detected_formulae": [
+        "ge teu/xe' e)/xei koruqai/olos",
+        "teu/xe' e)/xei koruqai/olos"
+      ],
+      "primary_formula": "ge teu/xe' e)/xei koruqai/olos"
+    },
+    {
+      "line_num": "",
+      "character": "Achilles",
+      "line": "*phlei/+dh| *)axilh=i+ kako\\n e)/pos a)ggele/onta.",
+      "type": "bare_mention",
+      "probability": 0.4368932038834951,
+      "surprisal": 1.1946474308535437,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Achilles",
+      "line": "e)lqei=n ei)s *)axilh=a po/das taxu/n: ou)de/ min oi)/w",
+      "type": "bare_mention",
+      "probability": 0.4368932038834951,
+      "surprisal": 1.1946474308535437,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Hector",
+      "line": "*ai)nei/as t' *)agxisia/dhs kai\\ fai/dimos *(/ektwr.",
+      "type": "formulaic",
+      "probability": 0.034653465346534656,
+      "surprisal": 4.850856560694191,
+      "is_deviation": true,
+      "detected_formulae": [
+        "kai\\ fai/dimos"
+      ],
+      "primary_formula": "kai\\ fai/dimos"
+    },
+    {
+      "line_num": "",
+      "character": "Achilles",
+      "line": "*)anti/loxos d' *)axilh=i+ po/das taxu\\s a)/ggelos h)=lqe.",
+      "type": "bare_mention",
+      "probability": 0.4368932038834951,
+      "surprisal": 1.1946474308535437,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Hector",
+      "line": "gumnou=: a)ta\\r ta/ ge teu/xe' e)/xei koruqai/olos *(/ektwr.",
+      "type": "formulaic",
+      "probability": 0.01485148514851485,
+      "surprisal": 6.073248982030639,
+      "is_deviation": true,
+      "detected_formulae": [
+        "ge teu/xe' e)/xei koruqai/olos",
+        "teu/xe' e)/xei koruqai/olos"
+      ],
+      "primary_formula": "ge teu/xe' e)/xei koruqai/olos"
+    },
+    {
+      "line_num": "30",
+      "character": "Achilles",
+      "line": "e)/dramon a)mf' *)axilh=a dai/+frona, xersi\\ de\\ pa=sai",
+      "type": "bare_mention",
+      "probability": 0.4368932038834951,
+      "surprisal": 1.1946474308535437,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Achilles",
+      "line": "xei=ras e)/xwn *)axilh=os: o(\\ d' e)/stene kuda/limon kh=r:",
+      "type": "bare_mention",
+      "probability": 0.4368932038834951,
+      "surprisal": 1.1946474308535437,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Achilles",
+      "line": "*murmido/nwn ei)/runto ne/es taxu\\n a)mf' *)axilh=a.",
+      "type": "bare_mention",
+      "probability": 0.4368932038834951,
+      "surprisal": 1.1946474308535437,
+      "is_deviation": false
+    },
+    {
+      "line_num": "75",
+      "character": "Zeus",
+      "line": "e)k *dio/s, w(s a)/ra dh\\ pri/n g' eu)/xeo xei=ras a)nasxw\\n",
+      "type": "bare_mention",
+      "probability": 0.14473684210526316,
+      "surprisal": 2.7884958948062883,
+      "is_deviation": true
+    },
+    {
+      "line_num": "",
+      "character": "Achilles",
+      "line": "th\\n de\\ baru\\ stena/xwn prose/fh po/das w)ku\\s *)axilleu/s:",
+      "type": "formulaic",
+      "probability": 0.11165048543689321,
+      "surprisal": 3.1629385711262055,
+      "is_deviation": false,
+      "detected_formulae": [
+        "prose/fh po/das w)ku\\s",
+        "prose/fh po/das"
+      ],
+      "primary_formula": "prose/fh po/das w)ku\\s"
+    },
+    {
+      "line_num": "",
+      "character": "Hector",
+      "line": "i)=son e)mh=| kefalh=|; to\\n a)pw/lesa, teu/xea d' *(/ektwr",
+      "type": "bare_mention",
+      "probability": 0.5891089108910891,
+      "surprisal": 0.7633937194438513,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Hector",
+      "line": "zw/ein ou)d' a)/ndressi mete/mmenai, ai)/ ke mh\\ *(/ektwr",
+      "type": "bare_mention",
+      "probability": 0.5891089108910891,
+      "surprisal": 0.7633937194438513,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Achilles",
+      "line": "th\\n de\\ me/g' o)xqh/sas prose/fh po/das w)ku\\s *)axilleu/s:",
+      "type": "formulaic",
+      "probability": 0.11165048543689321,
+      "surprisal": 3.1629385711262055,
+      "is_deviation": false,
+      "detected_formulae": [
+        "prose/fh po/das w)ku\\s",
+        "prose/fh po/das",
+        "o)xqh/sas prose/fh po/das w)ku\\s",
+        "o)xqh/sas prose/fh po/das"
+      ],
+      "primary_formula": "prose/fh po/das w)ku\\s"
+    },
+    {
+      "line_num": "",
+      "character": "Hector",
+      "line": "xa/lkea marmai/ronta: ta\\ me\\n koruqai/olos *(/ektwr",
+      "type": "bare_mention",
+      "probability": 0.5891089108910891,
+      "surprisal": 0.7633937194438513,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Achilles",
+      "line": "e)k bele/wn e)ru/santo ne/kun qera/pont' *)axilh=os:",
+      "type": "bare_mention",
+      "probability": 0.4368932038834951,
+      "surprisal": 1.1946474308535437,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Hector",
+      "line": "*(/ektwr te *pria/moio pa/i+s flogi\\ ei)/kelos a)lkh/n.",
+      "type": "bare_mention",
+      "probability": 0.5891089108910891,
+      "surprisal": 0.7633937194438513,
+      "is_deviation": false
+    },
+    {
+      "line_num": "155",
+      "character": "Hector",
+      "line": "tri\\s me/n min meto/pisqe podw=n la/be fai/dimos *(/ektwr",
+      "type": "bare_mention",
+      "probability": 0.5891089108910891,
+      "surprisal": 0.7633937194438513,
+      "is_deviation": false
+    },
+    {
+      "line_num": "175",
+      "character": "Hector",
+      "line": "*trw=es e)piqu/ousi: ma/lista de\\ fai/dimos *(/ektwr",
+      "type": "bare_mention",
+      "probability": 0.5891089108910891,
+      "surprisal": 0.7633937194438513,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Achilles",
+      "line": "th\\n d' h)mei/bet' e)/peita poda/rkhs di=os *)axilleu/s:",
+      "type": "formulaic",
+      "probability": 0.06796116504854369,
+      "surprisal": 3.8791456051256143,
+      "is_deviation": true,
+      "detected_formulae": [
+        "poda/rkhs di=os"
+      ],
+      "primary_formula": "poda/rkhs di=os"
+    },
+    {
+      "line_num": "",
+      "character": "Achilles",
+      "line": "th\\n d' a)pameibo/menos prose/fh po/das w)ku\\s *)axilleu/s:",
+      "type": "formulaic",
+      "probability": 0.11165048543689321,
+      "surprisal": 3.1629385711262055,
+      "is_deviation": false,
+      "detected_formulae": [
+        "prose/fh po/das w)ku\\s",
+        "prose/fh po/das",
+        "a)pameibo/menos prose/fh po/das w)ku\\s",
+        "a)pameibo/menos prose/fh po/das",
+        "a)pameibo/menos prose/fh"
+      ],
+      "primary_formula": "prose/fh po/das w)ku\\s"
+    },
+    {
+      "line_num": "",
+      "character": "Achilles",
+      "line": "tri\\s me\\n u(pe\\r ta/frou mega/l' i)/axe di=os *)axilleu/s,",
+      "type": "bare_mention",
+      "probability": 0.4368932038834951,
+      "surprisal": 1.1946474308535437,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Hector",
+      "line": "to\\n d' a)/r' u(po/dra i)dw\\n prose/fh koruqai/olos *(/ektwr:",
+      "type": "formulaic",
+      "probability": 0.04950495049504951,
+      "surprisal": 4.336283387864432,
+      "is_deviation": true,
+      "detected_formulae": [
+        "prose/fh koruqai/olos",
+        "u(po/dra i)dw\\n prose/fh koruqai/olos",
+        "u(po/dra i)dw\\n prose/fh",
+        "i)dw\\n prose/fh koruqai/olos"
+      ],
+      "primary_formula": "prose/fh koruqai/olos"
+    },
+    {
+      "line_num": "",
+      "character": "Zeus",
+      "line": "kth/mata perna/men' i(/kei, e)pei\\ me/gas w)du/sato *zeu/s.",
+      "type": "bare_mention",
+      "probability": 0.14473684210526316,
+      "surprisal": 2.7884958948062883,
+      "is_deviation": true
+    },
+    {
+      "line_num": "305",
+      "character": "Achilles",
+      "line": "ei) d' e)teo\\n para\\ nau=fin a)ne/sth di=os *)axilleu/s,",
+      "type": "bare_mention",
+      "probability": 0.4368932038834951,
+      "surprisal": 1.1946474308535437,
+      "is_deviation": false
+    },
+    {
+      "line_num": "310",
+      "character": "Hector",
+      "line": "w(\\s *(/ektwr a)go/reu', e)pi\\ de\\ *trw=es kela/dhsan",
+      "type": "bare_mention",
+      "probability": 0.5891089108910891,
+      "surprisal": 0.7633937194438513,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Achilles",
+      "line": "pannu/xioi me\\n e)/peita po/das taxu\\n a)mf' *)axilh=a",
+      "type": "bare_mention",
+      "probability": 0.4368932038834951,
+      "surprisal": 1.1946474308535437,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Achilles",
+      "line": "a)nsth/sas' *)axilh=a po/das taxu/n: h)= r(a/ nu sei=o",
+      "type": "bare_mention",
+      "probability": 0.4368932038834951,
+      "surprisal": 1.1946474308535437,
+      "is_deviation": false
+    },
+    {
+      "line_num": "55",
+      "character": "Achilles",
+      "line": "toi=si d' a)nista/menos mete/fh po/das w)ku\\s *)axilleu/s:",
+      "type": "bare_mention",
+      "probability": 0.4368932038834951,
+      "surprisal": 1.1946474308535437,
+      "is_deviation": false
+    },
+    {
+      "line_num": "120",
+      "character": "Zeus",
+      "line": "au)th\\ d' a)ggele/ousa *di/a *kroni/wna proshu/da:",
+      "type": "bare_mention",
+      "probability": 0.14473684210526316,
+      "surprisal": 2.7884958948062883,
+      "is_deviation": true
+    },
+    {
+      "line_num": "",
+      "character": "Hector",
+      "line": "w(\\s kai\\ e)gw/n, o(/te d' au)=te me/gas koruqai/olos *(/ektwr",
+      "type": "formulaic",
+      "probability": 0.0594059405940594,
+      "surprisal": 4.073248982030639,
+      "is_deviation": true,
+      "detected_formulae": [
+        "me/gas koruqai/olos"
+      ],
+      "primary_formula": "me/gas koruqai/olos"
+    },
+    {
+      "line_num": "",
+      "character": "Zeus",
+      "line": "a)ll' e)pei\\ a)asa/mhn kai/ meu fre/nas e)ce/leto *zeu/s,",
+      "type": "bare_mention",
+      "probability": 0.14473684210526316,
+      "surprisal": 2.7884958948062883,
+      "is_deviation": true
+    },
+    {
+      "line_num": "145",
+      "character": "Achilles",
+      "line": "to\\n d' a)pameibo/menos prose/fh po/das w)ku\\s *)axilleu/s:",
+      "type": "formulaic",
+      "probability": 0.11165048543689321,
+      "surprisal": 3.1629385711262055,
+      "is_deviation": false,
+      "detected_formulae": [
+        "prose/fh po/das w)ku\\s",
+        "prose/fh po/das",
+        "a)pameibo/menos prose/fh po/das w)ku\\s",
+        "a)pameibo/menos prose/fh po/das",
+        "a)pameibo/menos prose/fh"
+      ],
+      "primary_formula": "prose/fh po/das w)ku\\s"
+    },
+    {
+      "line_num": "",
+      "character": "Achilles",
+      "line": "w(/s ke/ tis au)=t' *)axilh=a meta\\ prw/toisin i)/dhtai",
+      "type": "bare_mention",
+      "probability": 0.4368932038834951,
+      "surprisal": 1.1946474308535437,
+      "is_deviation": false
+    },
+    {
+      "line_num": "155",
+      "character": "Achilles",
+      "line": "mh\\ d' ou(/tws, a)gaqo/s per e)w/n, qeoei/kel' *)axilleu=",
+      "type": "bare_mention",
+      "probability": 0.4368932038834951,
+      "surprisal": 1.1946474308535437,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Zeus",
+      "line": "e)n moi/rh| ga\\r pa/nta dii/keo kai\\ kate/lecas.",
+      "type": "bare_mention",
+      "probability": 0.14473684210526316,
+      "surprisal": 2.7884958948062883,
+      "is_deviation": true
+    },
+    {
+      "line_num": "",
+      "character": "Achilles",
+      "line": "dw=ra e)mh=s para\\ nho\\s e)neike/men, o(/ss' *)axilh=i+",
+      "type": "bare_mention",
+      "probability": 0.4368932038834951,
+      "surprisal": 1.1946474308535437,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Zeus",
+      "line": "ka/pron e(toimasa/tw tame/ein *dii/ t' *)heli/w| te.",
+      "type": "bare_mention",
+      "probability": 0.14473684210526316,
+      "surprisal": 2.7884958948062883,
+      "is_deviation": true
+    },
+    {
+      "line_num": "",
+      "character": "Achilles",
+      "line": "to\\n d' a)pameibo/menos prose/fh po/das w)ku\\s *)axilleu/s:",
+      "type": "formulaic",
+      "probability": 0.11165048543689321,
+      "surprisal": 3.1629385711262055,
+      "is_deviation": false,
+      "detected_formulae": [
+        "prose/fh po/das w)ku\\s",
+        "prose/fh po/das",
+        "a)pameibo/menos prose/fh po/das w)ku\\s",
+        "a)pameibo/menos prose/fh po/das",
+        "a)pameibo/menos prose/fh"
+      ],
+      "primary_formula": "prose/fh po/das w)ku\\s"
+    },
+    {
+      "line_num": "",
+      "character": "Hector",
+      "line": "*(/ektwr *priami/dhs, o(/te oi( *zeu\\s ku=dos e)/dwken,",
+      "type": "formulaic",
+      "probability": 0.01485148514851485,
+      "surprisal": 6.073248982030639,
+      "is_deviation": true,
+      "detected_formulae": [
+        "*priami/dhs, o(/te oi( *zeu\\s",
+        "*priami/dhs, o(/te oi("
+      ],
+      "primary_formula": "*priami/dhs, o(/te oi( *zeu\\s"
+    },
+    {
+      "line_num": "",
+      "character": "Achilles",
+      "line": "w)= *)axileu= *phlh=os ui(e\\ me/ga fe/rtat' *)axaiw=n,",
+      "type": "bare_mention",
+      "probability": 0.4368932038834951,
+      "surprisal": 1.1946474308535437,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Zeus",
+      "line": "*zeu/s, o(/s t' a)nqrw/pwn tami/hs pole/moio te/tuktai.",
+      "type": "bare_mention",
+      "probability": 0.14473684210526316,
+      "surprisal": 2.7884958948062883,
+      "is_deviation": true
+    },
+    {
+      "line_num": "",
+      "character": "Achilles",
+      "line": "h)= nu/ toi ou)ke/ti pa/gxu meta\\ fresi\\ me/mblet' *)axilleu/s;",
+      "type": "bare_mention",
+      "probability": 0.4368932038834951,
+      "surprisal": 1.1946474308535437,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Achilles",
+      "line": "au)ti/ka qwrh/ssonto kata\\ strato/n: h(\\ d' *)axilh=i+",
+      "type": "bare_mention",
+      "probability": 0.4368932038834951,
+      "surprisal": 1.1946474308535437,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Achilles",
+      "line": "a)ndrw=n: e)n de\\ me/soisi koru/sseto di=os *)axilleu/s.",
+      "type": "bare_mention",
+      "probability": 0.4368932038834951,
+      "surprisal": 1.1946474308535437,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Achilles",
+      "line": "peirh/qh d' e(/o au)tou= e)n e)/ntesi di=os *)axilleu/s,",
+      "type": "bare_mention",
+      "probability": 0.4368932038834951,
+      "surprisal": 1.1946474308535437,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Achilles",
+      "line": "pa/llein, a)lla/ min oi)=os e)pi/stato ph=lai *)axilleu/s:",
+      "type": "bare_mention",
+      "probability": 0.4368932038834951,
+      "surprisal": 1.1946474308535437,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Achilles",
+      "line": "kai\\ li/hn s' e)/ti nu=n ge saw/somen o)/brim' *)axilleu=:",
+      "type": "bare_mention",
+      "probability": 0.4368932038834951,
+      "surprisal": 1.1946474308535437,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Achilles",
+      "line": "to\\n de\\ me/g' o)xqh/sas prose/fh po/das w)ku\\s *)axilleu/s:",
+      "type": "formulaic",
+      "probability": 0.11165048543689321,
+      "surprisal": 3.1629385711262055,
+      "is_deviation": false,
+      "detected_formulae": [
+        "prose/fh po/das w)ku\\s",
+        "prose/fh po/das",
+        "o)xqh/sas prose/fh po/das w)ku\\s",
+        "o)xqh/sas prose/fh po/das"
+      ],
+      "primary_formula": "prose/fh po/das w)ku\\s"
+    },
+    {
+      "line_num": "",
+      "character": "Zeus",
+      "line": "to\\n d' a)pameibo/menos prose/fh nefelhgere/ta *zeu/s:",
+      "type": "formulaic",
+      "probability": 0.21052631578947367,
+      "surprisal": 2.2479275134435857,
+      "is_deviation": false,
+      "detected_formulae": [
+        "prose/fh nefelhgere/ta",
+        "d' a)pameibo/menos prose/fh nefelhgere/ta",
+        "d' a)pameibo/menos prose/fh",
+        "a)pameibo/menos prose/fh nefelhgere/ta",
+        "d' a)pameibo/menos",
+        "a)pameibo/menos prose/fh"
+      ],
+      "primary_formula": "prose/fh nefelhgere/ta"
+    },
+    {
+      "line_num": "85",
+      "character": "Achilles",
+      "line": "*phlei/+dew *)axilh=os e)nanti/bion polemi/cein;",
+      "type": "bare_mention",
+      "probability": 0.4368932038834951,
+      "surprisal": 1.1946474308535437,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Achilles",
+      "line": "ou) me\\n ga\\r nu=n prw=ta podw/keos a)/nt' *)axilh=os",
+      "type": "bare_mention",
+      "probability": 0.4368932038834951,
+      "surprisal": 1.1946474308535437,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Achilles",
+      "line": "tw\\ ou)k e)/st' *)axilh=os e)nanti/on a)/ndra ma/xesqai:",
+      "type": "bare_mention",
+      "probability": 0.4368932038834951,
+      "surprisal": 1.1946474308535437,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Zeus",
+      "line": "h(\\ me\\n ga\\r *dio/s e)sq', h(\\ d' e)c a(li/oio ge/rontos.",
+      "type": "bare_mention",
+      "probability": 0.14473684210526316,
+      "surprisal": 2.7884958948062883,
+      "is_deviation": true
+    },
+    {
+      "line_num": "120",
+      "character": "Achilles",
+      "line": "au)to/qen, h)/ tis e)/peita kai\\ h(mei/wn *)axilh=i+",
+      "type": "bare_mention",
+      "probability": 0.4368932038834951,
+      "surprisal": 1.1946474308535437,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Achilles",
+      "line": "h)\\ *)axilh=' i)/sxwsi kai\\ ou)k ei)w=si ma/xesqai,",
+      "type": "bare_mention",
+      "probability": 0.4368932038834951,
+      "surprisal": 1.1946474308535437,
+      "is_deviation": false
+    },
+    {
+      "line_num": "160",
+      "character": "Achilles",
+      "line": "*ai)nei/as t' *)agxisia/dhs kai\\ di=os *)axilleu/s.",
+      "type": "bare_mention",
+      "probability": 0.4368932038834951,
+      "surprisal": 1.1946474308535437,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Achilles",
+      "line": "w(\\s *)axilh=' o)/trune me/nos kai\\ qumo\\s a)gh/nwr",
+      "type": "bare_mention",
+      "probability": 0.4368932038834951,
+      "surprisal": 1.1946474308535437,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Achilles",
+      "line": "to\\n pro/teros prose/eipe poda/rkhs di=os *)axilleu/s:",
+      "type": "formulaic",
+      "probability": 0.06796116504854369,
+      "surprisal": 3.8791456051256143,
+      "is_deviation": true,
+      "detected_formulae": [
+        "prose/eipe poda/rkhs di=os",
+        "poda/rkhs di=os"
+      ],
+      "primary_formula": "poda/rkhs di=os"
+    },
+    {
+      "line_num": "215",
+      "character": "Zeus",
+      "line": "*da/rdanon au)= prw=ton te/keto nefelhgere/ta *zeu/s,",
+      "type": "bare_mention",
+      "probability": 0.14473684210526316,
+      "surprisal": 2.7884958948062883,
+      "is_deviation": true
+    },
+    {
+      "line_num": "",
+      "character": "Achilles",
+      "line": "*phlei/+dh| *)axilh=i+ damh/menai, e)sqlo\\n e)o/nta.",
+      "type": "bare_mention",
+      "probability": 0.4368932038834951,
+      "surprisal": 1.1946474308535437,
+      "is_deviation": false
+    },
+    {
+      "line_num": "320",
+      "character": "Achilles",
+      "line": "i(=ce d' o(/q' *ai)nei/as h)d' o(\\ kluto\\s h)=en *)axilleu/s.",
+      "type": "bare_mention",
+      "probability": 0.4368932038834951,
+      "surprisal": 1.1946474308535437,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Achilles",
+      "line": "*phlei/+dh| *)axilh=i+: o(\\ de\\ meli/hn eu)/xalkon",
+      "type": "bare_mention",
+      "probability": 0.4368932038834951,
+      "surprisal": 1.1946474308535437,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Achilles",
+      "line": "kai\\ th\\n me\\n propa/roiqe podw=n *)axilh=os e)/qhken,",
+      "type": "bare_mention",
+      "probability": 0.4368932038834951,
+      "surprisal": 1.1946474308535437,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Achilles",
+      "line": "ai)=ya d' e)/peit' *)axilh=os a)p' o)fqalmw=n ske/das' a)xlu\\n",
+      "type": "bare_mention",
+      "probability": 0.4368932038834951,
+      "surprisal": 1.1946474308535437,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Hector",
+      "line": "w(\\s fa/t' e)potru/nwn: *trw/essi de\\ fai/dimos *(/ektwr",
+      "type": "bare_mention",
+      "probability": 0.5891089108910891,
+      "surprisal": 0.7633937194438513,
+      "is_deviation": false
+    },
+    {
+      "line_num": "365",
+      "character": "Achilles",
+      "line": "ke/kleq' o(moklh/sas, fa/to d' i)/menai a)/nt' *)axilh=os:",
+      "type": "bare_mention",
+      "probability": 0.4368932038834951,
+      "surprisal": 1.1946474308535437,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Hector",
+      "line": "w(\\s e)/faq', *(/ektwr d' au)=tis e)du/seto ou)lamo\\n a)ndrw=n",
+      "type": "bare_mention",
+      "probability": 0.5891089108910891,
+      "surprisal": 0.7633937194438513,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Achilles",
+      "line": "dou/phsen de\\ pesw/n, o(\\ d' e)peu/cato di=os *)axilleu/s:",
+      "type": "bare_mention",
+      "probability": 0.4368932038834951,
+      "surprisal": 1.1946474308535437,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Hector",
+      "line": "*(/ektwr d' w(s e)no/hse kasi/gnhton *polu/dwron",
+      "type": "bare_mention",
+      "probability": 0.5891089108910891,
+      "surprisal": 0.7633937194438513,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Achilles",
+      "line": "dhro\\n e(ka\\s strwfa=sq', a)ll' a)nti/os h)=lq' *)axilh=i+",
+      "type": "bare_mention",
+      "probability": 0.4368932038834951,
+      "surprisal": 1.1946474308535437,
+      "is_deviation": false
+    },
+    {
+      "line_num": "430",
+      "character": "Hector",
+      "line": "to\\n d' ou) tarbh/sas prose/fh koruqai/olos *(/ektwr:",
+      "type": "formulaic",
+      "probability": 0.04950495049504951,
+      "surprisal": 4.336283387864432,
+      "is_deviation": true,
+      "detected_formulae": [
+        "prose/fh koruqai/olos"
+      ],
+      "primary_formula": "prose/fh koruqai/olos"
+    },
+    {
+      "line_num": "",
+      "character": "Zeus",
+      "line": "*ca/nqou dinh/entos, o(\\n a)qa/natos te/keto *zeu/s,",
+      "type": "bare_mention",
+      "probability": 0.14473684210526316,
+      "surprisal": 2.7884958948062883,
+      "is_deviation": true
+    },
+    {
+      "line_num": "5",
+      "character": "Hector",
+      "line": "h)/mati tw=| prote/rw|, o(/te mai/neto fai/dimos *(/ektwr:",
+      "type": "bare_mention",
+      "probability": 0.5891089108910891,
+      "surprisal": 0.7633937194438513,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Achilles",
+      "line": "tw=| d' a)/r' a)nw/i+ston kako\\n h)/luqe di=os *)axilleu/s.",
+      "type": "bare_mention",
+      "probability": 0.4368932038834951,
+      "surprisal": 1.1946474308535437,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Achilles",
+      "line": "gounou=mai s' *)axileu=: su\\ de/ m' ai)/deo kai/ m' e)le/hson:",
+      "type": "bare_mention",
+      "probability": 0.4368932038834951,
+      "surprisal": 1.1946474308535437,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Achilles",
+      "line": "to\\n pro/teros prose/eipe poda/rkhs di=os *)axilleu/s:",
+      "type": "formulaic",
+      "probability": 0.06796116504854369,
+      "surprisal": 3.8791456051256143,
+      "is_deviation": true,
+      "detected_formulae": [
+        "prose/eipe poda/rkhs di=os",
+        "poda/rkhs di=os"
+      ],
+      "primary_formula": "poda/rkhs di=os"
+    },
+    {
+      "line_num": "160",
+      "character": "Achilles",
+      "line": "gei/nasqai: nu=n au)=te maxw/meqa fai/dim' *)axilleu=.",
+      "type": "bare_mention",
+      "probability": 0.4368932038834951,
+      "surprisal": 1.1946474308535437,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Achilles",
+      "line": "a)=lt' e)pi/ oi( memaw/s: o(\\ d' a)/ra meli/hn *)axilh=os",
+      "type": "bare_mention",
+      "probability": 0.4368932038834951,
+      "surprisal": 1.1946474308535437,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Zeus",
+      "line": "kei/menon e)n yama/qoisi, di/aine de/ min me/lan u(/dwr.",
+      "type": "bare_mention",
+      "probability": 0.14473684210526316,
+      "surprisal": 2.7884958948062883,
+      "is_deviation": true
+    },
+    {
+      "line_num": "",
+      "character": "Achilles",
+      "line": "kai/ nu/ k' e)/ti ple/onas kta/ne *pai/onas w)ku\\s *)axilleu/s,",
+      "type": "bare_mention",
+      "probability": 0.4368932038834951,
+      "surprisal": 1.1946474308535437,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Achilles",
+      "line": "w)= *)axileu=, peri\\ me\\n krate/eis, peri\\ d' ai)/sula r(e/zeis",
+      "type": "bare_mention",
+      "probability": 0.4368932038834951,
+      "surprisal": 1.1946474308535437,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Achilles",
+      "line": "to\\n d' a)pameibo/menos prose/fh po/das w)ku\\s *)axilleu/s:",
+      "type": "formulaic",
+      "probability": 0.11165048543689321,
+      "surprisal": 3.1629385711262055,
+      "is_deviation": false,
+      "detected_formulae": [
+        "prose/fh po/das w)ku\\s",
+        "prose/fh po/das",
+        "a)pameibo/menos prose/fh po/das w)ku\\s",
+        "a)pameibo/menos prose/fh po/das",
+        "a)pameibo/menos prose/fh"
+      ],
+      "primary_formula": "prose/fh po/das w)ku\\s"
+    },
+    {
+      "line_num": "",
+      "character": "Achilles",
+      "line": "pollou/s, oi(/ r(a kat' au)to\\n a(/lis e)/san, ou(\\s kta/n' *)axilleu/s",
+      "type": "bare_mention",
+      "probability": 0.4368932038834951,
+      "surprisal": 1.1946474308535437,
+      "is_deviation": false
+    },
+    {
+      "line_num": "240",
+      "character": "Achilles",
+      "line": "deino\\n d' a)mf' *)axilh=a kukw/menon i(/stato ku=ma,",
+      "type": "bare_mention",
+      "probability": 0.4368932038834951,
+      "surprisal": 1.1946474308535437,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Achilles",
+      "line": "w(\\s ai)ei\\ *)axilh=a kixh/sato ku=ma r(o/oio",
+      "type": "bare_mention",
+      "probability": 0.4368932038834951,
+      "surprisal": 1.1946474308535437,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Hector",
+      "line": "w(/s m' o)/fel' *(/ektwr ktei=nai o(\\s e)nqa/de g' e)/traf' a)/ristos:",
+      "type": "bare_mention",
+      "probability": 0.5891089108910891,
+      "surprisal": 0.7633937194438513,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Achilles",
+      "line": "h)=, kai\\ e)pw=rt' *)axilh=i+ kukw/menos u(yo/se qu/wn",
+      "type": "bare_mention",
+      "probability": 0.4368932038834951,
+      "surprisal": 1.1946474308535437,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Achilles",
+      "line": "*(/hrh de\\ me/g' a)/u+se peridei/sas' *)axilh=i+",
+      "type": "bare_mention",
+      "probability": 0.4368932038834951,
+      "surprisal": 1.1946474308535437,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Achilles",
+      "line": "pollou/s, oi(/ r(a kat' au)to\\n a(/lis e)/san, ou(\\s kta/n' *)axilleu/s:",
+      "type": "bare_mention",
+      "probability": 0.4368932038834951,
+      "surprisal": 1.1946474308535437,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Achilles",
+      "line": "e)s d' e)no/hs' *)axilh=a pelw/rion: au)ta\\r u(p' au)tou=",
+      "type": "bare_mention",
+      "probability": 0.4368932038834951,
+      "surprisal": 1.1946474308535437,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Achilles",
+      "line": "w)/ moi e)gw/n: ei) me/n ken u(po\\ kraterou= *)axilh=os",
+      "type": "bare_mention",
+      "probability": 0.4368932038834951,
+      "surprisal": 1.1946474308535437,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Achilles",
+      "line": "*phlei/+dh| *)axilh=i+, posi\\n d' a)po\\ tei/xeos a)/llh|",
+      "type": "bare_mention",
+      "probability": 0.4368932038834951,
+      "surprisal": 1.1946474308535437,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Achilles",
+      "line": "w(\\s ei)pw\\n *)axilh=a a)lei\\s me/nen, e)n de/ oi( h)=tor",
+      "type": "bare_mention",
+      "probability": 0.4368932038834951,
+      "surprisal": 1.1946474308535437,
+      "is_deviation": false
+    },
+    {
+      "line_num": "580",
+      "character": "Achilles",
+      "line": "ou)k e)/qelen feu/gein, pri\\n peirh/sait' *)axilh=os.",
+      "type": "bare_mention",
+      "probability": 0.4368932038834951,
+      "surprisal": 1.1946474308535437,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Achilles",
+      "line": "h)= dh/ pou ma/l' e)/olpas e)ni\\ fresi\\ fai/dim' *)axilleu=",
+      "type": "bare_mention",
+      "probability": 0.4368932038834951,
+      "surprisal": 1.1946474308535437,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Achilles",
+      "line": "to\\n de\\ me/g' o)xqh/sas prose/fh po/das w)ku\\s *)axilleu/s:",
+      "type": "formulaic",
+      "probability": 0.11165048543689321,
+      "surprisal": 3.1629385711262055,
+      "is_deviation": false,
+      "detected_formulae": [
+        "prose/fh po/das w)ku\\s",
+        "prose/fh po/das",
+        "o)xqh/sas prose/fh po/das w)ku\\s",
+        "o)xqh/sas prose/fh po/das"
+      ],
+      "primary_formula": "prose/fh po/das w)ku\\s"
+    },
+    {
+      "line_num": "",
+      "character": "Achilles",
+      "line": "e(sth/kei a)/moton memaw\\s *)axilh=i+ ma/xesqai:",
+      "type": "bare_mention",
+      "probability": 0.4368932038834951,
+      "surprisal": 1.1946474308535437,
+      "is_deviation": false
+    },
+    {
+      "line_num": "55",
+      "character": "Achilles",
+      "line": "e)/ssetai, h)\\n mh\\ kai\\ su\\ qa/nh|s *)axilh=i+ damasqei/s.",
+      "type": "bare_mention",
+      "probability": 0.4368932038834951,
+      "surprisal": 1.1946474308535437,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Achilles",
+      "line": "a)ll' o(/ ge mi/mn' *)axilh=a pelw/rion a)=sson i)o/nta.",
+      "type": "bare_mention",
+      "probability": 0.4368932038834951,
+      "surprisal": 1.1946474308535437,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Hector",
+      "line": "w(\\s *(/ektwr a)/sbeston e)/xwn me/nos ou)x u(pexw/rei",
+      "type": "bare_mention",
+      "probability": 0.5891089108910891,
+      "surprisal": 0.7633937194438513,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Achilles",
+      "line": "nu/xq' u(/po th/nd' o)loh\\n o(/te t' w)/reto di=os *)axilleu/s.",
+      "type": "bare_mention",
+      "probability": 0.4368932038834951,
+      "surprisal": 1.1946474308535437,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Hector",
+      "line": "*(/ektwr h(=fi bi/hfi piqh/sas w)/lese lao/n.",
+      "type": "bare_mention",
+      "probability": 0.5891089108910891,
+      "surprisal": 0.7633937194438513,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Achilles",
+      "line": "a)/nthn h)\\ *)axilh=a kataktei/nanta ne/esqai,",
+      "type": "bare_mention",
+      "probability": 0.4368932038834951,
+      "surprisal": 1.1946474308535437,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Achilles",
+      "line": "au)to\\s i)w\\n *)axilh=os a)mu/monos a)nti/os e)/lqw",
+      "type": "bare_mention",
+      "probability": 0.4368932038834951,
+      "surprisal": 1.1946474308535437,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Hector",
+      "line": "w(\\s a)/r' o(/ g' e)mmemaw\\s i)qu\\s pe/teto, tre/se d' *(/ektwr",
+      "type": "bare_mention",
+      "probability": 0.5891089108910891,
+      "surprisal": 0.7633937194438513,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Achilles",
+      "line": "*phlei/+dh| *)axilh=i+ dama/ssomen e)sqlo\\n e)o/nta.",
+      "type": "bare_mention",
+      "probability": 0.4368932038834951,
+      "surprisal": 1.1946474308535437,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Zeus",
+      "line": "th\\n d' a)pameibo/menos prose/fh nefelhgere/ta *zeu/s:",
+      "type": "formulaic",
+      "probability": 0.21052631578947367,
+      "surprisal": 2.2479275134435857,
+      "is_deviation": false,
+      "detected_formulae": [
+        "prose/fh nefelhgere/ta",
+        "d' a)pameibo/menos prose/fh nefelhgere/ta",
+        "d' a)pameibo/menos prose/fh",
+        "a)pameibo/menos prose/fh nefelhgere/ta",
+        "d' a)pameibo/menos",
+        "a)pameibo/menos prose/fh"
+      ],
+      "primary_formula": "prose/fh nefelhgere/ta"
+    },
+    {
+      "line_num": "",
+      "character": "Achilles",
+      "line": "*(/ektora d' a)sperxe\\s klone/wn e)/fep' w)ku\\s *)axilleu/s.",
+      "type": "bare_mention",
+      "probability": 0.4368932038834951,
+      "surprisal": 1.1946474308535437,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Hector",
+      "line": "w(\\s *(/ektwr ou) lh=qe podw/kea *phlei/+wna.",
+      "type": "bare_mention",
+      "probability": 0.5891089108910891,
+      "surprisal": 0.7633937194438513,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Hector",
+      "line": "pw=s de/ ken *(/ektwr kh=ras u(pece/fugen qana/toio,",
+      "type": "bare_mention",
+      "probability": 0.5891089108910891,
+      "surprisal": 0.7633937194438513,
+      "is_deviation": false
+    },
+    {
+      "line_num": "205",
+      "character": "Achilles",
+      "line": "laoi=sin d' a)ne/neue karh/ati di=os *)axilleu/s,",
+      "type": "bare_mention",
+      "probability": 0.4368932038834951,
+      "surprisal": 1.1946474308535437,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Achilles",
+      "line": "nu=n dh\\ nw=i e)/olpa *dii\\+ fi/le fai/dim' *)axilleu=",
+      "type": "bare_mention",
+      "probability": 0.4368932038834951,
+      "surprisal": 1.1946474308535437,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Hector",
+      "line": "th\\n d' au)=te prose/eipe me/gas koruqai/olos *(/ektwr:",
+      "type": "formulaic",
+      "probability": 0.0594059405940594,
+      "surprisal": 4.073248982030639,
+      "is_deviation": true,
+      "detected_formulae": [
+        "me/gas koruqai/olos",
+        "prose/eipe me/gas koruqai/olos",
+        "prose/eipe me/gas",
+        "au)=te prose/eipe me/gas koruqai/olos",
+        "au)=te prose/eipe me/gas"
+      ],
+      "primary_formula": "me/gas koruqai/olos"
+    },
+    {
+      "line_num": "",
+      "character": "Hector",
+      "line": "to\\n pro/teros prose/eipe me/gas koruqai/olos *(/ektwr:",
+      "type": "formulaic",
+      "probability": 0.0594059405940594,
+      "surprisal": 4.073248982030639,
+      "is_deviation": true,
+      "detected_formulae": [
+        "me/gas koruqai/olos",
+        "prose/eipe me/gas koruqai/olos",
+        "prose/eipe me/gas"
+      ],
+      "primary_formula": "me/gas koruqai/olos"
+    },
+    {
+      "line_num": "",
+      "character": "Achilles",
+      "line": "a)ll' e)pei\\ a)/r ke/ se sulh/sw kluta\\ teu/xe' *)axilleu=",
+      "type": "bare_mention",
+      "probability": 0.4368932038834951,
+      "surprisal": 1.1946474308535437,
+      "is_deviation": false
+    },
+    {
+      "line_num": "260",
+      "character": "Achilles",
+      "line": "to\\n d' a)/r' u(po/dra i)dw\\n prose/fh po/das w)ku\\s *)axilleu/s:",
+      "type": "formulaic",
+      "probability": 0.11165048543689321,
+      "surprisal": 3.1629385711262055,
+      "is_deviation": false,
+      "detected_formulae": [
+        "prose/fh po/das w)ku\\s",
+        "prose/fh po/das",
+        "i)dw\\n prose/fh po/das w)ku\\s",
+        "i)dw\\n prose/fh po/das"
+      ],
+      "primary_formula": "prose/fh po/das w)ku\\s"
+    },
+    {
+      "line_num": "",
+      "character": "Hector",
+      "line": "kai\\ to\\ me\\n a)/nta i)dw\\n h)leu/ato fai/dimos *(/ektwr:",
+      "type": "bare_mention",
+      "probability": 0.5891089108910891,
+      "surprisal": 0.7633937194438513,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Achilles",
+      "line": "a)\\y d' *)axilh=i+ di/dou, la/qe d' *(/ektora poime/na law=n.",
+      "type": "bare_mention",
+      "probability": 0.4368932038834951,
+      "surprisal": 1.1946474308535437,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Hector",
+      "line": "*(/ektwr de\\ prose/eipen a)mu/mona *phlei/+wna:",
+      "type": "bare_mention",
+      "probability": 0.5891089108910891,
+      "surprisal": 0.7633937194438513,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Achilles",
+      "line": "h)/mbrotes, ou)d' a)/ra pw/ ti qeoi=s e)piei/kel' *)axilleu=",
+      "type": "bare_mention",
+      "probability": 0.4368932038834951,
+      "surprisal": 1.1946474308535437,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Hector",
+      "line": "th=le d' a)pepla/gxqh sa/keos do/ru: xw/sato d' *(/ektwr",
+      "type": "bare_mention",
+      "probability": 0.5891089108910891,
+      "surprisal": 0.7633937194438513,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Hector",
+      "line": "*(/ektwr d' e)/gnw h(=|sin e)ni\\ fresi\\ fw/nhse/n te:",
+      "type": "bare_mention",
+      "probability": 0.5891089108910891,
+      "surprisal": 0.7633937194438513,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Hector",
+      "line": "w(\\s *(/ektwr oi)/mhse tina/sswn fa/sganon o)cu/.",
+      "type": "bare_mention",
+      "probability": 0.5891089108910891,
+      "surprisal": 0.7633937194438513,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Achilles",
+      "line": "th=| r(' e)pi\\ oi(= memaw=t' e)/las' e)/gxei+ di=os *)axilleu/s,",
+      "type": "bare_mention",
+      "probability": 0.4368932038834951,
+      "surprisal": 1.1946474308535437,
+      "is_deviation": false
+    },
+    {
+      "line_num": "330",
+      "character": "Achilles",
+      "line": "h)/ripe d' e)n koni/h|s: o(\\ d' e)peu/cato di=os *)axilleu/s:",
+      "type": "bare_mention",
+      "probability": 0.4368932038834951,
+      "surprisal": 1.1946474308535437,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Hector",
+      "line": "to\\n d' o)ligodrane/wn prose/fh koruqai/olos *(/ektwr:",
+      "type": "formulaic",
+      "probability": 0.04950495049504951,
+      "surprisal": 4.336283387864432,
+      "is_deviation": true,
+      "detected_formulae": [
+        "prose/fh koruqai/olos"
+      ],
+      "primary_formula": "prose/fh koruqai/olos"
+    },
+    {
+      "line_num": "355",
+      "character": "Hector",
+      "line": "to\\n de\\ kataqnh/|skwn prose/fh koruqai/olos *(/ektwr:",
+      "type": "formulaic",
+      "probability": 0.04950495049504951,
+      "surprisal": 4.336283387864432,
+      "is_deviation": true,
+      "detected_formulae": [
+        "prose/fh koruqai/olos"
+      ],
+      "primary_formula": "prose/fh koruqai/olos"
+    },
+    {
+      "line_num": "",
+      "character": "Achilles",
+      "line": "to\\n kai\\ teqnhw=ta proshu/da di=os *)axilleu/s:",
+      "type": "bare_mention",
+      "probability": 0.4368932038834951,
+      "surprisal": 1.1946474308535437,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Hector",
+      "line": "*(/ektwr h)\\ o(/te nh=as e)ne/prhsen puri\\ khle/w|.",
+      "type": "bare_mention",
+      "probability": 0.5891089108910891,
+      "surprisal": 0.7633937194438513,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Achilles",
+      "line": "to\\n d' e)pei\\ e)cena/rice poda/rkhs di=os *)axilleu/s,",
+      "type": "formulaic",
+      "probability": 0.06796116504854369,
+      "surprisal": 3.8791456051256143,
+      "is_deviation": true,
+      "detected_formulae": [
+        "poda/rkhs di=os"
+      ],
+      "primary_formula": "poda/rkhs di=os"
+    },
+    {
+      "line_num": "",
+      "character": "Hector",
+      "line": "h)/mati tw=| o(/te min koruqai/olos h)ga/geq' *(/ektwr",
+      "type": "bare_mention",
+      "probability": 0.5891089108910891,
+      "surprisal": 0.7633937194438513,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Achilles",
+      "line": "*murmido/nas d' ou)k ei)/a a)poski/dnasqai *)axilleu/s,",
+      "type": "bare_mention",
+      "probability": 0.4368932038834951,
+      "surprisal": 1.1946474308535437,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Achilles",
+      "line": "w(\\s e)/faq', oi(\\ d' w)/|mwcan a)olle/es, h)=rxe d' *)axilleu/s.",
+      "type": "bare_mention",
+      "probability": 0.4368932038834951,
+      "surprisal": 1.1946474308535437,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Achilles",
+      "line": "eu(/deis, au)ta\\r e)mei=o lelasme/nos e)/pleu *)axilleu=.",
+      "type": "bare_mention",
+      "probability": 0.4368932038834951,
+      "surprisal": 1.1946474308535437,
+      "is_deviation": false
+    },
+    {
+      "line_num": "80",
+      "character": "Achilles",
+      "line": "kai\\ de\\ soi\\ au)tw=| moi=ra, qeoi=s e)piei/kel' *)axilleu=,",
+      "type": "bare_mention",
+      "probability": 0.4368932038834951,
+      "surprisal": 1.1946474308535437,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Achilles",
+      "line": "mh\\ e)ma\\ sw=n a)pa/neuqe tiqh/menai o)ste/' *)axilleu=,",
+      "type": "bare_mention",
+      "probability": 0.4368932038834951,
+      "surprisal": 1.1946474308535437,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Achilles",
+      "line": "to\\n d' a)pameibo/menos prose/fh po/das w)ku\\s *)axilleu/s:",
+      "type": "formulaic",
+      "probability": 0.11165048543689321,
+      "surprisal": 3.1629385711262055,
+      "is_deviation": false,
+      "detected_formulae": [
+        "prose/fh po/das w)ku\\s",
+        "prose/fh po/das",
+        "a)pameibo/menos prose/fh po/das w)ku\\s",
+        "a)pameibo/menos prose/fh po/das",
+        "a)pameibo/menos prose/fh"
+      ],
+      "primary_formula": "prose/fh po/das w)ku\\s"
+    },
+    {
+      "line_num": "140",
+      "character": "Achilles",
+      "line": "e)/nq' au)=t' a)/ll' e)no/hse poda/rkhs di=os *)axilleu/s:",
+      "type": "formulaic",
+      "probability": 0.06796116504854369,
+      "surprisal": 3.8791456051256143,
+      "is_deviation": true,
+      "detected_formulae": [
+        "poda/rkhs di=os",
+        "e)no/hse poda/rkhs di=os"
+      ],
+      "primary_formula": "poda/rkhs di=os"
+    },
+    {
+      "line_num": "",
+      "character": "Achilles",
+      "line": "e)/nq' au)=t' a)ll' e)no/hse poda/rkhs di=os *)axilleu/s:",
+      "type": "formulaic",
+      "probability": 0.06796116504854369,
+      "surprisal": 3.8791456051256143,
+      "is_deviation": true,
+      "detected_formulae": [
+        "poda/rkhs di=os",
+        "e)no/hse poda/rkhs di=os"
+      ],
+      "primary_formula": "poda/rkhs di=os"
+    },
+    {
+      "line_num": "",
+      "character": "Zeus",
+      "line": "*zeu/s te *poseida/wn te, kai\\ i(pposu/nas e)di/dacan",
+      "type": "bare_mention",
+      "probability": 0.14473684210526316,
+      "surprisal": 2.7884958948062883,
+      "is_deviation": true
+    },
+    {
+      "line_num": "",
+      "character": "Achilles",
+      "line": "kai\\ nu=n te/rmat' e)/qhke poda/rkhs di=os *)axilleu/s.",
+      "type": "formulaic",
+      "probability": 0.06796116504854369,
+      "surprisal": 3.8791456051256143,
+      "is_deviation": true,
+      "detected_formulae": [
+        "poda/rkhs di=os"
+      ],
+      "primary_formula": "poda/rkhs di=os"
+    },
+    {
+      "line_num": "",
+      "character": "Achilles",
+      "line": "to\\n de\\ i)dw\\n w)/|kteire poda/rkhs di=os *)axilleu/s,",
+      "type": "formulaic",
+      "probability": 0.06796116504854369,
+      "surprisal": 3.8791456051256143,
+      "is_deviation": true,
+      "detected_formulae": [
+        "poda/rkhs di=os"
+      ],
+      "primary_formula": "poda/rkhs di=os"
+    },
+    {
+      "line_num": "",
+      "character": "Achilles",
+      "line": "*phlei/+dhn *)axilh=a di/kh| h)mei/yat' a)nasta/s:",
+      "type": "bare_mention",
+      "probability": 0.4368932038834951,
+      "surprisal": 1.1946474308535437,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Achilles",
+      "line": "w)= *)axileu= ma/la toi kexolw/somai ai)/ ke tele/ssh|s",
+      "type": "bare_mention",
+      "probability": 0.4368932038834951,
+      "surprisal": 1.1946474308535437,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Achilles",
+      "line": "sta\\n de\\ metastoixi/: sh/mhne de\\ te/rmat' *)axilleu/s.",
+      "type": "bare_mention",
+      "probability": 0.4368932038834951,
+      "surprisal": 1.1946474308535437,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Achilles",
+      "line": "ou(\\s e)pi\\ *patro/klw| pe/fnen po/das w)ku\\s *)axilleu/s:",
+      "type": "bare_mention",
+      "probability": 0.4368932038834951,
+      "surprisal": 1.1946474308535437,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Achilles",
+      "line": "a)ll' h)/toi to\\n e)/pefne poda/rkhs di=os *)axilleu/s,",
+      "type": "formulaic",
+      "probability": 0.06796116504854369,
+      "surprisal": 3.8791456051256143,
+      "is_deviation": true,
+      "detected_formulae": [
+        "poda/rkhs di=os"
+      ],
+      "primary_formula": "poda/rkhs di=os"
+    },
+    {
+      "line_num": "",
+      "character": "Achilles",
+      "line": "toi=si de\\ kai\\ mete/eipe poda/rkhs di=os *)axilleu/s:",
+      "type": "formulaic",
+      "probability": 0.06796116504854369,
+      "surprisal": 3.8791456051256143,
+      "is_deviation": true,
+      "detected_formulae": [
+        "poda/rkhs di=os"
+      ],
+      "primary_formula": "poda/rkhs di=os"
+    },
+    {
+      "line_num": "",
+      "character": "Hector",
+      "line": "*(/ektwr mhri/' e)/khe bow=n ai)gw=n te telei/wn;",
+      "type": "bare_mention",
+      "probability": 0.5891089108910891,
+      "surprisal": 0.7633937194438513,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Achilles",
+      "line": "a)ll' o)low=| *)axilh=i+ qeoi\\ bou/lesq' e)parh/gein,",
+      "type": "bare_mention",
+      "probability": 0.4368932038834951,
+      "surprisal": 1.1946474308535437,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Achilles",
+      "line": "ei) dh\\ o(mh\\n *)axilh=i+ kai\\ *(/ektori qh/sete timh/n.",
+      "type": "bare_mention",
+      "probability": 0.4368932038834951,
+      "surprisal": 1.1946474308535437,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Hector",
+      "line": "*(/ektwr me\\n qnhto/s te gunai=ka/ te qh/sato mazo/n:",
+      "type": "bare_mention",
+      "probability": 0.5891089108910891,
+      "surprisal": 0.7633937194438513,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Achilles",
+      "line": "au)ta\\r *)axilleu/s e)sti qea=s go/nos, h(\\n e)gw\\ au)th\\",
+      "type": "bare_mention",
+      "probability": 0.4368932038834951,
+      "surprisal": 1.1946474308535437,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Zeus",
+      "line": "th\\n d' a)pameibo/menos prose/fh nefelhgere/ta *zeu/s:",
+      "type": "formulaic",
+      "probability": 0.21052631578947367,
+      "surprisal": 2.2479275134435857,
+      "is_deviation": false,
+      "detected_formulae": [
+        "prose/fh nefelhgere/ta",
+        "d' a)pameibo/menos prose/fh nefelhgere/ta",
+        "d' a)pameibo/menos prose/fh",
+        "a)pameibo/menos prose/fh nefelhgere/ta",
+        "d' a)pameibo/menos",
+        "a)pameibo/menos prose/fh"
+      ],
+      "primary_formula": "prose/fh nefelhgere/ta"
+    },
+    {
+      "line_num": "",
+      "character": "Hector",
+      "line": "ou) me\\n ga\\r timh/ ge mi/' e)/ssetai: a)lla\\ kai\\ *(/ektwr",
+      "type": "bare_mention",
+      "probability": 0.5891089108910891,
+      "surprisal": 0.7633937194438513,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Achilles",
+      "line": "th\\n d' a)pameibo/menos prose/fh po/das w)ku\\s *)axilleu/s:",
+      "type": "formulaic",
+      "probability": 0.11165048543689321,
+      "surprisal": 3.1629385711262055,
+      "is_deviation": false,
+      "detected_formulae": [
+        "prose/fh po/das w)ku\\s",
+        "prose/fh po/das",
+        "a)pameibo/menos prose/fh po/das w)ku\\s",
+        "a)pameibo/menos prose/fh po/das",
+        "a)pameibo/menos prose/fh"
+      ],
+      "primary_formula": "prose/fh po/das w)ku\\s"
+    },
+    {
+      "line_num": "",
+      "character": "Achilles",
+      "line": "nekro\\n a)/goi proti\\ a)/stu, to\\n e)/ktane di=os *)axilleu/s.",
+      "type": "bare_mention",
+      "probability": 0.4368932038834951,
+      "surprisal": 1.1946474308535437,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Achilles",
+      "line": "o(\\s a)/cei ei(=o/s ken a)/gwn *)axilh=i+ pela/ssh|.",
+      "type": "bare_mention",
+      "probability": 0.4368932038834951,
+      "surprisal": 1.1946474308535437,
+      "is_deviation": false
+    },
+    {
+      "line_num": "155",
+      "character": "Achilles",
+      "line": "au)ta\\r e)ph\\n a)ga/gh|sin e)/sw klisi/hn *)axilh=os,",
+      "type": "bare_mention",
+      "probability": 0.4368932038834951,
+      "surprisal": 1.1946474308535437,
+      "is_deviation": false
+    },
+    {
+      "line_num": "180",
+      "character": "Achilles",
+      "line": "nekro\\n a)/goi proti\\ a)/stu, to\\n e)/ktane di=os *)axilleu/s.",
+      "type": "bare_mention",
+      "probability": 0.4368932038834951,
+      "surprisal": 1.1946474308535437,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Achilles",
+      "line": "o(/s s' a)/cei ei(=o/s ken a)/gwn *)axilh=i+ pela/ssh|.",
+      "type": "bare_mention",
+      "probability": 0.4368932038834951,
+      "surprisal": 1.1946474308535437,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Achilles",
+      "line": "au)ta\\r e)ph\\n a)ga/gh|sin e)/sw klisi/hn *)axilh=os,",
+      "type": "bare_mention",
+      "probability": 0.4368932038834951,
+      "surprisal": 1.1946474308535437,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Zeus",
+      "line": "ei) de/ toi ou) dw/sei e(o\\n a)/ggelon eu)ru/opa *zeu/s,",
+      "type": "bare_mention",
+      "probability": 0.14473684210526316,
+      "surprisal": 2.7884958948062883,
+      "is_deviation": true
+    },
+    {
+      "line_num": "",
+      "character": "Achilles",
+      "line": "ei) me\\n dh\\ qera/pwn *phlhi+a/dew *)axilh=os",
+      "type": "bare_mention",
+      "probability": 0.4368932038834951,
+      "surprisal": 1.1946474308535437,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Achilles",
+      "line": "h(=|si kusi\\n melei+sti\\ tamw\\n prou/qhken *)axilleu/s.",
+      "type": "bare_mention",
+      "probability": 0.4368932038834951,
+      "surprisal": 1.1946474308535437,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Achilles",
+      "line": "o(/s me ke/lh| se/o dw=ra pare\\c *)axilh=a de/xesqai.",
+      "type": "bare_mention",
+      "probability": 0.4368932038834951,
+      "surprisal": 1.1946474308535437,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Achilles",
+      "line": "a)ll' h)/toi me\\n e)gw\\ pa/lin ei)/somai, ou)d' *)axilh=os",
+      "type": "bare_mention",
+      "probability": 0.4368932038834951,
+      "surprisal": 1.1946474308535437,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Achilles",
+      "line": "mnh=sai patro\\s soi=o qeoi=s e)piei/kel' *)axilleu=,",
+      "type": "bare_mention",
+      "probability": 0.4368932038834951,
+      "surprisal": 1.1946474308535437,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Achilles",
+      "line": "a)ll' ai)dei=o qeou\\s *)axileu=, au)to/n t' e)le/hson",
+      "type": "bare_mention",
+      "probability": 0.4368932038834951,
+      "surprisal": 1.1946474308535437,
+      "is_deviation": false
+    },
+    {
+      "line_num": "510",
+      "character": "Achilles",
+      "line": "klai=' a(dina\\ propa/roiqe podw=n *)axilh=os e)lusqei/s,",
+      "type": "bare_mention",
+      "probability": 0.4368932038834951,
+      "surprisal": 1.1946474308535437,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Achilles",
+      "line": "au)ta\\r e)pei/ r(a go/oio teta/rpeto di=os *)axilleu/s,",
+      "type": "bare_mention",
+      "probability": 0.4368932038834951,
+      "surprisal": 1.1946474308535437,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Hector",
+      "line": "mh/ pw m' e)s qro/non i(/ze diotrefe\\s o)/fra/ ken *(/ektwr",
+      "type": "bare_mention",
+      "probability": 0.5891089108910891,
+      "surprisal": 0.7633937194438513,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Achilles",
+      "line": "to\\n d' a)/r' u(po/dra i)dw\\n prose/fh po/das w)ku\\s *)axilleu/s:",
+      "type": "formulaic",
+      "probability": 0.11165048543689321,
+      "surprisal": 3.1629385711262055,
+      "is_deviation": false,
+      "detected_formulae": [
+        "prose/fh po/das w)ku\\s",
+        "prose/fh po/das",
+        "i)dw\\n prose/fh po/das w)ku\\s",
+        "i)dw\\n prose/fh po/das"
+      ],
+      "primary_formula": "prose/fh po/das w)ku\\s"
+    },
+    {
+      "line_num": "585",
+      "character": "Achilles",
+      "line": "pai=da i)dw/n, *)axilh=i+ d' o)rinqei/h fi/lon h)=tor,",
+      "type": "bare_mention",
+      "probability": 0.4368932038834951,
+      "surprisal": 1.1946474308535437,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Achilles",
+      "line": "h)= r(a, kai\\ e)s klisi/hn pa/lin h)/i+e di=os *)axilleu/s,",
+      "type": "bare_mention",
+      "probability": 0.4368932038834951,
+      "surprisal": 1.1946474308535437,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Achilles",
+      "line": "kaloi=s e)n kane/oisin: a)ta\\r kre/a nei=men *)axilleu/s.",
+      "type": "bare_mention",
+      "probability": 0.4368932038834951,
+      "surprisal": 1.1946474308535437,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Achilles",
+      "line": "h)/toi *dardani/dhs *pri/amos qau/maz' *)axilh=a",
+      "type": "bare_mention",
+      "probability": 0.4368932038834951,
+      "surprisal": 1.1946474308535437,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Achilles",
+      "line": "to\\n d' e)pikertome/wn prose/fh po/das w)ku\\s *)axilleu/s:",
+      "type": "formulaic",
+      "probability": 0.11165048543689321,
+      "surprisal": 3.1629385711262055,
+      "is_deviation": false,
+      "detected_formulae": [
+        "prose/fh po/das w)ku\\s",
+        "prose/fh po/das"
+      ],
+      "primary_formula": "prose/fh po/das w)ku\\s"
+    },
+    {
+      "line_num": "",
+      "character": "Achilles",
+      "line": "w(=de/ ke/ moi r(e/zwn *)axileu= kexarisme/na qei/hs.",
+      "type": "bare_mention",
+      "probability": 0.4368932038834951,
+      "surprisal": 1.1946474308535437,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Zeus",
+      "line": "a)ce/men e)c o)/reos, ma/la de\\ *trw=es dedi/asin.",
+      "type": "bare_mention",
+      "probability": 0.14473684210526316,
+      "surprisal": 2.7884958948062883,
+      "is_deviation": true
+    },
+    {
+      "line_num": "",
+      "character": "Achilles",
+      "line": "to\\n d' au)=te prose/eipe poda/rkhs di=os *)axilleu/s:",
+      "type": "formulaic",
+      "probability": 0.06796116504854369,
+      "surprisal": 3.8791456051256143,
+      "is_deviation": true,
+      "detected_formulae": [
+        "prose/eipe poda/rkhs di=os",
+        "poda/rkhs di=os"
+      ],
+      "primary_formula": "poda/rkhs di=os"
+    },
+    {
+      "line_num": "",
+      "character": "Achilles",
+      "line": "a)ndra/sin e)n dhi/+oisin, e)pei/ s' ei)/asen *)axilleu/s.",
+      "type": "bare_mention",
+      "probability": 0.4368932038834951,
+      "surprisal": 1.1946474308535437,
+      "is_deviation": false
+    },
+    {
+      "line_num": "",
+      "character": "Zeus",
+      "line": "*ca/nqou dinh/entos, o(\\n a)qa/natos te/keto *zeu/s,",
+      "type": "bare_mention",
+      "probability": 0.14473684210526316,
+      "surprisal": 2.7884958948062883,
+      "is_deviation": true
+    },
+    {
+      "line_num": "",
+      "character": "Hector",
+      "line": "xwo/menos, w(=| dh/ pou a)delfeo\\n e)/ktanen *(/ektwr",
+      "type": "bare_mention",
+      "probability": 0.5891089108910891,
+      "surprisal": 0.7633937194438513,
+      "is_deviation": false
+    }
+  ],
+  "high_surprisal_count": 75,
+  "high_surprisal_threshold": 3.0
+}

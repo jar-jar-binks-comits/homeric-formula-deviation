@@ -1,0 +1,312 @@
+{
+  "Achilles": {
+    "total_mentions": 206,
+    "formulae_by_type": {
+      "speech_formula": [
+        {
+          "pattern": "prose/fh po/das w)ku\\s",
+          "frequency": 23,
+          "position": "before",
+          "semantic_category": "narrative - speech introduction or response",
+          "notes": ""
+        },
+        {
+          "pattern": "prose/fh po/das",
+          "frequency": 23,
+          "position": "before",
+          "semantic_category": "narrative - speech introduction or response",
+          "notes": ""
+        },
+        {
+          "pattern": "a)pameibo/menos prose/fh po/das w)ku\\s",
+          "frequency": 12,
+          "position": "before",
+          "semantic_category": "narrative - speech introduction or response",
+          "notes": ""
+        },
+        {
+          "pattern": "a)pameibo/menos prose/fh po/das",
+          "frequency": 12,
+          "position": "before",
+          "semantic_category": "narrative - speech introduction or response",
+          "notes": ""
+        },
+        {
+          "pattern": "a)pameibo/menos prose/fh",
+          "frequency": 12,
+          "position": "before",
+          "semantic_category": "narrative - speech introduction or response",
+          "notes": ""
+        },
+        {
+          "pattern": "o)xqh/sas prose/fh po/das w)ku\\s",
+          "frequency": 4,
+          "position": "before",
+          "semantic_category": "narrative - speech introduction or response",
+          "notes": ""
+        },
+        {
+          "pattern": "o)xqh/sas prose/fh po/das",
+          "frequency": 4,
+          "position": "before",
+          "semantic_category": "narrative - speech introduction or response",
+          "notes": ""
+        },
+        {
+          "pattern": "i)dw\\n prose/fh po/das w)ku\\s",
+          "frequency": 3,
+          "position": "before",
+          "semantic_category": "narrative - speech introduction or response",
+          "notes": ""
+        },
+        {
+          "pattern": "i)dw\\n prose/fh po/das",
+          "frequency": 3,
+          "position": "before",
+          "semantic_category": "narrative - speech introduction or response",
+          "notes": ""
+        },
+        {
+          "pattern": "prose/eipe poda/rkhs di=os",
+          "frequency": 3,
+          "position": "before",
+          "semantic_category": "narrative - speech introduction or response",
+          "notes": ""
+        }
+      ],
+      "epithet": [
+        {
+          "pattern": "poda/rkhs di=os",
+          "frequency": 14,
+          "position": "before",
+          "semantic_category": "character epithet",
+          "notes": ""
+        },
+        {
+          "pattern": "e)no/hse poda/rkhs di=os",
+          "frequency": 3,
+          "position": "before",
+          "semantic_category": "character epithet",
+          "notes": ""
+        }
+      ]
+    },
+    "total_confirmed_formulae": 12
+  },
+  "Hector": {
+    "total_mentions": 202,
+    "formulae_by_type": {
+      "epithet": [
+        {
+          "pattern": "me/gas koruqai/olos",
+          "frequency": 12,
+          "position": "before",
+          "semantic_category": "character epithet",
+          "notes": ""
+        },
+        {
+          "pattern": "kai\\ fai/dimos",
+          "frequency": 7,
+          "position": "before",
+          "semantic_category": "character epithet",
+          "notes": ""
+        },
+        {
+          "pattern": "te pro/maxoi kai\\ fai/dimos",
+          "frequency": 3,
+          "position": "before",
+          "semantic_category": "character epithet",
+          "notes": ""
+        },
+        {
+          "pattern": "ge teu/xe' e)/xei koruqai/olos",
+          "frequency": 3,
+          "position": "before",
+          "semantic_category": "character epithet",
+          "notes": ""
+        },
+        {
+          "pattern": "pro/maxoi kai\\ fai/dimos",
+          "frequency": 3,
+          "position": "before",
+          "semantic_category": "character epithet",
+          "notes": ""
+        },
+        {
+          "pattern": "teu/xe' e)/xei koruqai/olos",
+          "frequency": 3,
+          "position": "before",
+          "semantic_category": "character epithet",
+          "notes": ""
+        }
+      ],
+      "speech_formula": [
+        {
+          "pattern": "prose/fh koruqai/olos",
+          "frequency": 10,
+          "position": "before",
+          "semantic_category": "narrative - speech introduction or response",
+          "notes": ""
+        },
+        {
+          "pattern": "prose/eipe me/gas koruqai/olos",
+          "frequency": 5,
+          "position": "before",
+          "semantic_category": "narrative - speech introduction or response",
+          "notes": ""
+        },
+        {
+          "pattern": "prose/eipe me/gas",
+          "frequency": 5,
+          "position": "before",
+          "semantic_category": "narrative - speech introduction or response",
+          "notes": ""
+        },
+        {
+          "pattern": "au)=te prose/eipe me/gas koruqai/olos",
+          "frequency": 4,
+          "position": "before",
+          "semantic_category": "narrative - speech introduction or response",
+          "notes": ""
+        },
+        {
+          "pattern": "au)=te prose/eipe me/gas",
+          "frequency": 4,
+          "position": "before",
+          "semantic_category": "narrative - speech introduction or response",
+          "notes": ""
+        },
+        {
+          "pattern": "a)/ra fwnh/sas a)pe/bh koruqai/olos",
+          "frequency": 3,
+          "position": "before",
+          "semantic_category": "narrative - speech introduction or response",
+          "notes": ""
+        },
+        {
+          "pattern": "u(po/dra i)dw\\n prose/fh koruqai/olos",
+          "frequency": 3,
+          "position": "before",
+          "semantic_category": "narrative - speech introduction or response",
+          "notes": ""
+        },
+        {
+          "pattern": "a)/ra fwnh/sas a)pe/bh",
+          "frequency": 3,
+          "position": "before",
+          "semantic_category": "narrative - speech introduction or response",
+          "notes": ""
+        },
+        {
+          "pattern": "fwnh/sas a)pe/bh koruqai/olos",
+          "frequency": 3,
+          "position": "before",
+          "semantic_category": "narrative - speech introduction or response",
+          "notes": ""
+        },
+        {
+          "pattern": "u(po/dra i)dw\\n prose/fh",
+          "frequency": 3,
+          "position": "before",
+          "semantic_category": "narrative - speech introduction or response",
+          "notes": ""
+        },
+        {
+          "pattern": "i)dw\\n prose/fh koruqai/olos",
+          "frequency": 3,
+          "position": "before",
+          "semantic_category": "narrative - speech introduction or response",
+          "notes": ""
+        }
+      ],
+      "patronymic": [
+        {
+          "pattern": "*priami/dhs, o(/te oi( *zeu\\s",
+          "frequency": 3,
+          "position": "after",
+          "semantic_category": "patronymic or genealogical",
+          "notes": ""
+        },
+        {
+          "pattern": "*priami/dhs, o(/te oi(",
+          "frequency": 3,
+          "position": "after",
+          "semantic_category": "patronymic or genealogical",
+          "notes": ""
+        }
+      ]
+    },
+    "total_confirmed_formulae": 19
+  },
+  "Zeus": {
+    "total_mentions": 76,
+    "formulae_by_type": {
+      "speech_formula": [
+        {
+          "pattern": "prose/fh nefelhgere/ta",
+          "frequency": 16,
+          "position": "before",
+          "semantic_category": "narrative - speech introduction or response",
+          "notes": ""
+        },
+        {
+          "pattern": "d' a)pameibo/menos prose/fh nefelhgere/ta",
+          "frequency": 8,
+          "position": "before",
+          "semantic_category": "narrative - speech introduction or response",
+          "notes": ""
+        },
+        {
+          "pattern": "d' a)pameibo/menos prose/fh",
+          "frequency": 8,
+          "position": "before",
+          "semantic_category": "narrative - speech introduction or response",
+          "notes": ""
+        },
+        {
+          "pattern": "a)pameibo/menos prose/fh nefelhgere/ta",
+          "frequency": 8,
+          "position": "before",
+          "semantic_category": "narrative - speech introduction or response",
+          "notes": ""
+        },
+        {
+          "pattern": "d' a)pameibo/menos",
+          "frequency": 8,
+          "position": "before",
+          "semantic_category": "narrative - speech introduction or response",
+          "notes": ""
+        },
+        {
+          "pattern": "a)pameibo/menos prose/fh",
+          "frequency": 8,
+          "position": "before",
+          "semantic_category": "narrative - speech introduction or response",
+          "notes": ""
+        },
+        {
+          "pattern": "me/g' o)xqh/sas prose/fh nefelhgere/ta",
+          "frequency": 3,
+          "position": "before",
+          "semantic_category": "narrative - speech introduction or response",
+          "notes": ""
+        },
+        {
+          "pattern": "me/g' o)xqh/sas prose/fh",
+          "frequency": 3,
+          "position": "before",
+          "semantic_category": "narrative - speech introduction or response",
+          "notes": ""
+        },
+        {
+          "pattern": "o)xqh/sas prose/fh nefelhgere/ta",
+          "frequency": 3,
+          "position": "before",
+          "semantic_category": "narrative - speech introduction or response",
+          "notes": ""
+        }
+      ]
+    },
+    "total_confirmed_formulae": 9
+  }
+}
