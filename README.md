@@ -11,7 +11,7 @@
 This project applies **information-theoretic analysis** to detect deviations from formulaic patterns in Homer's *Iliad*, testing the hypothesis that pattern-breaking serves as a cognitive marker for narrative significance.
 
 ### Research Question
-Does Homer deliberately break formulaic patterns at emotionally significant moments, exploiting predictive processing to mark narrative importance? Is this analogous to how Dante deploys distinctive sound patterns (like Beatrice's *-ice* rhyme) in unexpected contexts?
+Does Homer deliberately break formulaic patterns at emotionally significant moments, exploiting predictive processing to mark narrative importance? Is this analogous to how Dante deploys distinctive sound patterns (like Beatrice's *-ice* rhyme) in specific contexts?
 
 ### Current Status: **In Progress** 🚧
 - ✅ Phase 1: Formula extraction complete
@@ -75,7 +75,7 @@ This *-ice* rhyme is distinctively associated with Beatrice throughout the *Comm
 ## 📊 Preliminary Results
 
 From analysis of the *Iliad* (work in progress):
-- **581 character mentions** analyzed across 15,683 lines
+- **581 character mentions** analysed across 15,683 lines
 - **23.1% deviation rate** detected
 - **Hector's death scene** (line 355): 4.34 bits surprisal
   - Formula: *kataqnh/|skwn prose/fh koruqai/olos* ("dying, spoke helmet-glancing")
@@ -154,7 +154,7 @@ python deviation_detection_engine.py
 ```
 homeric-formula-deviation/
 ├── README.md
-├── homeric_formula_analyser.py      # Phase 1: Extract formulae
+├── homeric_formula_analyser.py       # Phase 1: Extract formulae
 ├── formula_vocabulary_builder.py     # Phase 2: Build vocabulary
 ├── formula_review_assistant.py       # Phase 2: Review tool
 ├── deviation_detection_engine.py     # Phase 3: Detect deviations
@@ -232,19 +232,8 @@ homeric-formula-deviation/
 - **The CLTK community** - Classical Language Toolkit resources
 
 **Personal Inspiration:**
-- Dante's *Inferno* V - for showing how pattern-breaking carries meaning:
-
-    Ma dimmi: al tempo d'i dolci sospiri,
-    a che e come concedette amore
-    che conosceste i dubbiosi disiri?».
-    E quella a me: «Nessun maggior dolore 
-    che ricordarsi del tempo felice
-    ne la miseria; e ciò sa 'l tuo dottore.
-    Ma s'a conoscer la prima radice
-    del nostro amor tu hai cotanto affetto,
-    dirò come colui che piange e dice.
-
-- The oral poets who created these patterns we're now computationally detecting
+- Dante's *Inferno* V - for showing how pattern-breaking carries meaning
+- The oral poets who created these patterns I'm now computationally detecting
 
 ---
 
@@ -294,4 +283,4 @@ MIT License - Feel free to use this methodology for research. Citation appreciat
 
 ---
 
-**Status**: 🚧 Active Development | Last Updated: December 2024
+**Status**: 🚧 Active Development | Last Updated: December 2025
