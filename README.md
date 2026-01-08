@@ -17,7 +17,7 @@ Does Homer deliberately break formulaic patterns at emotionally significant mome
 - ✅ Phase 1: Formula extraction complete
 - ✅ Phase 2: Vocabulary building complete  
 - ✅ Phase 3: Deviation detection functional
-- ✅ Phase 4: Interactive visualization working
+- ✅ Phase 4: Interactive visualisation working
 - 🔄 **Ongoing**: Expanding formula catalogue, refining annotations, analyzing Book-level patterns
 - 📝 **Next**: Metrical analysis, rhythm patterns, cross-book comparisons
 
@@ -30,7 +30,7 @@ This project was inspired by a pattern in Dante's *Inferno* Canto V (Francesca's
 
 > *"Nessun maggior dolore  
 > che ricordarsi del tempo fel**ice**  
-> ne la miseria..."*
+> ne la miseria...*
 >
 > *"Ma s'a conoscer la prima rad**ice**  
 > del nostro amor tu hai cotanto affetto,  
@@ -283,4 +283,4 @@ MIT License - Feel free to use this methodology for research. Citation appreciat
 
 ---
 
-**Status**: 🚧 Active Development | Last Updated: December 2025
+**Status**: 🚧 Active Development | Last Updated: January 2026
