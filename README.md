@@ -13,7 +13,7 @@ This project applies **information-theoretic analysis** to detect deviations fro
 ### Research Question
 Does Homer deliberately break formulaic patterns at emotionally significant moments, exploiting predictive processing to mark narrative importance? Is this analogous to how Dante deploys distinctive sound patterns (like Beatrice's *-ice* rhyme) in specific contexts?
 
-### Current Status: **In Progress** 🚧
+### Current Status: **In Progress** 
 - ✅ Phase 1: Formula extraction complete
 - ✅ Phase 2: Vocabulary building complete  
 - ✅ Phase 3: Deviation detection functional
@@ -23,7 +23,7 @@ Does Homer deliberately break formulaic patterns at emotionally significant mome
 
 ---
 
-## 💡 Inspiration & Theoretical Background
+## Inspiration & Theoretical Background
 
 ### The Dante Connection
 This project was inspired by a pattern in Dante's *Inferno* Canto V (Francesca's episode). In that canto about forbidden love, Dante never explicitly names Beatrice—yet her presence is felt through sound. Notice the *-ice* rhyme pattern:
@@ -59,7 +59,7 @@ This *-ice* rhyme is distinctively associated with Beatrice throughout the *Comm
 
 ---
 
-## 🧠 Theoretical Framework
+## Theoretical Framework
 
 **Predictive Processing Hypothesis**: When audiences expect formula X but encounter Y (or nothing), the prediction error creates cognitive salience. This might be a cross-cultural pattern:
 - **Homer**: Formulaic deviations at Hector's death, armor exchanges
@@ -72,7 +72,7 @@ This *-ice* rhyme is distinctively associated with Beatrice throughout the *Comm
 
 ---
 
-## 📊 Preliminary Results
+## Preliminary Results
 
 From analysis of the *Iliad* (work in progress):
 - **581 character mentions** analysed across 15,683 lines
@@ -88,7 +88,7 @@ From analysis of the *Iliad* (work in progress):
 
 ---
 
-## 🛠️ Technical Implementation
+## Technical Implementation
 
 ### Phase 1: Formula Extraction
 **Script**: `homeric_formula_analyser.py`
@@ -124,7 +124,7 @@ From analysis of the *Iliad* (work in progress):
 
 ---
 
-## 🚀 Usage
+## Usage
 
 ### Requirements
 ```bash
@@ -187,7 +187,7 @@ homeric-formula-deviation/
 
 ---
 
-## 🔮 Next Steps
+## Next Steps
 
 **Immediate (Current Work)**:
 - [ ] Expand formula catalogue (currently ~40 confirmed formulae)
@@ -203,7 +203,7 @@ homeric-formula-deviation/
 
 ---
 
-## 📚 Key References
+## Key References
 
 ### Primary Texts
 - Homer, *Iliad* (Greek text from Perseus Digital Library)
@@ -237,7 +237,7 @@ homeric-formula-deviation/
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 This is an active research project. Contributions, suggestions, and extensions welcome:
 - Additional formula identification
@@ -264,23 +264,9 @@ MIT License - Feel free to use this methodology for research. Citation appreciat
 
 ---
 
-## 📊 How to Cite (if using this work)
-
-```bibtex
-@software{capellini_homeric_2024,
-  author = {Capellini, Ella},
-  title = {Homeric Formula Deviation Detection: Computational Analysis of Pattern-Breaking in the Iliad},
-  year = {2025},
-  note = {Work in progress},
-  url = {https://github.com/jar-jar-binks-comits/homeric-formula-deviation}
-}
-```
-
----
-
 *"μῆνιν ἄειδε θεὰ Πηληϊάδεω Ἀχιλῆος"*  
 *Sing, goddess, the wrath of Achilles... but notice when Homer breaks the song.*
 
 ---
 
-**Status**: 🚧 Active Development | Last Updated: January 2026
+**Status**:  Active Development | Last Updated: January 2026
