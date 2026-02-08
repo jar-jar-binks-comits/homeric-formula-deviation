@@ -110,7 +110,7 @@ def load_text_from_xml(filepath='iliad_book1.xml'):
         return None, None
 
 def normalize_beta_code(text):
-    """Basic normalization - lowercase for easier matching"""
+    """Basic normalisation - lowercase for easier matching"""
     return text.lower()
 
 def find_character_mentions(line_data):

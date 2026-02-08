@@ -154,7 +154,7 @@ def interactive_review_remaining(template):
 
 def generate_clean_formula_database(template):
     """
-    Generate a clean, confirmed-only formula database
+    Generate , confirmed-only formula database
     Organised by character and formula type
     """
     
