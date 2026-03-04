@@ -6,7 +6,7 @@
 
 ---
 
-## 🎯 Project Overview
+## Project Overview
 
 This project applies **information-theoretic analysis** to detect deviations from formulaic patterns in Homer's *Iliad*, testing the hypothesis that pattern-breaking serves as a cognitive marker for narrative significance.
 
@@ -14,12 +14,12 @@ This project applies **information-theoretic analysis** to detect deviations fro
 Does Homer deliberately break formulaic patterns at emotionally significant moments, exploiting predictive processing to mark narrative importance? Is this analogous to how Dante deploys distinctive sound patterns (like Beatrice's *-ice* rhyme) in specific contexts?
 
 ### Current Status: **In Progress** 
-- ✅ Phase 1: Formula extraction complete
-- ✅ Phase 2: Vocabulary building complete  
-- ✅ Phase 3: Deviation detection functional
-- ✅ Phase 4: Interactive visualisation working
-- 🔄 **Ongoing**: Expanding formula catalogue, refining annotations, analyzing Book-level patterns
-- 📝 **Next**: Metrical analysis, rhythm patterns, cross-book comparisons
+- Phase 1: Formula extraction complete
+- Phase 2: Vocabulary building complete  
+- Phase 3: Deviation detection functional
+- Phase 4: Interactive visualisation working
+- **Ongoing**: Expanding formula catalogue, refining annotations, analyzing Book-level patterns
+- **Next**: Metrical analysis, rhythm patterns, cross-book comparisons
 
 ---
 
@@ -250,7 +250,7 @@ Open an issue or pull request!
 
 ---
 
-## 📧 Contact
+## Contact
 
 **Author**: Ella Capellini  
 **Interests**: Digital Humanities, Psycholinguistics, Computational Philology, Computational Auditory, Ancient Greek  
@@ -258,7 +258,7 @@ Open an issue or pull request!
 
 ---
 
-## 📄 License
+## License
 
 MIT License - Feel free to use this methodology for research. Citation appreciated if you build on this work.
 
@@ -269,4 +269,4 @@ MIT License - Feel free to use this methodology for research. Citation appreciat
 
 ---
 
-**Status**:  Active Development | Last Updated: January 2026
+**Status**:  Active Development | Last Updated: March 2026
