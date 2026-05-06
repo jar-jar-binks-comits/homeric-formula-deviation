@@ -1,335 +1,326 @@
 """
-Homeric Formula Deviation Detection Engine - Phase 2
+Homeric Formula Deviation Detection Engine
 
-This system:
-1. Loads confirmed formulae database
-2. Analyses each character mention
-3. Determines expected formula based on context
-4. Detects deviations (unexpected formulae or absences)
-5. Calculates surprisal scores
-6. Maps deviations to narrative structure
+Loads the formulae database and character mentions produced by Phase 1,
+computes information-theoretic surprisal for every mention, and reports
+the moments where Homer deviates most from expected formulaic patterns.
+
+Usage:
+    python deviation_detection_engine.py
 """
+
+from __future__ import annotations
 
 import json
 import math
-from collections import defaultdict, Counter
-import re
+import sys
+from collections import Counter, defaultdict
+from dataclasses import dataclass, field
+from pathlib import Path
+from typing import Any, Optional
 
-def load_formula_database(filepath='formulae_database.json'):
-    """Load the confirmed formulae database"""
-    with open(filepath, 'r', encoding='utf-8') as f:
-        return json.load(f)
+HIGH_SURPRISAL_THRESHOLD: float = 3.0      # bits; P < 12.5 %
+BARE_MENTION_DEVIATION_RATE: float = 0.30
+RARE_FORMULA_THRESHOLD: float = 0.10
+REPORT_TOP_N: int = 50
 
-def load_mentions(filepath='homer_analysis.json'):
-    """Load all character mentions from Phase 1"""
-    with open(filepath, 'r', encoding='utf-8') as f:
-        data = json.load(f)
-        return data['all_mentions']
+@dataclass
+class FormulaPattern:
+    pattern: str        # lower-cased for matching
+    original: str
+    formula_type: str
+    position: str
+    frequency: int
+    semantic: str = ""
 
-def build_formula_patterns(database):
-    """
-    Build searchable formula patterns from database
-    Returns dict: character -> list of formula patterns
-    """
-    patterns = {}
-    
+
+@dataclass
+class MentionAnalysis:
+    line_num: str
+    character: str
+    line: str
+    mention_type: str           # "formulaic" | "bare_mention"
+    probability: float
+    surprisal: float            # bits; math.inf for P == 0
+    is_deviation: bool
+    detected_formulae: list[str] = field(default_factory=list)
+    primary_formula: Optional[str] = None
+
+# I/O
+
+def _load_json(path: str | Path, label: str) -> Any:
+    p = Path(path)
+    if not p.exists():
+        raise FileNotFoundError(f"Cannot find {label} at '{p}'.")
+    try:
+        with p.open(encoding="utf-8") as fh:
+            return json.load(fh)
+    except json.JSONDecodeError as exc:
+        raise ValueError(f"'{p}' is not valid JSON: {exc}") from exc
+
+
+def load_formula_database(path: str | Path = "formulae_database.json") -> dict:
+    return _load_json(path, "formulae database")
+
+
+def load_mentions(path: str | Path = "homer_analysis.json") -> list[dict]:
+    data = _load_json(path, "homer_analysis.json")
+    mentions = data.get("all_mentions")
+    if mentions is None:
+        raise KeyError("Key 'all_mentions' missing. Re-run Phase 1.")
+    return mentions
+
+#core
+
+def build_formula_patterns(database: dict) -> dict[str, list[FormulaPattern]]:
+    patterns: dict[str, list[FormulaPattern]] = {}
     for character, data in database.items():
-        character_patterns = []
-        
-        for formula_type, formulae in data['formulae_by_type'].items():
+        char_patterns: list[FormulaPattern] = []
+        for formula_type, formulae in data.get("formulae_by_type", {}).items():
             for formula in formulae:
-                pattern_lower = formula['pattern'].lower()
-                character_patterns.append({
-                    'pattern': pattern_lower,
-                    'original': formula['pattern'],
-                    'type': formula_type,
-                    'position': formula['position'],
-                    'frequency': formula['frequency'],
-                    'semantic': formula.get('semantic_category', '')
-                })
-        
-        patterns[character] = character_patterns
-    
+                raw = formula.get("pattern", "")
+                char_patterns.append(FormulaPattern(
+                    pattern=raw.lower(),
+                    original=raw,
+                    formula_type=formula_type,
+                    position=formula.get("position", ""),
+                    frequency=formula.get("frequency", 0),
+                    semantic=formula.get("semantic_category", ""),
+                ))
+        patterns[character] = char_patterns
     return patterns
 
-def detect_formulae_in_mention(mention, formula_patterns):
-    """
-    Check which formulae (if any) appear in this mention
-    Returns list of detected formulae
-    """
-    character = mention['character']
-    line_lower = mention['line'].lower()
-    
-    if character not in formula_patterns:
-        return []
-    
-    detected = []
-    for formula in formula_patterns[character]:
-        if formula['pattern'] in line_lower:
-            detected.append(formula)
-    
-    return detected
 
-def calculate_formula_expectations(mentions, formula_patterns, database):
+def detect_formulae(
+    mention: dict,
+    formula_patterns: dict[str, list[FormulaPattern]],
+) -> list[FormulaPattern]:
+    line_lower = mention["line"].lower()
+    return [
+        fp for fp in formula_patterns.get(mention["character"], [])
+        if fp.pattern in line_lower
+    ]
+
+
+def build_expectations(
+    mentions: list[dict],
+    formula_patterns: dict[str, list[FormulaPattern]],
+) -> dict[str, dict]:
     """
-    For each character, calculate:
-    - Base rate of each formula (P(formula | character))
-    - Contextual rates (P(formula | character, context))
+    Estimate P(formula | character).
+
+    Each formula is counted at most once per mention (set-based dedup),
+    fixing the double-counting bug in the original version where a formula
+    appearing twice on one line was counted twice.
     """
-    
-    expectations = {}
-    
-    for character in formula_patterns.keys():
-        char_mentions = [m for m in mentions if m['character'] == character]
-        total_mentions = len(char_mentions)
-        
-        # Count formula occurrences
-        formula_counts = Counter()
-        
+    by_character: dict[str, list[dict]] = defaultdict(list)
+    for m in mentions:
+        by_character[m["character"]].append(m)
+
+    expectations: dict[str, dict] = {}
+    for character, char_mentions in by_character.items():
+        total = len(char_mentions)
+        formula_counts: Counter[str] = Counter()
+
         for mention in char_mentions:
-            detected = detect_formulae_in_mention(mention, formula_patterns)
-            for formula in detected:
-                formula_counts[formula['pattern']] += 1
-        
-        # Calculate base probabilities
-        formula_probs = {}
-        for pattern, count in formula_counts.items():
-            formula_probs[pattern] = count / total_mentions if total_mentions > 0 else 0
-        
+            seen: set[str] = set()
+            for fp in detect_formulae(mention, formula_patterns):
+                if fp.pattern not in seen:
+                    formula_counts[fp.pattern] += 1
+                    seen.add(fp.pattern)
+
         expectations[character] = {
-            'total_mentions': total_mentions,
-            'formula_counts': dict(formula_counts),
-            'formula_probabilities': formula_probs
+            "total_mentions": total,
+            "formula_counts": dict(formula_counts),
+            "formula_probabilities": (
+                {p: c / total for p, c in formula_counts.items()}
+                if total > 0 else {}
+            ),
         }
-    
     return expectations
 
-def calculate_surprisal(probability):
-    """
-    Calculate information-theoretic surprisal
-    Surprisal = -log2(P(event))
-    Higher surprisal = more unexpected
-    """
-    if probability == 0:
-        return float('inf')
+
+def surprisal(probability: float) -> float:
+    """Information-theoretic surprisal: -log2(P). Returns inf for P <= 0."""
+    if probability <= 0.0:
+        return math.inf
+    if probability >= 1.0:
+        return 0.0
     return -math.log2(probability)
 
-def analyze_mention_surprisal(mention, formula_patterns, expectations):
-    """
-    Analyse a single mention:
-    - What formulae are present?
-    - What's the expected formula?
-    - What's the surprisal?
-    """
-    character = mention['character']
-    
-    if character not in expectations:
+
+def score_mention(
+    mention: dict,
+    formula_patterns: dict[str, list[FormulaPattern]],
+    expectations: dict[str, dict],
+) -> Optional[MentionAnalysis]:
+    character = mention["character"]
+    exp = expectations.get(character)
+    if exp is None:
         return None
-    
-    detected = detect_formulae_in_mention(mention, formula_patterns)
-    
-    # Case 1: No formula detected (bare mention)
+
+    detected = detect_formulae(mention, formula_patterns)
+
     if not detected:
-        # Calculate probability of bare mention
-        total = expectations[character]['total_mentions']
-        formula_count = sum(expectations[character]['formula_counts'].values())
-        bare_count = total - formula_count
-        bare_prob = bare_count / total if total > 0 else 0
-        
-        return {
-            'mention': mention,
-            'detected_formulae': [],
-            'type': 'bare_mention',
-            'probability': bare_prob,
-            'surprisal': calculate_surprisal(bare_prob) if bare_prob > 0 else float('inf'),
-            'is_deviation': bare_prob < 0.3  # Less than 30% of mentions are bare
-        }
-    
-    # Case 2: Formula(e) detected
-    # Use most frequent formula if multiple detected
-    primary_formula = max(detected, key=lambda f: f['frequency'])
-    formula_prob = expectations[character]['formula_probabilities'].get(
-        primary_formula['pattern'], 0
+        total = exp["total_mentions"]
+        bare_count = max(0, total - sum(exp["formula_counts"].values()))
+        bare_prob = bare_count / total if total > 0 else 0.0
+        return MentionAnalysis(
+            line_num=mention["line_num"],
+            character=character,
+            line=mention["line"],
+            mention_type="bare_mention",
+            probability=bare_prob,
+            surprisal=surprisal(bare_prob),
+            is_deviation=bare_prob < BARE_MENTION_DEVIATION_RATE,
+        )
+
+    primary = max(detected, key=lambda fp: fp.frequency)
+    prob = exp["formula_probabilities"].get(primary.pattern, 0.0)
+    return MentionAnalysis(
+        line_num=mention["line_num"],
+        character=character,
+        line=mention["line"],
+        mention_type="formulaic",
+        probability=prob,
+        surprisal=surprisal(prob),
+        is_deviation=prob < RARE_FORMULA_THRESHOLD,
+        detected_formulae=[fp.original for fp in detected],
+        primary_formula=primary.original,
     )
-    
-    return {
-        'mention': mention,
-        'detected_formulae': detected,
-        'primary_formula': primary_formula,
-        'type': 'formulaic',
-        'probability': formula_prob,
-        'surprisal': calculate_surprisal(formula_prob) if formula_prob > 0 else float('inf'),
-        'is_deviation': formula_prob < 0.1  # Rare formula (less than 10% usage)
-    }
 
-def find_deviations(mentions, formula_patterns, expectations):
-    """
-    Analyze all mentions and find deviations
-    Returns list of mentions with high surprisal
-    """
-    analyses = []
-    
-    for mention in mentions:
-        analysis = analyze_mention_surprisal(mention, formula_patterns, expectations)
-        if analysis:
-            analyses.append(analysis)
-    
-    return analyses
 
-def identify_high_surprisal_moments(analyses, surprisal_threshold=3.0):
-    """
-    Find moments with high surprisal (deviations from expected patterns)
-    Surprisal > 3.0 means probability < 12.5%
-    """
-    high_surprisal = [a for a in analyses if a['surprisal'] > surprisal_threshold]
-    high_surprisal.sort(key=lambda x: x['surprisal'], reverse=True)
-    
-    return high_surprisal
+def score_all(
+    mentions: list[dict],
+    formula_patterns: dict[str, list[FormulaPattern]],
+    expectations: dict[str, dict],
+) -> list[MentionAnalysis]:
+    return [
+        a for m in mentions
+        if (a := score_mention(m, formula_patterns, expectations)) is not None
+    ]
 
-def generate_deviation_report(analyses, high_surprisal, database, output_file='deviation_report.txt'):
-    """
-    Generate comprehensive deviation analysis report
-    """
-    with open(output_file, 'w', encoding='utf-8') as f:
-        f.write("="*80 + "\n")
-        f.write("HOMERIC FORMULA DEVIATION ANALYSIS\n")
-        f.write("Detecting Moments Where Homer Breaks Formulaic Patterns\n")
-        f.write("="*80 + "\n\n")
-        
-        # Overall statistics
-        total_mentions = len(analyses)
-        formulaic = len([a for a in analyses if a['type'] == 'formulaic'])
-        bare = len([a for a in analyses if a['type'] == 'bare_mention'])
-        deviations = len([a for a in analyses if a.get('is_deviation', False)])
-        
-        f.write("OVERALL STATISTICS:\n")
-        f.write(f"  Total character mentions analyzed: {total_mentions}\n")
-        f.write(f"  Formulaic mentions: {formulaic} ({formulaic/total_mentions*100:.1f}%)\n")
-        f.write(f"  Bare mentions (no formula): {bare} ({bare/total_mentions*100:.1f}%)\n")
-        f.write(f"  Identified deviations: {deviations} ({deviations/total_mentions*100:.1f}%)\n\n")
-        
-        # High surprisal moments
-        f.write("="*80 + "\n")
-        f.write(f"HIGH SURPRISAL MOMENTS (Top {min(50, len(high_surprisal))})\n")
-        f.write("These are moments where Homer's formula usage is most unexpected\n")
-        f.write("="*80 + "\n\n")
-        
-        for i, analysis in enumerate(high_surprisal[:50], 1):
-            mention = analysis['mention']
-            f.write(f"\n{i}. Line {mention['line_num']}: {mention['character']}\n")
-            f.write(f"   Surprisal: {analysis['surprisal']:.2f} bits\n")
-            f.write(f"   Probability: {analysis['probability']*100:.2f}%\n")
-            
-            if analysis['type'] == 'bare_mention':
-                f.write(f"   Type: BARE MENTION (no formula)\n")
+
+def high_surprisal(
+    analyses: list[MentionAnalysis],
+    threshold: float = HIGH_SURPRISAL_THRESHOLD,
+) -> list[MentionAnalysis]:
+    flagged = [a for a in analyses if a.surprisal > threshold]
+    flagged.sort(key=lambda a: a.surprisal, reverse=True)
+    return flagged
+
+
+# Output
+
+def _fmt(s: float) -> str:
+    return "inf" if math.isinf(s) else f"{s:.2f}"
+
+
+def write_report(
+    analyses: list[MentionAnalysis],
+    flagged: list[MentionAnalysis],
+    database: dict,
+    path: str | Path = "deviation_report.txt",
+) -> None:
+    total = len(analyses)
+    if total == 0:
+        print("No analyses to report.", file=sys.stderr)
+        return
+
+    formulaic_n = sum(1 for a in analyses if a.mention_type == "formulaic")
+    bare_n = total - formulaic_n
+    deviation_n = sum(1 for a in analyses if a.is_deviation)
+    sep = "=" * 80
+
+    with Path(path).open("w", encoding="utf-8") as fh:
+        fh.write(f"{sep}\nHOMERIC FORMULA DEVIATION ANALYSIS\n{sep}\n\n")
+        fh.write(f"Total mentions   : {total}\n")
+        fh.write(f"Formulaic        : {formulaic_n} ({formulaic_n/total*100:.1f}%)\n")
+        fh.write(f"Bare             : {bare_n} ({bare_n/total*100:.1f}%)\n")
+        fh.write(f"Flagged          : {deviation_n} ({deviation_n/total*100:.1f}%)\n\n")
+        fh.write(f"{sep}\n")
+        fh.write(f"HIGH-SURPRISAL MOMENTS (> {HIGH_SURPRISAL_THRESHOLD} bits, top {REPORT_TOP_N})\n")
+        fh.write(f"{sep}\n\n")
+
+        for i, a in enumerate(flagged[:REPORT_TOP_N], 1):
+            fh.write(f"{i:>3}. Line {a.line_num}: {a.character}\n")
+            fh.write(f"     Surprisal : {_fmt(a.surprisal)} bits\n")
+            fh.write(f"     P(formula): {a.probability*100:.2f}%\n")
+            if a.mention_type == "bare_mention":
+                fh.write("     Type      : BARE MENTION\n")
             else:
-                f.write(f"   Formula used: {analysis['primary_formula']['original']}\n")
-                f.write(f"   Formula type: {analysis['primary_formula']['type']}\n")
-                f.write(f"   Semantic: {analysis['primary_formula']['semantic']}\n")
-            
-            f.write(f"   Line: {mention['line']}\n")
-            
-            # Context hint
-            if 'context' in mention:
-                f.write(f"   Context: {mention['context']}\n")
-        
-        # By character breakdown
-        f.write("\n" + "="*80 + "\n")
-        f.write("DEVIATIONS BY CHARACTER\n")
-        f.write("="*80 + "\n\n")
-        
-        for character in database.keys():
-            char_analyses = [a for a in analyses if a['mention']['character'] == character]
-            char_deviations = [a for a in char_analyses if a.get('is_deviation', False)]
-            
-            if char_analyses:
-                f.write(f"\n{character}:\n")
-                f.write(f"  Total mentions: {len(char_analyses)}\n")
-                f.write(f"  Deviations: {len(char_deviations)} ({len(char_deviations)/len(char_analyses)*100:.1f}%)\n")
-                
-                # Show top 3 most surprising for this character
-                char_high = sorted(char_analyses, key=lambda x: x['surprisal'], reverse=True)[:3]
-                f.write(f"  Most surprising moments:\n")
-                for ca in char_high:
-                    f.write(f"    Line {ca['mention']['line_num']}: surprisal {ca['surprisal']:.2f}\n")
-    
-    print(f"\n✓ Deviation report saved to {output_file}")
+                fh.write(f"     Formula   : {a.primary_formula}\n")
+            fh.write(f"     Line      : {a.line}\n\n")
 
-def save_deviation_data(analyses, high_surprisal, output_file='deviation_analysis.json'):
-    """Save deviation analysis data as JSON for further processing"""
-    
-    # Convert to serialisable format
-    serializable_analyses = []
-    for analysis in analyses:
-        entry = {
-            'line_num': analysis['mention']['line_num'],
-            'character': analysis['mention']['character'],
-            'line': analysis['mention']['line'],
-            'type': analysis['type'],
-            'probability': analysis['probability'],
-            'surprisal': analysis['surprisal'] if analysis['surprisal'] != float('inf') else 999,
-            'is_deviation': analysis.get('is_deviation', False)
-        }
-        
-        if analysis['type'] == 'formulaic':
-            entry['detected_formulae'] = [f['original'] for f in analysis['detected_formulae']]
-            entry['primary_formula'] = analysis['primary_formula']['original']
-        
-        serializable_analyses.append(entry)
-    
-    data = {
-        'all_analyses': serializable_analyses,
-        'high_surprisal_count': len(high_surprisal),
-        'high_surprisal_threshold': 3.0
-    }
-    
-    with open(output_file, 'w', encoding='utf-8') as f:
-        json.dump(data, f, ensure_ascii=False, indent=2)
-    
-    print(f"✓ Deviation data saved to {output_file}")
+        fh.write(f"{sep}\nBY CHARACTER\n{sep}\n\n")
+        for character in database:
+            char = [a for a in analyses if a.character == character]
+            if not char:
+                continue
+            devs = [a for a in char if a.is_deviation]
+            top3 = sorted(char, key=lambda a: a.surprisal, reverse=True)[:3]
+            fh.write(f"{character}:\n")
+            fh.write(f"  Mentions   : {len(char)}\n")
+            fh.write(f"  Deviations : {len(devs)} ({len(devs)/len(char)*100:.1f}%)\n")
+            for a in top3:
+                fh.write(f"    Line {a.line_num}: {_fmt(a.surprisal)} bits\n")
+            fh.write("\n")
+
+    print(f"Saved deviation_report.txt")
+
+
+def write_json_export(
+    analyses: list[MentionAnalysis],
+    flagged: list[MentionAnalysis],
+    path: str | Path = "deviation_analysis.json",
+) -> None:
+    def _s(v: float) -> Optional[float]:
+        return None if math.isinf(v) else v   # null in JSON, not 999
+
+    with Path(path).open("w", encoding="utf-8") as fh:
+        json.dump({
+            "all_analyses": [
+                {
+                    "line_num": a.line_num,
+                    "character": a.character,
+                    "line": a.line,
+                    "type": a.mention_type,
+                    "probability": a.probability,
+                    "surprisal": _s(a.surprisal),
+                    "is_deviation": a.is_deviation,
+                    "detected_formulae": a.detected_formulae,
+                    "primary_formula": a.primary_formula,
+                }
+                for a in analyses
+            ],
+            "high_surprisal_count": len(flagged),
+            "high_surprisal_threshold_bits": HIGH_SURPRISAL_THRESHOLD,
+        }, fh, ensure_ascii=False, indent=2)
+    print(f"Saved deviation_analysis.json")
+
+
+# Entry point
 
 if __name__ == "__main__":
-    print("Homeric Formula Deviation Detection Engine - Phase 2")
-    print("="*80 + "\n")
-    
-    # Load data
-    print("Loading formula database...")
-    database = load_formula_database('formulae_database.json')
-    
-    print("Loading character mentions...")
-    mentions = load_mentions('homer_analysis.json')
-    
-    print(f"Loaded {len(mentions)} mentions across {len(database)} characters\n")
-    
-    # Build formula patterns
-    print("Building formula patterns...")
-    formula_patterns = build_formula_patterns(database)
-    
-    # Calculate expectations
-    print("Calculating formula expectations...")
-    expectations = calculate_formula_expectations(mentions, formula_patterns, database)
-    
-    # Analyse all mentions
-    print("Analyzing all mentions for deviations...")
-    analyses = find_deviations(mentions, formula_patterns, expectations)
-    
-    # Find high surprisal moments
-    print("Identifying high surprisal moments...")
-    high_surprisal = identify_high_surprisal_moments(analyses, surprisal_threshold=3.0)
-    
-    print(f"\nFound {len(high_surprisal)} high surprisal moments\n")
-    
-    # Generate reports
-    print("Generating deviation report...")
-    generate_deviation_report(analyses, high_surprisal, database, 'deviation_report.txt')
-    save_deviation_data(analyses, high_surprisal, 'deviation_analysis.json')
-    
-    print("\n" + "="*80)
-    print("PHASE 2 COMPLETE!")
-    print("="*80)
-    print("\nFiles created:")
-    print("  1. deviation_report.txt - Human-readable analysis")
-    print("  2. deviation_analysis.json - Data for visualization/further analysis")
-    print("\nNext: Phase 3 will map these deviations to narrative structure")
-    print("(deaths, recognitions, turning points, emotional climaxes)")
-    print("="*80)
+    print("Homeric Formula Deviation Engine\n" + "=" * 80)
+
+    try:
+        database = load_formula_database()
+        mentions = load_mentions()
+    except (FileNotFoundError, KeyError, ValueError) as exc:
+        print(f"ERROR: {exc}", file=sys.stderr)
+        sys.exit(1)
+
+    print(f"Loaded {len(mentions)} mentions, {len(database)} characters")
+
+    patterns = build_formula_patterns(database)
+    expectations = build_expectations(mentions, patterns)
+    analyses = score_all(mentions, patterns, expectations)
+    flagged = high_surprisal(analyses)
+
+    print(f"Found {len(flagged)} high-surprisal moments (> {HIGH_SURPRISAL_THRESHOLD} bits)\n")
+
+    write_report(analyses, flagged, database)
+    write_json_export(analyses, flagged)
+
+    print("\n" + "=" * 80 + "\nDone.")
