@@ -1,7 +1,6 @@
 """
 Homeric Formula Vocabulary Builder
-Automatically extracts repeated patterns around character names
-and presents them for review and categorisation
+Automatically extracts repeated patterns around character names + presents them for review and categorisation
 """
 
 import json
@@ -9,7 +8,7 @@ from collections import Counter, defaultdict
 import re
 
 def load_analysis_results(filepath='homer_analysis.json'):
-    """Load the results from phase 1"""
+    """Load results from phase 1"""
     with open(filepath, 'r', encoding='utf-8') as f:
         return json.load(f)
 

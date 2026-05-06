@@ -1,6 +1,6 @@
 """
 Interactive Formula Review Assistant
-Guides you through categorising formulaic patterns
+Guides through categorising formulaic patterns
 """
 
 import json
@@ -19,8 +19,7 @@ def save_reviewed_formulae(data, filepath='formulae_database.json'):
 
 def categorize_batch_patterns():
     """
-    Batch categorization based on pattern recognition
-    This pre-fills obvious categories to save time
+    Batch categorisation based on pattern recognition
     """
     
     template = load_review_template()
@@ -71,7 +70,7 @@ def categorize_batch_patterns():
                 stats['needs_review'] += 1
     
     print("\n" + "="*70)
-    print("AUTO-CATEGORIZATION RESULTS")
+    print("AUTO-CATEGORISATION RESULTS")
     print("="*70)
     for category, count in sorted(stats.items()):
         print(f"{category}: {count} patterns")
@@ -154,8 +153,7 @@ def interactive_review_remaining(template):
 
 def generate_clean_formula_database(template):
     """
-    Generate , confirmed-only formula database
-    Organised by character and formula type
+    Generate confirmed-only formula database  -> organised by character + formual type
     """
     
     database = {}
@@ -210,12 +208,8 @@ def print_summary_statistics(database):
 if __name__ == "__main__":
     print("Interactive Formula Review Assistant")
     print("="*70)
-    
-    # Step 1: Auto-categorise obvious patterns
     print("\nStep 1: Automatic categorization of obvious patterns...")
     template, stats = categorize_batch_patterns()
-    
-    # Ask if you want interactive review
     print("\n" + "="*70)
     if stats['needs_review'] > 0:
         print(f"\n{stats['needs_review']} patterns need manual review.")
@@ -226,17 +220,12 @@ if __name__ == "__main__":
     else:
         print("\n✓ All patterns have been auto-categorized!")
     
-    # Step 2: Generate clean database
     print("\nStep 2: Generating clean formula database...")
     database = generate_clean_formula_database(template)
     
-    # Step 3: Save both versions
     save_reviewed_formulae(template, 'formula_review_complete.json')
     save_reviewed_formulae(database, 'formulae_database.json')
-    
-    # Step 4: Print summary
     print_summary_statistics(database)
-    
     print("\n" + "="*70)
     print("FILES CREATED:")
     print("="*70)

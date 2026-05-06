@@ -1,6 +1,6 @@
 """
 Homeric Formulaic Pattern Analyzer
-Phase 1: Extract and analyze character epithets in Iliad
+Phase 1: Extract + analyse character epithets in Iliad
 
 This script:
 1. Fetches the Greek text of Iliad (in Beta Code from Perseus)

@@ -32,7 +32,6 @@ def inspect_xml(filepath='iliad_book1.xml'):
             for j, char in enumerate(line_text[:20]):
                 print(f"    [{j}] {char} = U+{ord(char):04X}")
     
-    # Search for Achilles in various forms
     print("\n" + "="*70)
     print("SEARCHING FOR ACHILLES...")
     print("="*70)
