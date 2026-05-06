@@ -225,7 +225,7 @@ homeric-formula-deviation/
 
 ---
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 **Huge thanks to:**
 - **The Perseus Digital Library** - For making Ancient Greek texts freely accessible and computationally usable. This project would not exist without Perseus. Their commitment to open-access classical scholarship is inspiring.
